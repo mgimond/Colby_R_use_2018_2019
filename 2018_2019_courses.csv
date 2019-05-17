@@ -1,0 +1,1587 @@
+Term,Course,Section,Cr,Days,Times,Title,DistReq,Diversity,Room,Reg,Max,Exam,Faculty
+Fall,AA237,A,4,MW, 1:00pm- 2:15pm,Introduction to the Francophone World: Africa (See FR238),,I , ,0, , ,Niang      
+Fall,AA247,A,4,TR, 2:30pm- 3:45pm,"African-American History, from Slavery to Freedom (See HI247)",H,U , ,0, , ,Weisbrot   
+Fall,AA252,A,4,TR, 9:30am-10:45am,"Race, Ethnicity, and Society (See SO252)",,U , ,0, , ,Gilkes     
+Fall,AA255,A,4,MW,11:00am-12:15pm,Introduction to African Politics (See GO255),S,I , ,0, , ,Seay       
+Fall,AA297,A,4,TR, 1:00pm- 2:15pm,Introduction to African History to 1880 (See HI297B),H,I , ,0, , ,Duff       
+Fall,AA333,A,4,W, 1:00pm- 3:30pm,Contemporary Theory (See AY333),, , ,0, , ,Bhimull    
+Fall,AA344,A,4,M, 1:00pm- 3:30pm,Black Radical Imaginations (See AY344),, , ,0, , ,Bhimull    
+Fall,AA352,A,4,MWF,12:00n -12:50pm,Hang and Rattle: The West in the American Imaginary (See EN352),L,U , ,0, , ,Bryant     
+Fall,AA355,A,4,T, 7:00pm- 9:30pm,African-American Women and Social Change (See SO355),,U , ,0, , ,Gilkes     
+Fall,AA357,A,4,T, 7:00pm- 9:30pm,"Civil Rights, Black Power, and Social Change (See SO357)",S,U , ,0, , ,Gilkes     
+Fall,AM171,A,4,MW, 2:30pm- 3:45pm,Introduction to American Studies,,U ,MILL 008,24,24,0,Lisle      
+Fall,AM229,A,4,MW,11:00am-12:15pm,"Art, Community, and Ethical Urban Development",, ,ALCM 205,13,10,0,Lisle      
+Fall,AM258,A,4,WF, 2:30pm- 3:45pm,American Art 1650-1900 (See AR158),A, , ,0, , ,Sperling   
+Fall,AM285,A,4,TR, 9:30am-10:45am,History of Photography (See AR285),A, , ,0, , ,Saltz      
+Fall,AM297,A,4,TR, 2:30pm- 3:45pm,Introduction to Asian American Studies,,U ,MILL 241,10,15,5,Fugikawa   
+Fall,AM344,A,4,M, 1:00pm- 3:30pm,Black Radical Imaginations (See AY344),, , ,0, , ,Bhimull    
+Fall,AM393,A,4,TR, 1:00pm- 2:15pm,Junior Seminar: Theories of Culture,,U ,MILL 253,13,15,0,Saltz      
+Fall,AN158,A,3 to 4,TR, 9:30am-10:45am,Greek History,H, ,LOVE 208,26,30,7,Welser     
+Fall,AN297,A,4,TR, 1:00pm- 2:15pm,Life in the Ancient City,H, ,LOVE 211,20,30,11,Welser     
+Fall,AR101W,A,4,TR, 1:00pm- 2:15pm,Reading Images,W1, ,BIXL 154,15,16, ,Ameri      
+Fall,AR111,A,4,TR,11:00am-12:15pm,Introduction to Western Art: Prehistory through the Middle Ages,A, ,BIXL 154,26,25,0,Plesch     
+Fall,AR113D,A,3,,TBA,Dijon through its Art and Architecture,A, , ,19, , ,Weiss      
+Fall,AR131,A,4,MW, 2:00pm- 3:50pm,Introduction to Studio Art,A, ,BIXL 283,17,16,0,Mitchell   
+Fall,AR146S,A,4,,TBA,Cine Esp Hispanoamericano,A, , ,22, , ,Instructor 
+Fall,AR158,A,4,WF, 2:30pm- 3:45pm,"American Art, 1650-1900",A, ,BIXL 154,23,25,15,Sperling   
+Fall,AR174,A,4,MWF, 9:00am- 9:50am,"East Asian Art and Architecture, 1300 to the Present",A, ,BIXL 154,24,25,4,Weitz      
+Fall,AR215,A,4,TR, 2:30pm- 3:45pm,Art and Archaeology of the Ancient Near East and Egypt,A, ,BIXL 154,14,25,5,Ameri      
+Fall,AR216,A,4,WF, 1:00pm- 2:15pm,"Facing America: Race and Representation, 1492 to the Present",A,U ,BIXL 154,20,25,0,Sperling   
+Fall,AR221,A,4,TR, 9:00am-10:50am,Drawing I,A, ,BIXL 225,13,15,0,"Engman, B  "
+Fall,AR228,A,4,MW,11:00am-12:50pm,Print and Digital Media I,, ,BIXL 302,13,15,0,Lilleston  
+Fall,AR241,A,4,TR, 2:00pm- 3:50pm,Painting I,, ,BIXL 250,16,16,0,"Engman, B  "
+Fall,AR265,A,4,MW, 2:00pm- 3:50pm,Sculpture I: Architecture and Site,, ,BIXL 117,15,16,0,Borthwick  
+Fall,AR266,A,4,MW,11:00am-12:50pm,Sculpture II: Artifact and Archive,, ,BIXL 117,9,16,0,Borthwick  
+Fall,AR278,A,4,MW,11:00am-12:15pm,19th-Century European Art,A, ,BIXL 154,13,25,0,Harkett    
+Fall,AR281,A,4,TR,11:00am-12:50pm,Photography I,, ,BIXL 278,12,12,0,Green      
+Fall,AR285,A,4,TR, 9:30am-10:45am,History of Photography,A, ,RUNN 203,14,25,7,Saltz      
+Fall,AR328,A,4,MW, 2:00pm- 3:50pm,Print and Digital Media III,, ,BIXL 302,7,15,0,Lilleston  
+Fall,AR341,A,4,TR,11:00am-12:50pm,Painting III,, ,BIXL 250,8,16,0,"Engman, B  "
+Fall,AR342,A,4,TR,11:00am-12:50pm,Painting IV,, ,BIXL 250,0,16,0,"Engman, B  "
+Fall,AR378,A,4,W, 1:00pm- 3:30pm,Chinese Visual Culture,, ,BIXL 102,7,12,0,Weitz      
+Fall,AR381,A,4,TR, 2:00pm- 3:50pm,Photography III: Color and Digital Photography,, ,BIXL 278,7,12,0,Green      
+Fall,AR382,A,4,TR, 2:00pm- 3:50pm,Photography IV,, ,BIXL 278,3,12,0,Green      
+Fall,AR401,A,2,M, 7:00pm- 9:30pm,Studio Art Capstone,, ,BIXL 270,12,15,0,Mitchell   
+Fall,AR441,A,4,TR,11:00am-12:50pm,Painting V,, ,BIXL 250,2,16,0,"Engman, B  "
+Fall,AR442,A,4,TR,11:00am-12:50pm,Painting VI,, ,BIXL 250,0,16,0,"Engman, B  "
+Fall,AR443,A,4,TR,11:00am-12:50pm,Painting VII,, ,BIXL 250,0,16,0,"Engman, B  "
+Fall,AR474,A,4,R, 7:00pm- 9:30pm,"Graffiti, Past and Present",, ,BIXL 102,12,12,0,Plesch     
+Fall,AR481,A,4,TR, 2:00pm- 3:50pm,Photography V,, ,BIXL 278,0,12,0,Green      
+Fall,AR482,A,4,TR, 2:00pm- 3:50pm,Photography VI,, ,BIXL 278,1,12,0,Green      
+Fall,AR485,A,4,TR, 2:00pm- 3:50pm,Photography VII,, ,BIXL 278,0,12,0,Green      
+Fall,AR494,A,4,M, 1:00pm- 3:30pm,Senior Research Seminar in Art History,W3, ,BIXL 102,8,12,0,Harkett    
+Fall,AR546S,A,4,,TBA,Cine Esp Hispanoamericano,, , ,2, , ,Instructor 
+Fall,AS231,A,4,MWF,10:00am-10:50am,Introduction to Astrophysics,"N,Lb", ,MUDD 311,14,18,16,McGrath    
+Fall,AS231,A,4,R, 1:00pm- 3:50pm,Introduction to Astrophysics,"N,Lb", ,KEYE 114,14,18,16,McGrath    
+Fall,AS335,A,4,MTWF, 9:00am- 9:50am,General Relativity and Cosmology (See PH335),, , ,0, , ,Bluhm      
+Fall,AY112,A,4,MWF,10:00am-10:50am,Cultural Anthropology,S,I ,DIAM 145,29,30,0,Halvorson  
+Fall,AY112,B,4,TR, 9:30am-10:45am,Cultural Anthropology,S,I ,DIAM 145,30,30,7,Menair     
+Fall,AY112,C,4,TR,11:00am-12:15pm,Cultural Anthropology,S,I ,DIAM 145,29,30,0,Razsa      
+Fall,AY232,A,2,F, 1:00pm- 2:15pm,Oral History Ethnographic Research Lab: Waterville Main Street,, ,DIAM 323,4,10,0,"Tate, W    "
+Fall,AY236,A,4,WF,11:00am-12:15pm,"Illegal Drugs, Law, and the State",, ,DIAM 323,19,20,2,"Tate, W    "
+Fall,AY244,A,4,MW,11:00am-12:15pm,Anthropology of Religion,,I ,DIAM 241,12,20,2,Strohl     
+Fall,AY253,A,4,WF, 1:00pm- 2:15pm,"Goods, Gifts, and Globalizing Consumers (See GS253)",, , ,0, , ,Halvorson  
+Fall,AY256,A,4,TR, 2:30pm- 3:45pm,"Land, Food, Culture, and Power",, ,DIAM 343,16,20,0,MillsMaryB 
+Fall,AY268,A,4,MW, 1:00pm- 2:15pm,Politics of Satire and Humor in Modern China (See EA268),S,I , ,0, , ,Zhang      
+Fall,AY297,A,4,TR, 2:30pm- 3:45pm,Gender Ideologies in Discourse,, ,DIAM 243,4,18,5,Menair     
+Fall,AY313,A,4,T, 1:00pm- 3:30pm,Researching Cultural Diversity,, ,DIAM 323,13,15,11,Strohl     
+Fall,AY333,A,4,W, 1:00pm- 3:30pm,Contemporary Theory,, ,DIAM 243,11,15,0,Bhimull    
+Fall,AY339,A,4,TR,11:00am-12:15pm,Asian Pacific Modernities,, ,DIAM 323,7,15,0,MillsMaryB 
+Fall,AY344,A,4,M, 1:00pm- 3:30pm,Black Radical Imaginations,, ,DIAM 323,11,15,0,Bhimull    
+Fall,AY365,A,4,W, 1:00pm- 3:30pm,"Space, Place, and Belonging",, ,DIAM 323,9,15,0,"Tate, W    "
+Fall,AY457,A,4,T, 7:00pm- 9:30pm,"Insurgent Mobility Lab: Migrants, Activists, the Balkan Route (See GS457)",S,I , ,0, , ,Razsa      
+Fall,BC362,A,4,TR, 8:00am- 9:15am,Medical Biochemistry,, ,KEYE 105,26,20,9,Millard    
+Fall,BC362 D,A,,F, 8:00am- 8:50am,Disc:Medical Biochemistry,, ,LOVE 119,14,20, ,Millard    
+Fall,BC362 D,B,,F, 9:00am- 9:50am,Disc:Medical Biochemistry,, ,LOVE 119,12,20, ,Millard    
+Fall,BC367,A,4 to 5,TR, 9:30am-10:45am,Biochemistry of the Cell I,, ,KEYE 105,23,36,7,Rice       
+Fall,BC367,A,4 to 5,F,12:00n -12:50pm,Biochemistry of the Cell I,, ,AREY 005,23,36,7,Rice       
+Fall,BC367 L,A,,T,12:30pm- 4:30pm,Lab: Cell Biochemistry I,, ,KEYE 303,10,12, ,Hepburn    
+Fall,BC367 L,B,,W,12:30pm- 4:30pm,Lab: Cell Biochemistry I,, ,KEYE 303,10,12, ,Hepburn    
+Fall,BI147,A,4,TR,11:00am-12:15pm,Anatomy and Physiology of Yoga and Mindful Practice,"N,Lb", ,DIAM 242,12,16,1,Klepach    
+Fall,BI147,A,4,R, 1:00pm- 3:50pm,Anatomy and Physiology of Yoga and Mindful Practice,"N,Lb", ,AREY 205,12,16,1,Klepach    
+Fall,BI163,A,4,MWF, 9:00am- 9:50am,The Cellular Basis of Life,"N,Lb", ,LOVE 100,58,48,4,Tilden     
+Fall,BI163,B,4,MWF, 9:00am- 9:50am,The Cellular Basis of Life,"N,Lb", ,OLIN 001,56,48,4,Ahmad      
+Fall,BI163,C,4,MWF,11:00am-11:50am,The Cellular Basis of Life,"N,Lb", ,OLIN 001,51,48,2,Martin     
+Fall,BI163,D,4,MWF,12:00n -12:50pm,The Cellular Basis of Life,"N,Lb", ,OLIN 001,53,48,12,Peck       
+Fall,BI163 L,A1,,M, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 202,15,16, ,Guay       
+Fall,BI163 L,A2,,M, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 201,18,16, ,Bade       
+Fall,BI163 L,B1,,T, 8:00am-10:50am,Lab:Cell'r Basis of Life,, ,AREY 202,18,16, ,Guay       
+Fall,BI163 L,B2,,T, 8:00am-10:50am,Lab:Cell'r Basis of Life,, ,AREY 201,18,16, ,"Graham, S  "
+Fall,BI163 L,C1,,T, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 202,19,16, ,Beachy     
+Fall,BI163 L,C2,,T, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 201,20,16, ,Bade       
+Fall,BI163 L,D1,,W, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 202,17,16, ,Robe       
+Fall,BI163 L,D2,,W, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 201,19,16, ,Bade       
+Fall,BI163 L,E1,,R, 8:00am-10:50am,Lab:Cell'r Basis of Life,, ,AREY 202,19,16, ,Guay       
+Fall,BI163 L,E2,,R, 8:00am-10:50am,Lab:Cell'r Basis of Life,, ,AREY 201,18,16, ,"Graham, S  "
+Fall,BI163 L,F1,,R, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 202,18,16, ,Beachy     
+Fall,BI163 L,F2,,R, 1:00pm- 3:50pm,Lab:Cell'r Basis of Life,, ,AREY 201,19,16, ,Bade       
+Fall,BI227,A,4,TR,11:00am-12:15pm,Cell Biology,, ,OLIN 001,29,32,1,Moloney    
+Fall,BI227 L,A,,T, 1:00pm- 4:00pm,Lab: Cell Biology,, ,AREY 305,14,16, ,Moloney    
+Fall,BI227 L,B,,W, 1:00pm- 4:00pm,Lab: Cell Biology,, ,AREY 305,15,16, ,Moloney    
+Fall,BI237,A,4,MWF, 9:00am- 9:50am,Woody Plants,, ,LOVE 215,23,32,4,"Stone, J.  "
+Fall,BI237 L,A,,T, 1:00pm- 3:50pm,Lab: Woody Plants,, ,OLIN 314,15,16, ,"Stone, J.  "
+Fall,BI237 L,B,,W, 1:00pm- 3:50pm,Lab: Woody Plants,, ,OLIN 314,8,16, ,"Stone, J.  "
+Fall,BI246,A,3,MWF, 9:00am- 9:50am,Parasitology,, ,OLIN 335,11,24,4,Peck       
+Fall,BI248,A,4,TR, 9:30am-10:45am,Microbiology,, ,KEYE 103,18,36,7,Childers   
+Fall,BI248 L,A,,T, 1:00pm- 4:00pm,Lab: Microbiology,, ,AREY 307,13,18, ,Childers   
+Fall,BI248 L,B,,R, 1:00pm- 4:00pm,Lab: Microbiology,, ,AREY 307,5,18, ,Childers   
+Fall,BI271,A,4,MWF, 8:00am- 8:50am,Introduction to Ecology,"N,Lb", ,OLIN 001,47,48,13,Becknell   
+Fall,BI271,B,4,MWF, 9:00am- 9:50am,Introduction to Ecology,"N,Lb", ,AREY 005,48,48,4,"Moore, C   "
+Fall,BI271 L,A1,,T, 1:00pm- 4:50pm,Lab: Intro to Ecology,, ,OLIN 213,16,16, ,Staffiere  
+Fall,BI271 L,A2,,T, 1:00pm- 4:50pm,Lab: Intro to Ecology,, ,OLIN 223,16,16, ,Pearson    
+Fall,BI271 L,B1,,W, 1:00pm- 4:50pm,Lab: Intro to Ecology,, ,OLIN 213,16,16, ,Staffiere  
+Fall,BI271 L,B2,,W, 1:00pm- 4:50pm,Lab: Intro to Ecology,, ,OLIN 223,16,16, ,Pearson    
+Fall,BI271 L,C1,,R, 1:00pm- 4:50pm,Lab: Intro to Ecology,, ,OLIN 213,16,16, ,Becknell   
+Fall,BI271 L,C2,,R, 1:00pm- 4:50pm,Lab: Intro to Ecology,, ,OLIN 223,15,16, ,"Moore, C   "
+Fall,BI274,A,4,MWF,12:00n -12:50pm,Neurobiology,, ,LOVE 100,36,36,12,Ahmad      
+Fall,BI274 L,A,,T, 1:00pm- 4:00pm,Laboratory: Neurobiology,, ,OLIN 332,13,12, ,Chiriboga  
+Fall,BI274 L,B,,W, 1:00pm- 4:00pm,Laboratory: Neurobiology,, ,OLIN 332,12,12, ,Chiriboga  
+Fall,BI274 L,C,,R, 1:00pm- 4:00pm,Laboratory: Neurobiology,, ,OLIN 332,11,12, ,Chiriboga  
+Fall,BI278,A,4,MWF,10:00am-10:50am,Genomics,, ,OLIN 335,12,12,16,Noh        
+Fall,BI278,A,4,M, 1:00pm- 4:00pm,Genomics,, ,OLIN 314,12,12,16,Noh        
+Fall,BI279,A,4,MWF,11:00am-11:50am,Genetics,, ,LOVE 205,21,24,2,van Oers   
+Fall,BI279 L,A,,W, 1:00pm- 4:00pm,Laboratory: Genetics,, ,AREY 001,10,12, ,Angelini   
+Fall,BI279 L,B,,R, 1:00pm- 4:00pm,Laboratory: Genetics,, ,AREY 001,11,12, ,van Oers   
+Fall,BI325,A,3,M, 1:00pm- 3:50pm,Advanced Immunology,, ,OLIN 335,5,12,0,Hannum     
+Fall,BI332,A,3,TR,11:00am-12:15pm,Developmental Biology,, ,KEYE 103,3,24,1,Angelini   
+Fall,BI334,A,4,TR, 9:30am-10:45am,Ornithology,, ,OLIN 001,26,24,6,Wilson     
+Fall,BI334 L,A,,T, 1:00pm- 4:00pm,Lab: Ornithology,, ,AREY 207,13,12, ,Wilson     
+Fall,BI334 L,B,,W, 1:00pm- 4:00pm,Lab: Ornithology,, ,AREY 207,13,12, ,Wilson     
+Fall,BI354,A,3,TR,11:00am-12:15pm,Marine Ecology,, ,OLIN 335,11,18,1,Wilson     
+Fall,BI362,A,4,TR, 8:00am- 9:15am,Medical Biochemistry (See BC362),, , ,0, , ,Millard    
+Fall,BI367,A,4 to 5,TR, 9:30am-10:45am,Biochemistry of the Cell I (See BC367),, , ,0, , ,Rice       
+Fall,BI367,A,4 to 5,F,12:00n -12:50pm,Biochemistry of the Cell I (See BC367),, , ,0, , ,Rice       
+Fall,BI373,A,3,MWF,11:00am-11:50am,Animal Behavior,, ,MILL 008,20,25,2,Bevier     
+Fall,BI374,A,3 to 4,TR, 9:30am-10:45am,Advanced Neurobiology,, ,OLIN 335,11,16,7,Martin     
+Fall,BI374 L,A,,M, 1:00pm- 4:00pm,Optional Lab: Advanced Neurobiology,, ,OLIN 332,3,16, ,Martin     
+Fall,BI401,A,1,F, 1:00pm- 1:50pm,Biology Seminar (Organisms and Societies),, ,LOVE 302,9,12, ,Noh        
+Fall,BI401,B,1,F, 1:00pm- 1:50pm,Biology Seminar (Island Biogeography),, ,OLIN 335,11,12, ,Wilson     
+Fall,BI402S,A,,,TBA,Biology Seminar (Integrative Biology-SP19),, , ,0,12, ,Angelini   
+Fall,BI402S,B,,,TBA,Biology Seminar (Human Evolution-SP19),, , ,0,12, ,"Stone, J.  "
+Fall,BI494,A,5,TR,11:00am-12:15pm,Problems in Environmental Science (See ES494),, , ,0, , ,Bruesewitz Pearson     
+Fall,BI494,A,5,TR, 1:00pm- 5:00pm,Problems in Environmental Science (See ES494),, , ,0, , ,Bruesewitz Pearson     
+Fall,BI494,B,5,TR,11:00am-12:15pm,Problems in Environmental Science (See ES494),, , ,0, , ,"Countway   Neal, B     "
+Fall,BI494,B,5,TR, 1:00pm- 5:00pm,Problems in Environmental Science (See ES494),, , ,0, , ,"Countway   Neal, B     "
+Fall,CH115,A,4,MW,11:00am-12:15pm,The Science of Crime,"N,W1", ,KEYE 103,16,16, ,Millard    
+Fall,CH121,A,4,MWF,10:00am-10:50am,Earth Systems Chemistry I,"N,Lb", ,MILL 008,28,32,16,Koffman    McKinney    
+Fall,CH121 L,A,,W, 1:00pm- 4:00pm,Lab:Earth Systems Chem I,, ,KEYE 409,12,16, ,"McKinney   Sullivan,W  "
+Fall,CH121 L,B,,R, 1:00pm- 4:00pm,Lab:Earth Systems Chem I,, ,KEYE 409,16,16, ,"McKinney   Sullivan,W  "
+Fall,CH141,A,4,MWF, 9:00am- 9:50am,General Chemistry I,"N,Lb", ,KEYE 105,66,62,17,King       
+Fall,CH141,B,4,MWF,10:00am-10:50am,General Chemistry I,"N,Lb", ,KEYE 105,67,62,17,Madison    
+Fall,CH141 L,A,,M, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,20,18, ,"Miller, L  "
+Fall,CH141 L,B1,,T, 8:00am-10:50am,Laboratory: General Chem,, ,KEYE 405,19,18, ,"Miller, L  "
+Fall,CH141 L,B2,,T, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,20,18, ,King       
+Fall,CH141 L,C,,W, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,19,18, ,"Miller, L  "
+Fall,CH141 L,D1,,R, 8:00am-10:50am,Laboratory: General Chem,, ,KEYE 405,17,18, ,Hepburn    
+Fall,CH141 L,D2,,R, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,20,18, ,Hepburn    
+Fall,CH141 L,E,,F, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,18,18, ,"Miller, L  "
+Fall,CH143,A,1,F, 1:00pm- 3:00pm,Turbo Chemistry,, ,KEYE 103,12,12, ,McKinney   
+Fall,CH241,A,4,MWF, 9:00am- 9:50am,Organic Chemistry I,, ,MILL 014,38,40,17,Thamattoor 
+Fall,CH241,B,4,MWF,10:00am-10:50am,Organic Chemistry I,, ,MILL 014,42,40,17,Thamattoor 
+Fall,CH241 L,A,,M, 1:00pm- 4:45pm,Lab: Organic Chem I,, ,KEYE 305,16,16, ,Katz       
+Fall,CH241 L,B,,T, 1:00pm- 4:45pm,Lab: Organic Chem I,, ,KEYE 305,16,16, ,Klinkerch  
+Fall,CH241 L,C,,W, 1:00pm- 4:45pm,Lab: Organic Chem I,, ,KEYE 305,14,16, ,Katz       
+Fall,CH241 L,D1,,R, 8:00am-11:45am,Lab: Organic Chem I,, ,KEYE 305,10,16, ,Klinkerch  
+Fall,CH241 L,D2,,R, 1:00pm- 4:45pm,Lab: Organic Chem I,, ,KEYE 305,16,16, ,Klinkerch  
+Fall,CH241 L,E,,F, 1:00pm- 4:45pm,Lab: Organic Chem I,, ,KEYE 305,9,16, ,Klinkerch  
+Fall,CH331,A,4,TR, 8:00am- 9:15am,Chemical Methods of Analysis,, ,KEYE 104,5,24,14,King       
+Fall,CH331,A,4,R, 1:00pm- 4:50pm,Chemical Methods of Analysis,, ,KEYE 205,5,24,14,King       
+Fall,CH341,A,5,MWF,10:00am-10:50am,Physical Chemistry: Thermodynamics and Kinetics,, ,KEYE 103,13,24,16,Drozd      
+Fall,CH341,A,5,F, 1:00pm- 1:50pm,Physical Chemistry: Thermodynamics and Kinetics,, ,AREY 005,13,24,16,Drozd      
+Fall,CH341 L,A,,M, 1:00pm- 4:50pm,Lab: Physical Chemistry,, ,KEYE 205,4,12, ,Drozd      
+Fall,CH341 L,B,,T, 1:00pm- 4:50pm,Lab: Physical Chemistry,, ,KEYE 205,9,12, ,Madison    
+Fall,CH362,A,4,TR, 8:00am- 9:15am,Medical Biochemistry (See BC362),, , ,0, , ,Millard    
+Fall,CH367,A,4 to 5,TR, 9:30am-10:45am,Biochemistry of the Cell I (See BC367),, , ,0, , ,Rice       
+Fall,CH367,A,4 to 5,F,12:00n -12:50pm,Biochemistry of the Cell I (See BC367),, , ,0, , ,Rice       
+Fall,CH493,A,1,F,11:00am-11:50am,Senior Seminar,, ,DAVI 301,15,30, ,Rice       
+Fall,CH493,A,1,F, 3:00pm- 3:50pm,Senior Seminar,, ,KEYE 105,15,30, ,Rice       
+Fall,CH493,B,1,F,11:00am-11:50am,Senior Seminar (for Juniors),, ,DAVI 301,0,30, ,Rice       
+Fall,CH493,B,1,F, 3:00pm- 3:50pm,Senior Seminar (for Juniors),, ,KEYE 105,0,30, ,Rice       
+Fall,CI142,A,4,MW, 2:30pm- 3:45pm,Introduction to Cinema Studies,A, ,AREY 005,23,25,15,Wurtzler   
+Fall,CI142,A,4,T, 7:00pm-10:00pm,Introduction to Cinema Studies,A, ,AREY 005,23,25,15,Wurtzler   
+Fall,CI242,A,4,TR, 2:30pm- 3:45pm,Back to the Future: Recent Russian Cinema (in English) (See RU242),A,I , ,0, , ,Ansdell    
+Fall,CI242,A,4,M, 7:00pm- 9:00pm,Back to the Future: Recent Russian Cinema (in English) (See RU242),A,I , ,0, , ,Ansdell    
+Fall,CI245,A,4,TR, 2:30pm- 3:45pm,Documentary Video Production: An Editor's Perspective,, ,LOVE 302,12,12,5,"Murphy, E  "
+Fall,CI248,A,4,TR,11:00am-12:15pm,Digital Publishing: Telling Stories Online,A, ,MILL 253,14,15,1,"Murphy, E  "
+Fall,CI321C,A,4,MW,11:00am-12:15pm,Topics in Film Theory: Film Noir,, ,MILL 241,7,15,2,Wurtzler   
+Fall,CI321C,A,4,M, 7:00pm-10:00pm,Topics in Film Theory: Film Noir,, ,AREY 005,7,15,2,Wurtzler   
+Fall,CL161,A,1,,TBA,Reading Greek Philosophy (See PL161),, , ,0, , , 
+Fall,CL297,A,4,TR, 1:00pm- 2:15pm,Life in the Ancient City (See AN297),H, , ,0, , ,Welser     
+Fall,CN115,A,1,T, 3:00pm- 3:50pm,Conversation and Pronunciation,, ,LOVE 423,9,20, ,Chen       
+Fall,CN125,A,5,MTWRF, 9:00am- 9:50am,Elementary Chinese I,, ,LOVE 207,16,20,4,"Wang, F    "
+Fall,CN127,A,4,MTWF,10:00am-10:50am,Intermediate Chinese I,, ,LOVE 207,20,25,16,"Wang, F    "
+Fall,CN135,A,1,R, 4:00pm- 4:50pm,Chinese Conversation I,, ,LOVE 423,7,20, ,Chen       
+Fall,CN235,A,1,W, 4:00pm- 4:50pm,Chinese Conversation II,, ,LOVE 423,3,20, ,Chen       
+Fall,CN321,A,4,MWF,11:00am-11:50am,Third-Year Chinese,, ,LOVE 423,9,20,0,"Wang, F    "
+Fall,CN430,A,4,TR, 1:00pm- 2:15pm,Contemporary Chinese Society,, ,LOVE 423,9,15,11,Zhang      
+Fall,CS151,A,4,MWF,10:00am-10:50am,Computational Thinking: Visual Media,Q, ,LOVE 215,40,48,16,Layton     
+Fall,CS151 L,A,,W, 1:00pm- 2:20pm,Lab: Comp Thnkg: Visual,, ,DAVI 102,21,25, ,"Taylor, St "
+Fall,CS151 L,B,,R, 2:30pm- 3:50pm,Lab: Comp Thnkg: Visual,, ,DAVI 102,19,25, ,"Taylor, St "
+Fall,CS152,A,4,MWF,11:00am-11:50am,Computational Thinking: Science,Q, ,LOVE 213,30,45,2,Codabux    
+Fall,CS152 L,A,,W, 2:30pm- 3:50pm,Lab: Comp Thkg: Science,, ,DAVI 102,13,23, ,Aaron      
+Fall,CS152 L,B,,R, 1:00pm- 2:20pm,Lab: Comp Thkg: Science,, ,DAVI 102,17,23, ,Aaron      
+Fall,CS153,A,4,MWF, 9:00am- 9:50am,Computational Thinking: Smart Systems,Q, ,DIAM 123,18,25,4,"Eaton, C   "
+Fall,CS153 L,A,,W, 1:00pm- 2:20pm,Lab: Comp Thkg:Smart Systems,, ,DAVI 122,8,14, ,Maxwell    
+Fall,CS153 L,B,,W, 2:30pm- 3:50pm,Lab: Comp Thkg:Smart Systems,, ,DAVI 122,10,14, ,Maxwell    
+Fall,CS197,A,1,M, 8:00am- 8:50am,Introduction to <I>R</I>,, ,DAVI 102,4,25, ,Maxwell    
+Fall,CS197,B,1,T, 8:00am- 8:50am,Introduction to <I>R</I>,, ,DAVI 102,11,25, ,Maxwell    
+Fall,CS197,C,1,W, 8:00am- 8:50am,Introduction to <I>R</I>,, ,DAVI 102,6,25, ,Maxwell    
+Fall,CS197,D,1,R, 8:00am- 8:50am,Introduction to <I>R</I>,, ,DAVI 102,5,25, ,Maxwell    
+Fall,CS197,E,1,R, 7:00pm- 7:50pm,Introduction to <I>R</I>,, ,DAVI 102,16,25, ,Maxwell    
+Fall,CS197,F,1,R, 8:00pm- 8:50pm,Introduction to <I>R</I>,, ,DAVI 102,9,25, ,Maxwell    
+Fall,CS231,A,4,MWF, 9:00am- 9:50am,Data Structures and Algorithms,Q, ,LOVE 213,25,30,9,Layton     
+Fall,CS231,B,4,MWF,10:00am-10:50am,Data Structures and Algorithms,Q, ,LOVE 213,14,30,9,Codabux    
+Fall,CS231 L,A,,M, 1:00pm- 2:20pm,Lab: Data Struct/Algrthm,, ,DAVI 102,13,20, ,Maxwell    
+Fall,CS231 L,B,,M, 2:30pm- 3:50pm,Lab: Data Struct/Algrthm,, ,DAVI 102,8,20, ,Aaron      
+Fall,CS231 L,C,,T, 1:00pm- 2:20pm,Lab: Data Struct/Algrthm,, ,DAVI 102,18,20, ,Aaron      
+Fall,CS232,A,4,MWF, 9:00am- 9:50am,Computer Organization,, ,DAVI 117,14,30,6,Maxwell    
+Fall,CS232,B,4,MWF,10:00am-10:50am,Computer Organization,, ,DAVI 117,25,25,6,Maxwell    
+Fall,CS232 L,A,,M, 1:00pm- 2:20pm,Lab: Computer Org,, ,DAVI 122,14,14, ,"Taylor, St "
+Fall,CS232 L,B,,M, 2:30pm- 3:50pm,Lab: Computer Org,, ,DAVI 122,11,14, ,"Taylor, St "
+Fall,CS232 L,C,,T, 2:30pm- 3:50pm,Lab: Computer Org,, ,DAVI 122,14,14, ,"Taylor, St "
+Fall,CS333,A,4,TR, 9:30am-10:45am,Programming Languages,, ,DAVI 117,15,25,11,"Taylor, St "
+Fall,CS333,B,4,TR, 1:00pm- 2:15pm,Programming Languages,, ,DAVI 117,23,25,11,"Taylor, St "
+Fall,CS342,A,4,TR, 2:30pm- 3:45pm,Embedded Systems,, ,MILL 008,26,24,5,"Eaton, C   "
+Fall,CS342,A,4,F, 1:00pm- 3:50pm,Embedded Systems,, ,DAVI 122,26,24,5,"Eaton, C   "
+Fall,CS361,A,4,TR,11:00am-12:15pm,Object-Oriented Design,, ,DAVI 117,24,24,1,Skrien     
+Fall,CS375,A,4,MW, 1:00pm- 2:15pm,Analysis of Algorithms,, ,DAVI 117,20,30,8,Aaron      
+Fall,CS451,A,4,TR, 9:30am-10:45am,Advanced Computer Graphics,, ,DAVI 122,10,12,17,Maxwell    
+Fall,CS451,B,4,TR,11:00am-12:15pm,Advanced Computer Graphics,, ,DAVI 122,7,12,17,Maxwell    
+Fall,EA150,A,4,MW,11:00am-12:15pm,Foundations in East Asian Studies,H,I ,DIAM 123,17,18,12,Shmagin    
+Fall,EA212,A,4,,TBA,"Religions of China, Japan, and Tibet (See RE212)",S, , ,0, ,0,Singh      
+Fall,EA266,A,4,MW, 2:30pm- 3:45pm,Buddhist Philosophy (See PL266),L, , ,0, , ,Behuniak   
+Fall,EA268,A,4,MW, 1:00pm- 2:15pm,Politics of Satire and Humor in Modern China,S,I ,LOVE 319,7,18,8,Zhang      
+Fall,EA274,A,4,MWF, 9:00am- 9:50am,"East Asian Art and Architecture, 1300 to the Present (See AR174)",A, , ,0, , ,Weitz      
+Fall,EA275,A,4,MW, 2:30pm- 3:45pm,"Cultured Tough Guys: Samurai Devotion, Music, Poetry, and Art (See MU275)",A, , ,0, , ,Nuss       
+Fall,EA297,A,4,MW, 1:00pm- 2:15pm,Modern Japan (See HI297A),H, , ,0, , ,Shmagin    
+Fall,EA339,A,4,TR,11:00am-12:15pm,Asian Pacific Modernities (See AY339),, , ,0, , ,MillsMaryB 
+Fall,EA378,A,4,W, 1:00pm- 3:30pm,Chinese Visual Culture (See AR378),, , ,0, , ,Weitz      
+Fall,EA493,A,4,M, 1:00pm- 3:30pm,Seminar: Advanced Research in East Asia,, ,LOVE 423,8,15,0,Weitz      
+Fall,EC121,A,4,TR, 9:30am-10:45am,Financial Accounting,, ,AREY 005,33,35,5,Downs      
+Fall,EC121,B,4,TR,11:00am-12:15pm,Financial Accounting,, ,AREY 005,35,35,5,Downs      
+Fall,EC133,A,4,MWF, 9:00am- 9:50am,Principles of Microeconomics,S, ,DIAM 122,33,35,12,"Park, Y    "
+Fall,EC133,B,4,MWF,10:00am-10:50am,Principles of Microeconomics,S, ,DIAM 122,34,35,6,"Park, Y    "
+Fall,EC133,C,4,MWF,12:00n -12:50pm,Principles of Microeconomics,S, ,DIAM 141,34,35,6,Meredith   
+Fall,EC133,D,4,MWF, 1:00pm- 1:50pm,Principles of Microeconomics,S, ,DIAM 141,35,35,6,Meredith   
+Fall,EC133,E,4,TR, 1:00pm- 2:15pm,Principles of Microeconomics,S, ,DIAM 122,33,35,6,Novak      
+Fall,EC133,F,4,TR, 2:30pm- 3:45pm,Principles of Microeconomics,S, ,DIAM 122,32,35,6,Novak      
+Fall,EC134,A,4,MWF, 9:00am- 9:50am,Principles of Macroeconomics,S, ,LOVE 205,30,35,6,"Fan, Y     "
+Fall,EC134,B,4,MWF,12:00n -12:50pm,Principles of Macroeconomics,S, ,DIAM 153,34,35,6,"Fan, Y     "
+Fall,EC211,A,4,MWF,10:00am-10:50am,Corporate Finance I,, ,DIAM 153,31,30,3,"Nelson, Ra "
+Fall,EC211,B,4,MWF,11:00am-11:50am,Corporate Finance I,, ,DIAM 153,32,30,3,"Nelson, Ra "
+Fall,EC211,C,4,MWF, 1:00pm- 1:50pm,Corporate Finance I,, ,DIAM 122,30,30,3,"Nelson, Ra "
+Fall,EC221,A,4,TR, 1:00pm- 2:15pm,Managerial Economics,, ,LOVE 208,18,22,11,"Libby, J   "
+Fall,EC223,A,4,MWF, 9:00am- 9:50am,Microeconomic Theory,, ,DIAM 141,26,30,17,Giffin     
+Fall,EC223,B,4,MWF,10:00am-10:50am,Microeconomic Theory,, ,DIAM 141,30,30,17,Giffin     
+Fall,EC224,A,4,MWF, 9:00am- 9:50am,Macroeconomic Theory,, ,DIAM 153,20,30,13,"Lester, R  "
+Fall,EC293,A,4,TR, 9:30am-10:45am,Research Methods and Statistics for Economics,, ,DIAM 153,21,22,6,Waldkirch  
+Fall,EC293,B,4,TR,11:00am-12:15pm,Research Methods and Statistics for Economics,, ,DIAM 153,18,22,6,Waldkirch  
+Fall,EC297,A,4,TR,11:00am-12:15pm,Topics in Latin American Economic Policy (See GS397),S,I , ,0, , ,Franko     
+Fall,EC297A,A,4,TR, 9:30am-10:45am,Public Policy and Economic Development,, ,DIAM 341,10,22,7,"Libby, J   "
+Fall,EC338,A,4,MW,11:00am-12:15pm,"Money, Banking, and Monetary Policy",, ,DIAM 341,11,22,2,Findlay    
+Fall,EC338,A,4,R, 3:00pm- 4:00pm,"Money, Banking, and Monetary Policy",, ,DIAM 341,11,22,2,Findlay    
+Fall,EC353,A,4,TR, 9:30am-10:45am,Urban and Regional Economics,, ,DIAM 342,21,22,10,Siodla     
+Fall,EC379,A,4,TR, 9:30am-10:45am,Game Theory,, ,DIAM 344,21,22,7,Hubbard    
+Fall,EC393,A,4,MW,11:00am-12:15pm,Econometrics,, ,DIAM 344,22,22,9,LaFave     
+Fall,EC393,B,4,MW, 1:00pm- 2:15pm,Econometrics,, ,DIAM 344,22,22,9,LaFave     
+Fall,EC397,A,4,TR, 1:00pm- 2:15pm,Macroeconomic Puzzles for Policy Makers,, ,DIAM 141,13,22,17,Reifschnei 
+Fall,EC451,A,1,,TBA,Economics Research,, , ,10,12, ,Novak      
+Fall,EC470,A,4,T, 1:00pm- 3:30pm,Seminar: The City in Economic History,, ,DIAM 341,13,14,0,Siodla     
+Fall,EC470,A,4,R, 1:00pm- 2:15pm,Seminar: The City in Economic History,, ,DIAM 341,13,14,0,Siodla     
+Fall,EC479,A,4,M, 1:00pm- 3:30pm,Seminar: Auctions,, ,ALCM 205,14,14,0,Hubbard    
+Fall,EC479,A,4,W, 1:00pm- 2:15pm,Seminar: Auctions,, ,DIAM 341,14,14,0,Hubbard    
+Fall,ED201,A,4,TR, 2:30pm- 3:45pm,Education and Social Justice,S,U ,DIAM 123,23,20,5,Tappan     
+Fall,ED215,A,4,TR, 1:00pm- 2:15pm,Children and Adolescents in Schools and Society,S,U ,DIAM 123,23,20,0,Tappan     
+Fall,ED245,A,4,MW,11:00am-12:15pm,Dimensions of Educational Equity,,U ,MILL 034,10,20,2,Yoshizawa  
+Fall,ED247,A,4,MW, 1:00pm- 2:15pm,Current Policy Issues in U.S. Education,, ,LOVE 208,20,20,8,Casalaspi  
+Fall,ED324,A,4,TR,11:00am-12:15pm,Elite Schooling in Global Context,,I ,DIAM 123,20,20,1,Howard     
+Fall,ED331,A,4,M, 7:00pm- 9:30pm,Curriculum and Methods,, ,ALCM 205,4,15,0,Howard     
+Fall,ED351,A,1 to 3,,TBA,Practicum in Education,, , ,2,30, ,Howard     
+Fall,ED397,A,1,U, 6:00pm- 6:50pm,Citizenship and Community,, ,ALCM 205,18,18, ,Bruesewitz 
+Fall,ED397,B,1,M,10:00am-10:50am,Citizenship and Community,, ,DIAM 123,17,18, ,Klepach    
+Fall,ED397,C,1,M, 2:00pm- 2:50pm,Citizenship and Community,, ,DIAM 123,9,18, ,Tappan     
+Fall,ED397,D,1,M, 8:00pm- 8:50pm,Citizenship and Community,, ,ALCM 405,20,18, ,Duff       
+Fall,ED397,E,1,T,11:00am-11:50am,Citizenship and Community,, ,MILL 014,20,18, ,Tappan     
+Fall,ED397,F,1,T, 7:00pm- 7:50pm,Citizenship and Community,, ,ALCM 205,19,18, ,Glenn      
+Fall,ED397,G1,1,W, 7:00pm- 7:50pm,Citizenship and Community,, ,ALCM 205,18,18, ,Troisi     
+Fall,ED397,G2,1,W, 7:00pm- 7:50pm,Citizenship and Community,, ,ALCM 505,17,18, ,Becknell   
+Fall,ED397,H,1,R, 1:00pm- 1:50pm,Citizenship and Community,, ,BIXL 102,19,18, ,Benjamin   
+Fall,ED397,I,1,R, 3:00pm- 3:50pm,Citizenship and Community,, ,ALCM 205,20,18, ,Rice       
+Fall,ED397,J,1,F,11:00am-11:50am,Citizenship and Community,, ,DIAM 123,18,18, ,Sheriff    
+Fall,ED493,B,4,W, 1:00pm- 3:30pm,Senior Seminar in Education and Human Development,, ,DIAM 123,14,15,15,Howard     
+Fall,EN115C,A,4,WF, 1:00pm- 2:15pm,English Composition: Critical Inquiries into Medical Ethics,W1, ,MILL 008,15,16, ,Sibara     
+Fall,EN115G,A,4,TR, 1:00pm- 2:15pm,First-Year Writing: Rich and Poor in American Novels (See WP115G),W1, , ,0, , ,Harrington 
+Fall,EN115K,A,4,TR, 9:30am-10:45am,English Composition: Writers on Writing,W1, ,MILL 253,16,16, ,Blevins    
+Fall,EN115N,A,4,TR, 8:00am- 9:15am,English Composition: Art of the Personal Essay,W1, ,MILL 319,15,16, ,Mazzeo     
+Fall,EN120B,A,4,MW, 1:00pm- 2:15pm,"Language, Thought, and Writing: Writing as a Reader",W1, ,LOVE 302,14,16, ,"Cook, M    "
+Fall,EN120D,A,4,TR, 9:30am-10:45am,"Language, Thought, and Writing: Thinking about Language",W1, ,MILL 205,14,16, ,Suchoff    
+Fall,EN120E,A,4,MWF,10:00am-10:50am,"Language, Thought, and Writing: Playing in the Dark: Writing Race",W1, ,MILL 319,16,16, ,Bryant     
+Fall,EN120F,A,4,MW, 2:30pm- 3:45pm,"Language, Thought, and Writing: Literature as Persuasion",W1, ,LOVE 302,14,16, ,Roy        
+Fall,EN120J,A,4,MWF,12:00n -12:50pm,"Language, Thought, and Writing: How to Write a Revolution",W1, ,LOVE 102,16,16, ,"Reed, J    "
+Fall,EN138,A,4,TR,11:00am-12:15pm,Fantasies of Modernity: American Literature between the Wars,"L,W1", ,DIAM 221,15,16, ,Stubbs     
+Fall,EN141,A,4,MW,11:00am-12:15pm,Beginning Playwriting (See TD141),A, , ,0, , ,Oldham     
+Fall,EN142,A,4,MW, 2:30pm- 3:45pm,Introduction to Cinema Studies (See CI142),A, , ,0, , ,Wurtzler   
+Fall,EN142,A,4,T, 7:00pm-10:00pm,Introduction to Cinema Studies (See CI142),A, , ,0, , ,Wurtzler   
+Fall,EN200,A,4,MW, 1:00pm- 2:15pm,Foundations of Literary Studies,L, ,LOVE 202,18,18,0,Ardam      
+Fall,EN200,B,4,TR,11:00am-12:15pm,Foundations of Literary Studies,L, ,MILL 319,16,18,0,Sagaser    
+Fall,EN224,A,4,TR, 9:30am-10:45am,Performance History I (See TD224),L, , ,0, , ,Oldham     
+Fall,EN245,A,4,TR,11:00am-12:15pm,"Poems, Paintings, and Printing: Text Versus Image in the Lyric",L, ,LOVE 319,18,25,0,"Gibson, M  "
+Fall,EN255,A,4,TR, 1:00pm- 2:15pm,Studies in American Literary History: Pre-1860,L, ,LOVE 318,12,25,11,Stubbs     
+Fall,EN265,A,4,MWF, 9:00am- 9:50am,Early British Literary History: from <i>Beowulf</i> to Blake,L, ,MILL 220,9,25,4,"Reed, J    "
+Fall,EN268,A,4,T, 1:00pm- 3:30pm,Survey of International Women Writers,L, ,MILL 205,5,18,11,Roy        
+Fall,EN271,A,4,MWF,10:00am-10:50am,Critical Theory,L, ,MILL 241,13,18,16,Osborne    
+Fall,EN271,B,4,TR, 9:30am-10:45am,Critical Theory,L, ,MILL 220,15,18,7,Mazzeo     
+Fall,EN278,A,4,MW,11:00am-12:15pm,Fiction Writing I,A, ,MILL 220,15,15,0,Braunstein 
+Fall,EN278,B,4,TR, 9:30am-10:45am,Fiction Writing I,A, ,DIAM 241,15,15,0,Spark      
+Fall,EN278,C,4,TR,11:00am-12:15pm,Fiction Writing I,A, ,DIAM 241,15,15,0,Spark      
+Fall,EN279,A,4,MW,11:00am-12:15pm,Poetry Writing I,A, ,MILL 253,13,15,0,"White, A   "
+Fall,EN279,B,4,TR,11:00am-12:15pm,Poetry Writing I,A, ,MILL 220,15,15,0,Blevins    
+Fall,EN280,A,4,MW, 1:00pm- 2:15pm,Creative Nonfiction Writing I,A, ,MILL 253,15,15,0,Burke      
+Fall,EN283,A,4,MW, 1:00pm- 2:15pm,Environmental Humanities: Stories of Crisis and Resilience,L, ,LOVE 102,19,20,0,Walker     
+Fall,EN310,A,4,MWF,10:00am-10:50am,Professional Writing (See WP310),W2,U , ,0, , ,Hancock    
+Fall,EN315,A,4,MW,11:00am-12:15pm,Medieval Women's Mysticism,L, ,LOVE 207,18,18,0,"Cook, M    "
+Fall,EN322,A,4,T, 1:00pm- 3:30pm,British Romanticism: Green Romanticism,L, ,MILL 220,9,18,11,Mazzeo     
+Fall,EN329,A,4,TR, 2:30pm- 3:45pm,21st-Century Comparative Literature,L, ,LOVE 102,16,18,5,Suchoff    
+Fall,EN352,A,4,MWF,12:00n -12:50pm,Hang and Rattle: The West in the American Imaginary,L,U ,MILL 008,16,18,12,Bryant     
+Fall,EN369,A,4,WF,11:00am-12:15pm,Reading Race Now: 21st-Century Multiethnic-American Literature,L,U ,MILL 319,15,18,0,Sibara     
+Fall,EN378,A,4,W, 1:00pm- 3:30pm,Fiction Writing II: Special Topics,, ,MILL 220,15,15,0,Braunstein 
+Fall,EN379,A,4,MW, 2:30pm- 3:45pm,Poetry Writing II,, ,MILL 241,7,15,0,"White, A   "
+Fall,EN382,A,4,MW, 2:30pm- 3:45pm,Environmental Writing: Writing on Place,A, ,MILL 253,9,15,15,Burke      
+Fall,EN397,A,4,MW, 2:30pm- 3:45pm,Poetry Remixes,L, ,LOVE 202,13,16,0,Ardam      
+Fall,EN422,A,4,R, 1:00pm- 3:30pm,Queer Theory and U.S. Literatures and Cultures,L,U ,LOVE 319,12,18,0,Sibara     
+Fall,EN493J,A,4,T, 7:00pm- 9:45pm,Seminar: Gender and Genre in Victorian Literature,L, ,MILL 220,9,15,0,"Gibson, M  "
+Fall,ES214,A,4,MW,11:00am-12:15pm,Introduction to GIS and Spatial Analysis,, ,DIAM 322,24,24,2,Gimond     
+Fall,ES215,A,4,M, 1:00pm- 3:30pm,"Weather, Climate, and Society (See ST215)",N, , ,0, , ,Fleming    
+Fall,ES233,A,4,TR, 9:30am-10:45am,Environmental Policy,, ,DIAM 141,38,30,9,Nyhus      
+Fall,ES265,A,4,MWF,11:00am-11:50am,Global Public Health,, ,DIAM 141,34,36,2,Carlson    
+Fall,ES271,A,4,MWF, 8:00am- 8:50am,Introduction to Ecology (See BI271),"N,Lb", , ,0, , ,Becknell   
+Fall,ES271,B,4,MWF, 9:00am- 9:50am,Introduction to Ecology (See BI271),"N,Lb", , ,0, , ,"Moore, C   "
+Fall,ES271 L,A,,,TBA,Lab: Intro to Ecology (See BI271 L),, , ,0, , , 
+Fall,ES283,A,4,MW, 1:00pm- 2:15pm,Environmental Humanities: Stories of Crisis and Resilience (See EN283),L, , ,0, , ,Walker     
+Fall,ES297,A,4,M, 7:00pm- 9:30pm,Sustainable Business Seminar,, ,DIAM 223,18,18,3,"Penney, Lu "
+Fall,ES297B,A,4,W, 1:00pm- 3:30pm,Nature in Italian Literature and Film (in English) (See IT297),L, , ,0, , ,Ferrando   
+Fall,ES332,A,4,TR, 8:00am- 9:15am,Chemical Methods of Analysis (See CH331),, , ,0, , ,King       
+Fall,ES332 L,A,,,TBA,Lab: Chemical Methods of Analysis (See CH331 L),, , ,0, , ,King       
+Fall,ES354,A,3,TR,11:00am-12:15pm,Marine Ecology (See BI354),, , ,0, , ,Wilson     
+Fall,ES364,A,4,MWF, 9:00am- 9:50am,"Climate Change, Justice, and Health",, ,DIAM 223,13,18,4,Carlson    
+Fall,ES371,A,4,MWF,10:00am-10:50am,Current Topics in Environmental Science,, ,DIAM 223,11,18,16,"Neal, B    "
+Fall,ES397A,A,4,WF,11:00am-12:15pm,U.S. Environmental History (See HI397),, , ,0, , ,"Reardon, E "
+Fall,ES397B,A,4,TR, 9:30am-10:45am,"Community, Economics, and Conservation",, ,DIAM 223,17,18,0,Amundsen   
+Fall,ES401,A,,T, 7:00pm- 8:15pm,Environmental Studies Colloquium,, ,OLIN 001,55,60, ,Nyhus      
+Fall,ES401,A,,W,12:00n -12:50pm,Environmental Studies Colloquium,, ,DANA FAIR,55,60, ,Nyhus      
+Fall,ES493,A,4,TR,11:00am-12:15pm,Environmental Policy Practicum,, ,DIAM 223,15,20,0,McClenacha 
+Fall,ES493,A,4,T, 1:00pm- 4:00pm,Environmental Policy Practicum,, ,DIAM 223,15,20,0,McClenacha 
+Fall,ES493,B,4,TR,11:00am-12:15pm,Environmental Policy Practicum,, ,DIAM 341,16,20,0,Abrahams   
+Fall,ES493,B,4,T, 1:00pm- 4:00pm,Environmental Policy Practicum,, ,DIAM 342,16,20,0,Abrahams   
+Fall,ES494,A,5,TR,11:00am-12:15pm,Problems in Environmental Science,, ,MILL 205,14,32,0,Bruesewitz Pearson     
+Fall,ES494,A,5,TR, 1:00pm- 5:00pm,Problems in Environmental Science,, ,OLIN 229,14,32,0,Bruesewitz Pearson     
+Fall,ES494,B,5,TR,11:00am-12:15pm,Problems in Environmental Science,, ,DIAM 141,10,32,0,"Countway   Neal, B     "
+Fall,ES494,B,5,TR, 1:00pm- 5:00pm,Problems in Environmental Science,, ,KEYE 103,10,32,0,"Countway   Neal, B     "
+Fall,FR111D,A,2,,TBA,Intensive French,, , ,9, , ,Weiss      
+Fall,FR125,A,4,MTWF,10:00am-10:50am,French I,, ,DIAM 243,14,18,9,Mauguiere  
+Fall,FR125,B,4,MTWF,11:00am-11:50am,French I,, ,DIAM 243,18,18,9,Mauguiere  
+Fall,FR126,A,4,MTWR, 9:00am- 9:50am,French II,, ,LOVE 307,9,18,5,Mailhe     
+Fall,FR126,B,4,MTWR,10:00am-10:50am,French II,, ,LOVE 203,12,18,10,Niang      
+Fall,FR126,C,4,MTWR,11:00am-11:50am,French II,, ,LOVE 203,13,18,10,Niang      
+Fall,FR126D,A,4,,TBA,French II,, , ,2, , ,Weiss      
+Fall,FR127,A,4,MTWR, 9:00am- 9:50am,French III,, ,LOVE 211,11,18,10,Paliyenko  
+Fall,FR127,B,4,MTWR,10:00am-10:50am,French III,, ,LOVE 211,13,18,10,Paliyenko  
+Fall,FR127,C,4,MTWR,11:00am-11:50am,French III,, ,LOVE 307,13,18,10,Mailhe     
+Fall,FR127D,A,4,,TBA,Intermediate French,, , ,6, , ,Weiss      
+Fall,FR128,A,4,M, 1:00pm- 2:15pm,French IV: Reading in Cultural Contexts,L, ,DIAM 243,9,18,8,Mauguiere  
+Fall,FR128,A,4,W, 1:00pm- 2:15pm,French IV: Reading in Cultural Contexts,L, ,DIAM 241,9,18,8,Mauguiere  
+Fall,FR129D,A,4,,TBA,Advanced Intermediate French,, , ,9, , ,Weiss      
+Fall,FR133D,A,4,,TBA,France Today (in translation),S,I , ,10, , ,Weiss      
+Fall,FR211D,A,2,,TBA,Advanced Intensive French,, , ,10, , ,Weiss      
+Fall,FR231,A,4,MWF,10:00am-10:50am,Advanced Grammar and Composition,, ,LOVE 307,10,18,16,Maurer     
+Fall,FR232,A,4,TR,11:00am-12:15pm,French Cultural History: The Rise and Fall of Versailles,H, ,LOVE 301,8,18,0,Dionne     
+Fall,FR233D,A,4,,TBA,Contemporary France,S,I , ,9, , ,Weiss      
+Fall,FR234,A,1,T, 5:00pm- 5:50pm,Intensive Spoken French,, ,LOVE 307,9,15, ,Billard    
+Fall,FR238,A,4,MW, 1:00pm- 2:15pm,Introduction to the Francophone World: Africa,,I ,LOVE 303,11,18,8,Niang      
+Fall,FR297D,A,4,,TBA,Advanced French,, , ,2, , ,Weiss      
+Fall,FR378,A,4,TR, 2:30pm- 3:45pm,French Revolution and Human Rights,H, ,LOVE 307,6,15,0,Dionne     
+Fall,FR397,A,4,MW, 1:00pm- 2:15pm,Francophone Ecocriticism and Postcolonial Theory in Dialogue,L,I ,LOVE 307,2,15,0,Maurer     
+Fall,FR493G,A,4,MW, 1:00pm- 2:15pm,Seminar: Francophone Ecocriticism and Postcolonial Theory in Dialogue,L,I ,LOVE 307,3,15,0,Maurer     
+Fall,FR493H,A,4,TR, 2:30pm- 3:45pm,Seminar: French Revolution and Human Rights,H, ,LOVE 307,5,15,0,Dionne     
+Fall,GE121,A,4,MWF,10:00am-10:50am,Earth Systems Chemistry I (See CH121),"N,Lb", , ,0, , ,Koffman    McKinney    
+Fall,GE121 L,A,,W, 1:00pm- 4:00pm,Lab:Earth Systems Chem I (See CH121 L),, , ,0, , ,"McKinney   Sullivan,W  "
+Fall,GE121 L,B,,R, 1:00pm- 4:00pm,Lab:Earth Systems Chem I (See CH121 L),, , ,0, , ,"McKinney   Sullivan,W "
+Fall,GE141,A,4,MWF, 9:00am- 9:50am,Earth and Environment,"N,Lb", ,MILL 008,36,40,4,"Sullivan,W "
+Fall,GE141,B,4,MWF,11:00am-11:50am,Earth and Environment,"N,Lb", ,MILL 014,42,40,2,Rueger     
+Fall,GE141 L,A,,M, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,23,20, ,Rueger     
+Fall,GE141 L,B,,T, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,20,20, ,Rueger     
+Fall,GE141 L,C,,W, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,16,20, ,Croft      
+Fall,GE141 L,D,,R, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,19,20, ,Croft      
+Fall,GE256,A,4,TR,11:00am-12:15pm,Sedimentation and Stratigraphy,W2, ,MUDD 103,14,12,1,Gastaldo   
+Fall,GE256 L,A,,T, 1:00pm- 4:00pm,"Lab: Sedimentation, Stratigraphy",, ,MUDD 219,7,6, ,Gastaldo   
+Fall,GE256 L,B,,R, 1:00pm- 4:00pm,"Lab: Sedimentation, Stratigraphy",, ,MUDD 219,7,6, ,Gastaldo   
+Fall,GE361,A,4,TR, 9:30am-10:45am,Topics in Geochemistry,, ,MUDD 103,10,12,0,Koffman    
+Fall,GE391,A,1,F, 1:00pm- 2:00pm,Geology Seminar,, ,KEYE 105,27,50, ,Gastaldo   
+Fall,GK111,A,4,MTWR,11:00am-11:50am,Introductory Greek,, ,LOVE 244,6,15,2,Barrett    
+Fall,GK131,A,4,TR, 2:30pm- 3:45pm,Introduction to Greek Literature,L, ,LOVE 244,4,15,5,Barrett    
+Fall,GK235,A,4,TR, 2:30pm- 3:45pm,Plato: <I>Apology</I> of Socrates,, ,LOVE 244,1,20,5,Barrett    
+Fall,GM125,A,4,MTRF, 8:00am- 8:50am,Elementary German I,, ,LOVE 207,11,20,10,"Bradley, R "
+Fall,GM127,A,4,MTRF,10:00am-10:50am,Intermediate German I: Structures in Cultural Contexts,, ,LOVE 103,21,24,10,Manektala  
+Fall,GM129,A,1,T, 7:00pm- 7:50pm,Conversation Group,, ,LOVE 450,12,15, ,Williamson 
+Fall,GM231,A,4,MW, 1:00pm- 2:15pm,Introduction to German Studies,, ,LOVE 207,5,20,8,Manektala  
+Fall,GM237,A,4,MW, 2:30pm- 3:45pm,The German Fairy Tale in Popular Culture (in English),L, ,LOVE 207,15,20,15,"Bradley, R "
+Fall,GM297,A,4,TR,11:00am-12:15pm,"Violence, Atrocity, and Trauma: Europe 1914-1945 (See HI397B)",H, , ,0, , ,Hollander  
+Fall,GM329,A,1,R, 7:00pm- 7:50pm,Current Topics,, ,LOVE 450,3,15, ,Williamson 
+Fall,GM342,A,4,MW, 1:00pm- 2:15pm,Contested Subjects in German Culture,, ,LOVE 207,7,15,0,Manektala  
+Fall,GO111,A,4,TR, 9:30am-10:45am,Introduction to American Government and Politics,S, ,DIAM 122,42,40,7,Levan      
+Fall,GO111,B,4,TR,11:00am-12:15pm,Introduction to American Government and Politics,S, ,DIAM 122,39,40,1,Maisel     
+Fall,GO115S,A,3,,TBA,Spanish Transition to Democracy,S,I , ,15, , ,Instructor 
+Fall,GO131,A,4,MWF,11:00am-11:50am,Introduction to International Relations,S, ,DIAM 122,59,60,2,Rodman     
+Fall,GO149A,A,4,MWF,10:00am-10:50am,Utopia in Fiction: Happy Tomorrows or Hells on Earth?,"L,W1", ,DIAM 241,14, , ,Babik      
+Fall,GO149B,A,4,TR, 2:30pm- 3:45pm,Political Theory of Utopia,S, ,DIAM 344,14, , ,Reisert    
+Fall,GO171,A,4,MWF, 9:00am- 9:50am,Introduction to Political Theory,S,I ,DIAM 145,41,40,4,Reisert    
+Fall,GO210,A,4,MW, 1:00pm- 2:15pm,Interest-Group Politics,, ,DIAM 153,25,25,8,Corrado    
+Fall,GO228,A,4,TR, 1:00pm- 2:15pm,"Introduction to Race, Ethnicity, and Politics",S,U ,LOVE 205,26,25,11,Levan      
+Fall,GO231,A,4,MW, 2:30pm- 3:45pm,U.S. Foreign Policy: The Cold War,, ,DIAM 342,8,25,15,Rodman     
+Fall,GO245,A,4,TR, 9:30am-10:45am,Memory and Politics (See GS245),"S,W2", , ,0, , ,Yoder      
+Fall,GO252,A,4,MW,11:00am-12:15pm,Introduction to Politics of the Middle East,, ,DIAM 342,16,25,2,Denoeux    
+Fall,GO253,A,4,MW, 2:30pm- 3:45pm,Introduction to Latin American Politics,, ,DIAM 145,21,25,15,Mayka      
+Fall,GO255,A,4,MW,11:00am-12:15pm,Introduction to African Politics,S,I ,DIAM 145,23,25,2,Seay       
+Fall,GO273,A,4,TR,11:00am-12:15pm,American Political Thought,, ,DIAM 342,25,25,0,Corrado    
+Fall,GO281,A,4,MWF, 9:00am- 9:50am,Concepts and Methods of Political Science Research,Q, ,DIAM 241,16,18,4,Babik      
+Fall,GO332,A,4,TR, 1:00pm- 2:15pm,International Organization,, ,DIAM 343,12,25,11,Rodman     
+Fall,GO414,A,4,M, 1:00pm- 3:30pm,Seminar: Ethics in Politics,, ,DIAM 241,12,12,0,Maisel     
+Fall,GO421,A,4,T, 1:00pm- 3:30pm,Seminar: Prospects for Political Reform,, ,DIAM 145,12,12,0,Corrado    
+Fall,GO451,A,4,T, 1:00pm- 3:30pm,Seminar: Political Violence,, ,DIAM 241,9,12,0,Denoeux    
+Fall,GO456,A,4,T, 1:00pm- 3:30pm,Seminar: Civil Society and Social Change in Latin America,S,I ,DIAM 221,11,12,0,Mayka      
+Fall,GS111,A,1,W, 7:00pm- 8:30pm,Human Rights in Global Perspective,, ,DIAM 141,19,16, ,Carlson    
+Fall,GS245,A,4,TR, 9:30am-10:45am,Memory and Politics,"S,W2", ,DIAM 343,16,16,7,Yoder      
+Fall,GS253,A,4,WF, 1:00pm- 2:15pm,"Goods, Gifts, and Globalizing Consumers",W2, ,DIAM 343,8,18,0,Halvorson  
+Fall,GS397,A,4,TR,11:00am-12:15pm,Topics in Latin American Economic Policy,S,I ,DIAM 343,19,18,0,Franko     
+Fall,GS457,A,4,T, 7:00pm- 9:30pm,"Insurgent Mobility Lab: Migrants, Activists, the Balkan Route",S,I ,DIAM 343,6,12,0,Razsa      
+Fall,HI111,A,4,TR, 9:30am-10:45am,Europe from the Classical World to the Religious Wars,H,I ,MILL 008,27,40,0,"Taylor, L  "
+Fall,HI120D,A,4,TR, 9:30am-10:45am,Spotlight on History: Becoming Chinese American,"H,W1",U ,LOVE 119,16,16, ,"Parker, La "
+Fall,HI132,A,4,MWF,10:00am-10:50am,"Survey of U.S. History, 1865 to the Present",H, ,OLIN 001,29,40,16,Weisbrot   
+Fall,HI132D,A,3,,TBA,"French History, Civilization",H, , ,19, , ,Weiss      
+Fall,HI138,A,4,TR, 9:30am-10:45am,America from the Roaring 20s to the Great Depression,H, ,DIAM 221,15,16,7,Weisbrot   
+Fall,HI141,A,4,TR, 9:30am-10:45am,Genocide and Globalization: 20th-Century World History,H,I ,MILL 014,40,40,7,vanderMeer 
+Fall,HI149,A,4,TR, 1:00pm- 2:15pm,Modern Utopias: From the Satanic Mills to Silicon Valley,H, ,DIAM 344,14, , ,"Meredith,J "
+Fall,HI173,A,4,MW, 9:00am- 9:50am,"History of Latin America, 1491 to 1900 (See LA173)",H,I , ,0, , ,Fallaw     
+Fall,HI183,A,4,TR, 8:00am- 9:15am,History of the Premodern Middle  East,H,I ,MILL 014,17,40,14,Turner     
+Fall,HI224,A,4,TR, 2:30pm- 3:45pm,"Germany and Europe, 1871-1945",H,I ,MILL 014,18,30,5,Hollander  
+Fall,HI231,A,4,MWF, 9:00am- 9:50am,American Women's History to 1870,H,U ,MILL 257,4,30,0,Leonard    
+Fall,HI233,A,4,WF, 1:00pm- 2:15pm,Native Americans to 1850,H,U ,LOVE 215,26,30,8,"Reardon, E "
+Fall,HI239,A,4,MWF,11:00am-11:50am,The Era of the Civil War,H,U ,LOVE 318,18,20,0,Leonard    
+Fall,HI245,A,4,TR, 9:30am-10:45am,"Science, Race, and Gender",N,U ,LOVE 100,47,30,0,Josephson  
+Fall,HI247,A,4,TR, 2:30pm- 3:45pm,"African-American History, from Slavery to Freedom",H,U ,LOVE 213,14,30,5,Weisbrot   
+Fall,HI248,A,4,TR,11:00am-12:15pm,"Nuclear Visions, Environmental Realities",H,I ,LOVE 213,31,30,0,Josephson  
+Fall,HI276,A,4,TR, 9:30am-10:45am,Patterns and Processes in World History,H, ,LOVE 213,31,30,7,Duff       
+Fall,HI276,B,4,TR, 1:00pm- 2:15pm,Patterns and Processes in World History,H, ,MILL 014,33,30,11,vanderMeer 
+Fall,HI277,A,4,MWF,12:00n -12:50pm,The Maya (See LA277),H,I , ,0, , ,Fallaw     
+Fall,HI297A,A,4,MW, 1:00pm- 2:15pm,Modern Japan,H, ,MILL 014,8,30,8,Shmagin    
+Fall,HI297B,A,4,TR, 1:00pm- 2:15pm,Introduction to African History to 1800,H,I ,MILL 257,15,20,0,Duff       
+Fall,HI328,A,4,T, 7:00pm- 9:30pm,Daily Life Under Putin,H, ,MILL 008,14,20,0,Josephson  
+Fall,HI338,A,4,M, 1:00pm- 3:30pm,History in Reverse: Backwards through the Records from Now to Then,H, ,MILL 257,6,20,0,Leonard    
+Fall,HI397,A,4,WF,11:00am-12:15pm,U.S. Environmental History,, ,MILL 257,7,20,0,"Reardon, E "
+Fall,HI397B,A,4,TR,11:00am-12:15pm,"Violence, Atrocity, and Trauma: Europe, 1914-1945",H, ,MILL 257,9,20,0,Hollander  
+Fall,HI414,A,4,W, 1:00pm- 3:30pm,"Research Seminar: History of Fear in Europe, 1300-1900",H, ,MILL 319,16,15,0,"Taylor, L  "
+Fall,IS138,A,8,TR, 9:30am-10:45am,"New World Disorder: America between the Wars, 1919-1939",Multiple;<br>see<br>course<br>description, ,DIAM 221,0,16, ,Stubbs      Weisbrot   
+Fall,IS138,A,8,TR,11:00am-12:15pm,"New World Disorder: America between the Wars, 1919-1939",Multiple;<br>see<br>course<br>description, ,DIAM 221,0,16, ,Stubbs      Weisbrot   
+Fall,IS147,A,10,MW,11:00am-12:15pm,"Body, Mind, Human Kind",Multiple;<br>see<br>course<br>description, ,RUNN 203,0,16, ,Klepach    Kloppenbrg  
+Fall,IS147,A,10,TR,11:00am-12:15pm,"Body, Mind, Human Kind",Multiple;<br>see<br>course<br>description, ,DIAM 242,0,16, ,Klepach    Kloppenbrg  
+Fall,IS147,A,10,T, 1:00pm- 3:50pm,"Body, Mind, Human Kind",Multiple;<br>see<br>course<br>description, ,RUNN 201,0,16, ,Klepach    Kloppenbrg  
+Fall,IS147,A,10,R, 1:00pm- 3:50pm,"Body, Mind, Human Kind",Multiple;<br>see<br>course<br>description, ,AREY 205,0,16, ,Klepach    Kloppenbrg  
+Fall,IS149,A,12,MWF,10:00am-10:50am,Utopia and Dystopia,Multiple;<br>see<br>course<br>description, ,DIAM 241,0,16, ,"Babik      Meredith,J Reisert     "
+Fall,IS149,A,12,TR, 1:00pm- 2:15pm,Utopia and Dystopia,Multiple;<br>see<br>course<br>description, ,DIAM 344,0,16, ,"Babik      Meredith,J Reisert     "
+Fall,IS149,A,12,TR, 2:30pm- 3:45pm,Utopia and Dystopia,Multiple;<br>see<br>course<br>description, ,DIAM 344,0,16, ,"Babik      Meredith,J Reisert     "
+Fall,IT125,A,4,MTWF, 9:00am- 9:50am,Italian I,, ,LOVE 212,15,20,10,Ferrando   
+Fall,IT125,B,4,MTWF,10:00am-10:50am,Italian I,, ,LOVE 212,16,20,10,Ferrando   
+Fall,IT127,A,4,MTWR,10:00am-10:50am,Italian III,, ,LOVE 202,15,20,10,"Rizzo, G   "
+Fall,IT127,B,4,MTWR,11:00am-11:50am,Italian III,, ,LOVE 202,14,20,10,"Rizzo, G   "
+Fall,IT235,A,1,T, 3:00pm- 3:50pm,Italian Conversation,, ,LOVE 212,8,20, ,Parodi     
+Fall,IT297,A,4,W, 1:00pm- 3:30pm,Nature in Italian Literature and Film (in English),L, ,ALCM 205,8,15,0,Ferrando   
+Fall,JA125,A,5,MTWRF, 8:00am- 8:50am,Elementary Japanese I,, ,LOVE 203,16,20, ,"Yoshida, J "
+Fall,JA125,B,5,MTWRF, 9:00am- 9:50am,Elementary Japanese I,, ,LOVE 203,8,20,4,"Yoshida, J "
+Fall,JA127,A,4,MTWR,10:00am-10:50am,Intermediate Japanese I,, ,LOVE 318,9,20,16,Abe        
+Fall,JA135,A,1,F,11:00am-11:50am,Conversational Japanese I,, ,LOVE 319,10,20, ,KawashimaM 
+Fall,JA135,B,1,F, 1:00pm- 1:50pm,Conversational Japanese I,, ,LOVE 319,12,20, ,KawashimaM 
+Fall,JA235,A,1,F,10:00am-10:50am,Conversational Japanese II,, ,LOVE 319,9,20, ,KawashimaM 
+Fall,JA321,A,4,MWF, 1:00pm- 1:50pm,Third-Year Japanese,, ,LOVE 211,9,20,8,"Yoshida, J "
+Fall,JA335,A,1,,TBA,Conversational Japanese III,, , ,10,20, ,KawashimaM 
+Fall,JA421,A,4,TR,11:00am-12:15pm,Fourth Year Japanese,, ,LOVE 423,4,15,1,Abe        
+Fall,JS125,A,3,MWR,10:00am-10:50am,Hebrew I,, ,LOVE 344,5,20,16,Isaacs     
+Fall,JS127,A,3,MWR,11:00am-11:50am,Hebrew III,, ,LOVE 344,4,20,2,Isaacs     
+Fall,JS143,A,4,MW, 2:30pm- 3:45pm,Introduction to the Hebrew Bible/Old Testament (See RE143),L, , ,0, , ,Emanuel    
+Fall,JS181,A,4,MW, 1:00pm- 2:15pm,Conceptions of Jews and Judaism (See RE181),H,I , ,0, , ,Freidenrch 
+Fall,JS223,A,2,W, 7:00pm- 8:15pm,Religion in the Modern State of Israel (See RE223),, , ,0, , ,Freidenrch 
+Fall,JS252,A,4,MW,11:00am-12:15pm,Introduction to Politics of the Middle East (See GO252),, , ,0, , ,Denoeux    
+Fall,LA173,A,4,MW, 9:00am- 9:50am,"History of Latin America, 1491 to 1900",H,I ,LOVE 119,35,40,4,Fallaw     
+Fall,LA173 D,A,,F, 9:00am- 9:50am,Disc: Hist Latin America,, ,LOVE 318,18,20, ,Fallaw     
+Fall,LA173 D,B,,F,10:00am-10:50am,Disc: Hist Latin America,, ,LOVE 318,17,20, ,Fallaw     
+Fall,LA236,A,4,WF,11:00am-12:15pm,"Illegal Drugs, Law, and the State (See AY236)",, , ,0, , ,"Tate, W    "
+Fall,LA253,A,4,MW, 2:30pm- 3:45pm,Introduction to Latin American Politics (See GO253),, , ,0, , ,Mayka      
+Fall,LA277,A,4,MWF,12:00n -12:50pm,The Maya,H,I ,LOVE 318,11,40,12,Fallaw     
+Fall,LA365,A,4,W, 1:00pm- 3:30pm,"Space, Place, and Belonging (See AY365)",, , ,0, , ,"Tate, W    "
+Fall,LA456,A,4,T, 1:00pm- 3:30pm,Seminar: Civil Society and Social Change in Latin America (See GO456),S,I , ,0, , ,Mayka      
+Fall,LA497,A,4,M, 7:00pm- 9:30pm,Seminar: Inca Garcilaso de la Vega (See SP497),L, , ,0, , ,Millones   
+Fall,LT111,A,4,MTWF,12:00n -12:50pm,Introductory Latin,, ,LOVE 202,18,20,12,Gillum     
+Fall,LT131,A,4,MW, 2:30pm- 3:45pm,Introduction to Latin Literature,L, ,LOVE 213,14,20,0,O'Neill    
+Fall,LT297,A,4,MW, 2:30pm- 3:45pm,Seneca's <I>Medea</I>,, ,LOVE 213,8,20,15,O'Neill    
+Fall,MA121,A,4,MTWF, 9:00am- 9:50am,Single-Variable Calculus,Q, ,KEYE 102,28,28,7,"Keller, A  "
+Fall,MA121,B,4,MTWF,10:00am-10:50am,Single-Variable Calculus,Q, ,KEYE 102,28,28,7,"Keller, A  "
+Fall,MA121,C1,4,MTWF,11:00am-11:50am,Single-Variable Calculus,Q, ,MUDD 405,24,28,13,Melvin     
+Fall,MA121,C2,4,MTWF,11:00am-11:50am,Single-Variable Calculus,Q, ,LOVE 208,23,28,13,Mathes     
+Fall,MA121,D1,4,MTWF,12:00n -12:50pm,Single-Variable Calculus,Q, ,MUDD 405,28,28,13,Welch      
+Fall,MA121,D2,4,MTWF,12:00n -12:50pm,Single-Variable Calculus,Q, ,LOVE 303,26,28,7,"Keller, A  "
+Fall,MA121,E,4,MTWF, 1:00pm- 1:50pm,Single-Variable Calculus,Q, ,LOVE 213,26,28,13,Melvin     
+Fall,MA121,F,4,MTWF, 2:30pm- 3:20pm,Single-Variable Calculus,Q, ,DAVI 201,26,28,13,Welch      
+Fall,MA122,A,4,MTWF, 8:00am- 8:50am,Series and Multi-variable Calculus,Q, ,LOVE 103,25,28,13,Randles    
+Fall,MA122,B,4,MTWF, 9:00am- 9:50am,Series and Multi-variable Calculus,Q, ,LOVE 103,20,28,13,Randles    
+Fall,MA122,C,4,MTWF,10:00am-10:50am,Series and Multi-variable Calculus,Q, ,MUDD 405,19,28,11,Melvin     
+Fall,MA122,D,4,MTWF,11:00am-11:50am,Series and Multi-variable Calculus,Q, ,LOVE 103,28,28,13,Youngs     
+Fall,MA122,E1,4,MTWF,12:00n -12:50pm,Series and Multi-variable Calculus,Q, ,KEYE 102,25,28,13,Gouvea     
+Fall,MA122,E2,4,MWF,12:00n -12:50pm,Series and Multi-variable Calculus,Q, ,DAVI 201,19,28,13,Livshits   
+Fall,MA122,E2,4,T,12:00n -12:50pm,Series and Multi-variable Calculus,Q, ,DAVI 201,19,28,13,Livshits   
+Fall,MA122,F,4,MTWF, 2:30pm- 3:20pm,Series and Multi-variable Calculus,Q, ,MUDD 405,14,28,13,Livshits   
+Fall,MA161,A,4,MTWF,12:00n -12:50pm,Honors Calculus I,Q, ,MILL 014,16,75,12,Mathes     
+Fall,MA253,A,4,MWF,10:00am-10:50am,Linear Algebra,, ,DAVI 301,24,28,16,Livshits   
+Fall,MA262,A,4,MWF,11:00am-11:50am,Vector Calculus,, ,KEYE 102,33,28,9,Bretscher  
+Fall,MA274,A,4,MWF,10:00am-10:50am,Mathematical Reasoning,W2, ,LOVE 205,22,24,16,"Taylor, Sc "
+Fall,MA311,A,4,MWF,12:00n -12:50pm,Ordinary Differential Equations,, ,LOVE 208,27,28,12,Randles    
+Fall,MA331,A,4,MWF,11:00am-11:50am,Topology,, ,DAVI 217,8,28,2,"Taylor, Sc "
+Fall,MA333,A,4,MWF, 1:00pm- 1:50pm,Abstract Algebra,, ,DAVI 217,12,28,8,Youngs     
+Fall,MA381,A,4,MWF,10:00am-10:50am,Probability,, ,LOVE 208,25,28,16,Gouvea     
+Fall,MA381,B,4,MWF, 1:00pm- 1:50pm,Probability,, ,KEYE 102,18,28,16,Gouvea     
+Fall,ML121,A,3,MWF,10:00am-10:50am,Elementary Modern Standard Arabic I-A,, ,LOVE 301,7,15,16,Chatti     
+Fall,ML123,A,3,MWF, 3:00pm- 3:50pm,Elementary Modern Standard Arabic II-A,, ,LOVE 450,2,15,13,Chatti     
+Fall,MU091,0,,,TBA,Music Lessons: Noncredit or JP,, , ,0,20, ,With Whom? 
+Fall,MU093,A,,M, 7:00pm-10:00pm,"Applied Music: Ensemble, Noncredit (Orchestra)",, ,BIXL 219,14,25, ,Park       
+Fall,MU093,B,,M, 4:00pm- 6:00pm,"Applied Music: Ensemble, Noncredit (Chorale)",, ,BIXL 178,7,25, ,Perry      
+Fall,MU093,B,,T, 7:00pm- 9:00pm,"Applied Music: Ensemble, Noncredit (Chorale)",, ,BIXL 178,7,25, ,Perry      
+Fall,MU093,C,,W, 7:00pm- 9:30pm,"Applied Music: Ensemble, Noncredit (Collegium)",, ,BIXL 178,3,25, ,Perry      
+Fall,MU093,D,,W, 7:00pm- 9:30pm,"Applied Music: Ensemble, Noncredit (Wind Ensemble)",, ,BIXL 219,4,25, ,"Thomas, E  "
+Fall,MU093,E,,R, 7:00pm- 9:30pm,"Applied Music: Ensemble, Noncredit (Jazz Band)",, ,BIXL 219,5,25, ,"Thomas, E  "
+Fall,MU093,F,,T, 7:00pm-10:00pm,"Applied Music: Ensemble, Noncredit (African Drumming)",, ,BIXL 154,4,25, ,Benissan   
+Fall,MU093,G,,,TBA,"Applied Music: Ensemble, Noncredit (Flute Choir)",, , ,2,25, ,Rabata     
+Fall,MU093,G1,,,TBA,"Applied Music: Ensemble, Noncredit (Mixed Chamber Ensemble)",, , ,1,25, ,Rabata     
+Fall,MU093,H,,,TBA,"Applied Music: Ensemble, Noncredit (Guitar Ensemble)",, , ,2,25, ,Leighton   
+Fall,MU093,I,,,TBA,"Applied Music: Ensemble, Noncredit (String Ensemble)",, , ,0,25, ,Park       
+Fall,MU093,J,,,TBA,"Applied Music: Ensemble, Noncredit (Guitar Ensemble)",, , ,0,25, ,Dimow      
+Fall,MU093,K,,,TBA,"Applied Music: Ensemble, Noncredit (Trumpet Ensemble)",, , ,0,25, ,Whitener   
+Fall,MU093,L,,,TBA,"Applied Music: Ensemble, Noncredit (Piano Ensemble)",, , ,0,25, ,Funahashi  
+Fall,MU093,L1,,,TBA,"Applied Music: Ensemble, Noncredit (Mixed Chamber Ensemble)",, , ,3,25, ,Funahashi  
+Fall,MU093,M,,T, 4:00pm- 5:00pm,"Applied Music: Ensemble, Noncredit (Music Scenes Ensemble)",, , ,0,25, ,"Morris, J  "
+Fall,MU093,O,,,TBA,"Applied Music: Ensemble, Noncredit (Chamber Ensemble)",, , ,6,25, ,"Thomas, E  "
+Fall,MU120,A,4,TR, 9:30am-10:45am,Exploring Music and Gender,"A,W1", ,BIXL 102,15,16, ,Zelensky   
+Fall,MU153,A,4,MW,11:00am-12:15pm,Introduction to Music Theory through Composition,A, ,BIXL 226,12,20,0,Hallstrom  
+Fall,MU181,A,4,MWF, 9:00am- 9:50am,Music Theory I,A, ,BIXL 226,10,20,1,Saunders   
+Fall,MU181,B,4,TR, 9:30am-10:45am,Music Theory I,A, ,BIXL 226,11,20,0,Hallstrom  
+Fall,MU181,C,4,TR,11:00am-12:15pm,Music Theory I,A, ,BIXL 150,15,20,0,Nuss       
+Fall,MU191,0,1 to 2,,TBA,Music Lessons: Credit,, , ,0,20, ,With Whom? 
+Fall,MU193,A,1,M, 7:00pm-10:00pm,Applied Music: Ensemble for Credit (Orchestra),, ,BIXL 219,11,25, ,Park       
+Fall,MU193,B,1,M, 4:00pm- 6:00pm,Applied Music: Ensemble for Credit (Chorale),, ,BIXL 178,4,25, ,Perry      
+Fall,MU193,B,1,T, 7:00pm- 9:00pm,Applied Music: Ensemble for Credit (Chorale),, ,BIXL 178,4,25, ,Perry      
+Fall,MU193,C,1,W, 7:00pm- 9:30pm,Applied Music: Ensemble for Credit (Collegium),, ,BIXL 178,8,25, ,Perry      
+Fall,MU193,D,1,W, 7:00pm- 9:30pm,Applied Music: Ensemble for Credit (Wind Ensemble),, ,BIXL 219,2,25, ,"Thomas, E  "
+Fall,MU193,E,1,R, 7:00pm- 9:30pm,Applied Music: Ensemble for Credit (Jazz Band),, ,BIXL 219,7,25, ,"Thomas, E  "
+Fall,MU193,F,1,T, 7:00pm-10:00pm,Applied Music: Ensemble for Credit (African Drumming),, ,BIXL 154,0,25, ,Benissan   
+Fall,MU193,G,1,,TBA,Applied Music: Ensemble for Credit (Flute Choir),, , ,0,25, ,Rabata     
+Fall,MU193,G1,1,,TBA,Applied Music: Ensemble for Credit (Mixed Chamber Ensemble),, , ,2,25, ,Rabata     
+Fall,MU193,H,1,,TBA,Applied Music: Ensemble for Credit (Guitar Ensemble),, , ,7,25, ,Leighton   
+Fall,MU193,I,1,,TBA,Applied Music: Ensemble for Credit (String Ensemble),, , ,0,25, ,Albert     
+Fall,MU193,J,1,,TBA,Applied Music: Ensemble for Credit (Guitar Ensemble),, , ,0,25, ,Dimow      
+Fall,MU193,K,1,,TBA,Applied Music: Ensemble for Credit (Trumpet Ensemble),, , ,0,25, ,Whitener   
+Fall,MU193,L,1,,TBA,Applied Music: Ensemble for Credit (Piano Ensemble),, , ,0,25, ,Funahashi  
+Fall,MU193,L1,1,,TBA,Applied Music: Ensemble for Credit (Mixed Chamber Ensemble),, , ,4,25, ,Funahashi  
+Fall,MU193,M,1,T, 4:00pm- 5:00pm,Applied Music: Ensemble for Credit (Musical Scenes Ensemble),, , ,0,25, ,"Morris, J  "
+Fall,MU193,O,1,,TBA,Applied Music: Ensemble for Credit (Chamber Ensemble),, , ,6,25, ,"Thomas, E  "
+Fall,MU241,A,4,MW, 2:30pm- 3:45pm,Music History I: Middle Ages to the Early Baroque Period,, ,BIXL 226,9,20,15,Saunders   
+Fall,MU252,A,4,TR, 1:00pm- 2:15pm,Introduction to World Music,A,I ,BIXL 178,26,25,9,Zelensky   
+Fall,MU275,A,4,MW, 2:30pm- 3:45pm,"Cultured Tough Guys: Samurai Devotion, Music, Poetry, and Art",A,I ,LORI CHAP,19,30,15,Nuss       
+Fall,PH117,A,4,MWF, 9:00am- 9:50am,How Things Work,N, ,MUDD 311,21,24,4,Chakdar    
+Fall,PH141,A,4,MWF,11:00am-11:50am,Foundations of Mechanics,"N,Lb", ,KEYE 105,44,48,3,McCoy      
+Fall,PH141,B,4,MWF,12:00n -12:50pm,Foundations of Mechanics,"N,Lb", ,KEYE 105,43,48,3,McCoy      
+Fall,PH141 D,A,,W, 1:00pm- 1:50pm,Disc:Foundations of Mechanics,, ,MUDD 311,26,24, ,Lessard    
+Fall,PH141 D,B,,W, 2:30pm- 3:20pm,Disc:Foundations of Mechanics,, ,MUDD 311,17,24, ,Lessard    
+Fall,PH141 D,C,,R, 1:00pm- 1:50pm,Disc:Foundations of Mechanics,, ,MUDD 311,22,24, ,Lessard    
+Fall,PH141 D,D,,R, 2:30pm- 3:20pm,Disc:Foundations of Mechanics,, ,MUDD 311,22,24, ,Lessard    
+Fall,PH141 L,A,,M, 2:00pm- 4:50pm,Lab: Foundations of Mechanics,, ,MUDD 322,17,18, ,Lessard    
+Fall,PH141 L,B,,T, 8:00am-10:50am,Lab: Foundations of Mechanics,, ,MUDD 322,11,18, ,Lessard    
+Fall,PH141 L,C,,W, 2:00pm- 4:50pm,Lab: Foundations of Mechanics,, ,MUDD 322,9,18, ,Goulet     
+Fall,PH141 L,D,,R, 9:00am-11:50am,Lab: Foundations of Mechanics,, ,MUDD 322,17,18, ,Lessard    
+Fall,PH141 L,E,,R, 2:00pm- 4:50pm,Lab: Foundations of Mechanics,, ,MUDD 322,16,18, ,Chakdar    
+Fall,PH141 L,F,,F, 1:00pm- 3:50pm,Lab: Foundations of Mechanics,, ,MUDD 322,17,18, ,Goulet     
+Fall,PH143,A,4,MWF,11:00am-11:50am,Honors Physics,"N,Lb", ,MUDD 311,13,24,2,Bluhm      
+Fall,PH143,A,4,T, 1:00pm- 1:50pm,Honors Physics,"N,Lb", ,MUDD 311,13,24,2,Bluhm      
+Fall,PH143,A,4,T, 2:00pm- 4:50pm,Honors Physics,"N,Lb", ,MUDD 311,13,24,2,Bluhm      
+Fall,PH231,A,4,MWF,10:00am-10:50am,Introduction to Astrophysics (See AS231),"N,Lb", , ,0, , ,McGrath    
+Fall,PH231,A,4,R, 1:00pm- 3:50pm,Introduction to Astrophysics (See AS231),"N,Lb", , ,0, , ,McGrath    
+Fall,PH241,A,4,MWF, 9:00am- 9:50am,Modern Physics I,, ,MUDD 405,34,35,4,Tate       
+Fall,PH241,A,4,T, 1:00pm- 1:50pm,Modern Physics I,, ,KEYE 105,34,35,4,Tate       
+Fall,PH250,A,4,M, 1:00pm- 2:50pm,Experiments in Modern Physics,, ,KEYE 114,10,12,0,Tate       
+Fall,PH250,A,4,W, 1:00pm- 3:50pm,Experiments in Modern Physics,, ,KEYE 114,10,12,0,Tate       
+Fall,PH321,A,4,MTRF,12:00n -12:50pm,Electricity and Magnetism,, ,MUDD 311,11,24,12,Kocevski   
+Fall,PH335,A,4,MWF, 9:00am- 9:50am,General Relativity and Cosmology,, ,KEYE 103,11,18,4,Bluhm      
+Fall,PH335,A,4,T, 9:00am- 9:50am,General Relativity and Cosmology,, ,MUDD 311,11,18,4,Bluhm      
+Fall,PH401,A,2,M, 2:30pm- 3:45pm,Senior Physics and Astronomy Seminar,, ,KEYE 105,10,12,0,McCoy      
+Fall,PH401,B,2,M, 2:30pm- 3:45pm,Senior Physics and Astronomy Seminar,, ,KEYE 103,8,12,0,Kocevski   
+Fall,PH431,A,4,MWRF,11:00am-11:50am,Quantum Mechanics,, ,MUDD 323,8,18,2,Chakdar    
+Fall,PL111,A,4,TR, 9:30am-10:45am,Central Philosophical Issues: Self and Society,S, ,LOVE 205,18,30,0,Gordon     
+Fall,PL114,A,4,MW, 1:00pm- 2:15pm,Central Philosophical Issues: Nature and God,L, ,LOVE 119,29,30,0,Behuniak   
+Fall,PL126,A,4,TR,11:00am-12:15pm,Philosophy and the Environment,, ,LOVE 119,20,25,0,Peterson   
+Fall,PL151,A,4,MWF,11:00am-11:50am,Logic and Argumentation,Q, ,LOVE 100,67,75,2,Cohen      
+Fall,PL161,A,1,,TBA,Reading Greek Philosophy,, , ,13,15, ,Barrett    Gordon      
+Fall,PL231,A,4,TR, 1:00pm- 2:15pm,History of Ancient Greek Philosophy,H, ,LOVE 119,21,25,11,Gordon     
+Fall,PL266,A,4,MW, 2:30pm- 3:45pm,Buddhist Philosophy,L, ,LOVE 119,26,25,0,Behuniak   
+Fall,PL277,A,1,,TBA,Reuman Reading Group,, , ,14,16, ,Cohen      
+Fall,PL297,A,4,TR,11:00am-12:15pm,Philosophy of Sex and Gender,, ,LOVE 246,13,25,0,Switzer    
+Fall,PL378,A,4,TR, 9:30am-10:45am,Contemporary Continental Philosophy,, ,LOVE 246,3,18,0,Peterson   
+Fall,PL397,A,4,TR, 2:30pm- 3:45pm,Philosophers in Focus: Friedrich Nietzsche,, ,LOVE 246,15,18,0,Switzer    
+Fall,PL401,A,,,TBA,Philosophy Colloquium I,, , ,12,18, ,Cohen      Gordon     Peterson    
+Fall,PS111,A,4,MWF,10:00am-10:50am,Introduction to Psychology,S, ,LOVE 100,95,90,16,Buccigross Raag       Seto       Sheets     Shipstead   
+Fall,PS120C,A,4,MWF, 9:00am- 9:50am,Worlds of Childhood,W1, ,MILL 319,16,16, ,Arterberry 
+Fall,PS214,A,4,MW,11:00am-12:15pm,Research Methods and Statistics in Psychology I,Q, ,DAVI 301,34,30,3,Soto       
+Fall,PS214,B,4,MW, 2:30pm- 3:45pm,Research Methods and Statistics in Psychology I,Q, ,DAVI 301,32,30,3,Soto       
+Fall,PS214 L,A,,R, 1:00pm- 2:15pm,Lab: Research Methods and Statistics I,, ,DAVI 308,22,20, ,"Rogers, R  "
+Fall,PS214 L,B,,R, 2:30pm- 3:45pm,Lab: Research Methods and Statistics I,, ,DAVI 308,22,20, ,Shipstead  
+Fall,PS214 L,C,,F, 1:00pm- 2:15pm,Lab: Research Methods and Statistics I,, ,DAVI 308,22,20, ,Soto       
+Fall,PS232,A,4,TR, 1:00pm- 2:15pm,Cognitive Psychology,, ,DAVI 301,34,30,11,Shipstead  
+Fall,PS241,A,4,MW, 2:30pm- 3:45pm,Health Psychology,, ,LOVE 208,21,30,15,Buccigross 
+Fall,PS242,A,4,TR,11:00am-12:15pm,Psychoneuroimmunology,, ,DAVI 301,30,30,1,Buccigross 
+Fall,PS253,A,4,MWF, 9:00am- 9:50am,Social Psychology,, ,LOVE 208,33,30,13,"Rogers, R  "
+Fall,PS254,A,4,MW, 1:00pm- 2:15pm,Abnormal Psychology,, ,DAVI 301,29,30,8,Sheets     
+Fall,PS259,A,4,TR, 9:30am-10:45am,Lifespan Development,, ,DAVI 301,36,30,7,Raag       
+Fall,PS336,A,4,TR,11:00am-12:15pm,Seminar in Experimental Social Psychology,W3, ,DAVI 307,12,10,1,Seto       
+Fall,PS337,A,1,,TBA,Collaborative Research in Social Psychology,, , ,12,10, ,Seto       
+Fall,PS347,A,4,MW, 2:30pm- 3:45pm,Seminar in Cognitive Development,W3, ,DAVI 307,11,10,0,Arterberry 
+Fall,PS348,A,1,,TBA,Collaborative Research in Cognitive Development,, , ,11,10, ,Arterberry 
+Fall,PS349,A,4,MW,11:00am-12:15pm,Seminar in Neural Plasticity and Behavior,W3, ,DAVI 307,12,10,2,Glenn      
+Fall,PS350,A,1,R, 1:00pm- 4:00pm,Collaborative Research in Neural Plasticity,, ,DAVI 300,12,10, ,Glenn      
+Fall,PS352D,A,4,TR, 9:30am-10:45am,Seminar on Attention and Memory,, ,DAVI 307,9,12,7,Shipstead  
+Fall,PS420,A,3,W, 1:00pm- 3:30pm,Senior Integrative Seminar,, ,LOVE 103,16,16,0,Raag       
+Fall,PS420,A,3,F, 3:00pm- 4:00pm,Senior Integrative Seminar,, ,DAVI 301,16,16,0,Raag       
+Fall,PS420,B,3,W, 7:00pm- 9:30pm,Senior Integrative Seminar,, ,DAVI 301,16,16,0,"Rogers, R  "
+Fall,PS420,B,3,F, 3:00pm- 4:00pm,Senior Integrative Seminar,, ,DAVI 301,16,16,0,"Rogers, R  "
+Fall,RE136,A,4,TR, 9:30am-10:45am,Introduction to Christianity,H, ,DIAM 323,12,35,7,Harper     
+Fall,RE143,A,4,MW, 2:30pm- 3:45pm,Introduction to the Hebrew Bible/Old Testament,L, ,LOVE 215,30,35,15,Emanuel    
+Fall,RE181,A,4,MW, 1:00pm- 2:15pm,Conceptions of Jews and Judaism,H,I ,LOVE 344,6,35,1,Freidenrch 
+Fall,RE212,A,4,TR, 1:00pm- 2:15pm,"Religions of China, Japan, and Tibet",S, ,LOVE 344,10,30,0,Singh      
+Fall,RE223,A,2,W, 7:00pm- 8:15pm,Religion in the Modern State of Israel,, ,LOVE 344,8,13,0,Freidenrch 
+Fall,RE244,A,4,MW,11:00am-12:15pm,Anthropology of Religion (See AY244),,I , ,0, , ,Strohl     
+Fall,RE256,A,4,TR, 1:00pm- 2:15pm,The African-American Religious Experience,,U ,DIAM 243,7,30,11,Gilkes     
+Fall,RE297,A,4,TR,11:00am-12:15pm,Religion and the American Lyric: Poetry and Popular Music,L, ,LOVE 205,8,25,1,Harper     
+Fall,RE312,A,4,TR, 2:30pm- 3:45pm,"Global South Asia: Literature, Art, Environment",L,I ,LOVE 344,7,14,0,Singh      
+Fall,RE397,A,4,MW,11:00am-12:15pm,The Gendered Bible,, ,LOVE 211,11,13,0,Emanuel    
+Fall,RU125,A,4,MTWR, 9:00am- 9:50am,Elementary Russian I,, ,LOVE 450,6,20,10,Ansdell    
+Fall,RU127,A,4,MTWR, 9:00am- 9:50am,Intermediate Russian I,, ,LOVE 302,16,20,0,"Parker, Lu "
+Fall,RU135,A,1,T, 7:00pm- 7:50pm,Conversation Group,, ,LOVE 423,6,10, ,Nikiforova 
+Fall,RU135,B,1,R, 8:00pm- 8:50pm,Conversation Group,, ,LOVE 450,8,10, ,Nikiforova 
+Fall,RU237,A,4,MW, 1:00pm- 2:15pm,Devils and Inquisitors: Narrative and Self in the Russian Empire,L, ,LOVE 212,11,20,0,"Parker, Lu "
+Fall,RU242,A,4,TR, 2:30pm- 3:45pm,Back to the Future: Recent Russian Cinema (in English),A,I ,LOVE 450,6,20,5,Ansdell    
+Fall,RU242,A,4,M, 7:00pm- 9:00pm,Back to the Future: Recent Russian Cinema (in English),A,I ,LOVE 205,6,20,5,Ansdell    
+Fall,RU325,A,4,TRF,11:00am-11:50am,Advanced Russian I,L, ,LOVE 303,2,15,0,"Parker, Lu "
+Fall,RU335,A,1,W, 6:00pm- 6:50pm,Conversation Group,, ,LOVE 319,3,10, ,Nikiforova 
+Fall,RU425,A,4,TRF,11:00am-11:50am,Advanced Russian I,L, ,LOVE 303,3,10,0,"Parker, Lu "
+Fall,SC212,A,4,MWF, 8:00am- 8:50am,Introduction to Statistics and Data Science,"Q,W2", ,DAVI 201,26,28,14,O'Brien    
+Fall,SC212,B,4,MWF, 9:00am- 9:50am,Introduction to Statistics and Data Science,"Q,W2", ,DAVI 201,28,28,14,Bontea     
+Fall,SC212,C,4,MWF,10:00am-10:50am,Introduction to Statistics and Data Science,"Q,W2", ,DAVI 201,24,28,14,Bontea     
+Fall,SC212,D,4,MWF,11:00am-11:50am,Introduction to Statistics and Data Science,"Q,W2", ,DAVI 201,27,28,14,Wieczorek  
+Fall,SC212,E,4,MWF, 1:00pm- 1:50pm,Introduction to Statistics and Data Science,"Q,W2", ,DAVI 201,23,28,14,Wieczorek  
+Fall,SC212 L,A,,W,11:00am-11:50am,Lab: Intro Stats/Data Sci,, ,DAVI 308,25,28, ,O'Brien    
+Fall,SC212 L,B,,R,11:00am-11:50am,Lab: Intro Stats/Data Sci,, ,DAVI 308,28,28, ,Wieczorek  
+Fall,SC212 L,C,,W,12:00n -12:50pm,Lab: Intro Stats/Data Sci,, ,DAVI 308,24,28, ,Bontea     
+Fall,SC212 L,D,,R,12:00n -12:50pm,Lab: Intro Stats/Data Sci,, ,DAVI 308,26,28, ,Wieczorek  
+Fall,SC212 L,E,,W, 1:00pm- 1:50pm,Lab: Intro Stats/Data Sci,, ,DAVI 308,25,28, ,Bontea     
+Fall,SC321,A,4,MWF, 9:00am- 9:50am,Statistical Modeling,, ,DAVI 308,16,28,4,O'Brien    
+Fall,SC381,A,4,MWF,10:00am-10:50am,Probability (See MA381),, , ,0, , ,Gouvea     
+Fall,SC381,B,4,MWF, 1:00pm- 1:50pm,Probability (See MA381),, , ,0, , ,Gouvea     
+Fall,SO131,A,4,MW, 1:00pm- 2:15pm,Introduction to Sociology,S,U ,DIAM 145,33,35,8,Gross      
+Fall,SO212,A,4,MW,11:00am-12:15pm,Introduction to GIS and Spatial Analysis (See ES214),, , ,0, , ,Gimond     
+Fall,SO215,A,4,TR, 2:30pm- 3:45pm,Classical Sociological Theory,, ,LOVE 203,19,20,5,Mayrl      
+Fall,SO236,A,4,TR,11:00am-12:15pm,Collective Soul: The Social Side of American Religion,S, ,DIAM 344,12,20,0,Mayrl      
+Fall,SO243,A,4,MW,11:00am-12:15pm,College in Crisis?,, ,DIAM 221,16,20,2,Gross      
+Fall,SO252,A,4,TR, 9:30am-10:45am,"Race, Ethnicity, and Society",,U ,LOVE 215,33,30,7,Gilkes     
+Fall,SO262,A,4,MW, 1:00pm- 2:15pm,Comparative Perspectives on Inequality,S, ,DIAM 221,10,20,8,Kesler     
+Fall,SO264,A,4,MW, 2:30pm- 3:45pm,The Art and Science of Data Analysis,, ,DIAM 322,4,20,0,Kesler     
+Fall,SO324,A,4,TR,11:00am-12:15pm,Elite Schooling in Global Context (See ED324),,I , ,0, , ,Howard     
+Fall,SO355,A,4,T, 7:00pm- 9:30pm,African-American Women and Social Change,,U ,DIAM 243,13,15,6,Gilkes     
+Fall,SP125,A,4,MTWR, 8:00am- 8:50am,Elementary Spanish I,, ,LOVE 319,15,19,10,Mercado    
+Fall,SP125,B,4,MTWR, 9:00am- 9:50am,Elementary Spanish I,, ,LOVE 319,16,19,10,Mercado    
+Fall,SP125,C,4,MTWR,10:00am-10:50am,Elementary Spanish I,, ,LOVE 319,18,19,10,Allbritton 
+Fall,SP125,D,4,MTWR,11:00am-11:50am,Elementary Spanish I,, ,LOVE 215,18,19,10,Bernal     
+Fall,SP126,A,4,MTWR, 8:00am- 8:50am,Elementary Spanish II,, ,LOVE 303,16,19,10,Bernal     
+Fall,SP126,B,4,MTWR, 9:00am- 9:50am,Elementary Spanish II,, ,LOVE 102,16,19,10,Savo       
+Fall,SP126,C,4,MTWR,10:00am-10:50am,Elementary Spanish II,, ,LOVE 303,19,19,10,"Martinez,M "
+Fall,SP126,D,4,MTWR,11:00am-11:50am,Elementary Spanish II,, ,LOVE 212,17,19,10,Savo       
+Fall,SP127,A,4,MTWR, 8:00am- 8:50am,Intermediate Spanish I,, ,LOVE 202,18,19,10,Mayans     
+Fall,SP127,B1,4,MTWR, 9:00am- 9:50am,Intermediate Spanish I,, ,LOVE 303,18,19,10,"Martinez,M "
+Fall,SP127,B2,4,MTWR, 9:00am- 9:50am,Intermediate Spanish I,, ,LOVE 202,18,19,10,Mayans     
+Fall,SP127,C,4,MTWR,10:00am-10:50am,Intermediate Spanish I,, ,LOVE 102,18,19,10,Bollo      
+Fall,SP127,D,4,MTWR,11:00am-11:50am,Intermediate Spanish I,, ,LOVE 102,18,19,10,Bollo      
+Fall,SP127,E,4,MTWR,12:00n -12:50pm,Intermediate Spanish I,, ,LOVE 212,16,19,10,"Martinez,M "
+Fall,SP127S,A,7,,TBA,Lengua Espanola III,, , ,14, , ,Instructor 
+Fall,SP128,A,4,MW, 1:00pm- 2:15pm,Intermediate Spanish II,, ,LOVE 318,15,15,0,"White, B   "
+Fall,SP128,B,4,TR, 9:30am-10:45am,Intermediate Spanish II,, ,LOVE 301,12,15,0,"White, B   "
+Fall,SP128S,A,7,,TBA,Lengua Espanola IV,, , ,5, , ,Instructor 
+Fall,SP131,A,4,MW,11:00am-12:15pm,Conversation and Composition,, ,LOVE 301,13,15,0,Millones   
+Fall,SP131,B,4,TR, 1:00pm- 2:15pm,Conversation and Composition,, ,LOVE 302,14,15,0,Mercado    
+Fall,SP131S,A,7,,TBA,"Lengua Espan- Comp, Conv",, , ,5, , ,Instructor 
+Fall,SP134S,A,3,,TBA,Lecturias literarias en espanol,L, , ,24, , ,Instructor 
+Fall,SP135,A,4,MW, 2:30pm- 3:45pm,Introduction to Literary Analysis,L, ,LOVE 211,12,15,0,Savo       
+Fall,SP140S,A,4,,TBA,El Mundo Arabe en el Mundo Hispanico,H, , ,2, , ,Instructor 
+Fall,SP143S,A,3,,TBA,"Spain in Transition: Identity, Culture, Society",S,I , ,9, , ,Instructor 
+Fall,SP231,A,4,MTWR,10:00am-10:50am,Advanced Spanish,, ,LOVE 302,5,15,9,Olivares   
+Fall,SP231,B,4,MTWR,11:00am-11:50am,Advanced Spanish,, ,LOVE 302,9,15,9,Olivares   
+Fall,SP253,A,4,MW, 2:30pm- 3:45pm,Medieval Iberian Cultures,L,I ,LOVE 301,8,15,0,Bollo      
+Fall,SP273,A,4,TR, 1:00pm- 2:15pm,Contemporary Spanish-American Short Story,L, ,LOVE 301,13,15,11,Olivares   
+Fall,SP362,A,4,MW, 1:00pm- 2:15pm,All about Almod&oacute;var,A,I ,LOVE 301,10,15,0,Allbritton 
+Fall,SP497,A,4,M, 7:00pm- 9:30pm,Seminar: Inca Garcilaso de la Vega,L, ,LOVE 301,9,15,0,Millones   
+Fall,SP512S,A,2,,TBA,Lengua Espanola,, , ,2, , ,Instructor 
+Fall,SP516S,A,1,,TBA,El Mundo Arabe en el Mundo Hispanico,, , ,1, , ,Instructor 
+Fall,SP521S,A,4,,TBA,Lit Hispanoamericana,, , ,1, , ,Instructor 
+Fall,ST112,A,4,MW, 2:30pm- 3:45pm,"Science, Technology, and Society",S, ,MILL 014,21,20,0,"Jiang, L   "
+Fall,ST215,A,4,M, 1:00pm- 3:30pm,"Weather, Climate, and Society",N, ,OLIN 001,46,40,0,Fleming    
+Fall,ST245,A,4,TR, 9:30am-10:45am,"Science, Race, and Gender (See HI245)",N,U , ,0, ,0,Josephson  
+Fall,ST248,A,4,TR,11:00am-12:15pm,"Nuclear Visions, Environmental Realities (See HI248)",H,I , ,0, ,0,Josephson  
+Fall,ST283,A,4,MW, 1:00pm- 2:15pm,Environmental Humanities: Stories of Crisis and Resilience (See EN283),L, , ,0, , ,Walker     
+Fall,ST285,A,4,TR, 9:30am-10:45am,History of Photography (See AR285),A, , ,0, , ,Saltz      
+Fall,ST297,A,4,R, 1:00pm- 3:30pm,"Global Food, Health, and Society",S,I ,DIAM 242,18,20,0,"Jiang, L   "
+Fall,ST297B,A,4,W, 1:00pm- 3:30pm,Nature in Italian Literature and Film (in English) (See IT297),L, , ,0, , ,Ferrando   
+Fall,ST485,A,4,T, 1:00pm- 3:30pm,Technology Matters,W3, ,DIAM 242,7,16,0,Fleming    
+Fall,TD115A,A,2,M, 2:00pm- 4:00pm,Theater Technique Lab: British Dialect Scene Study,, ,RUNN 110,5,15,0,Weinblatt  
+Fall,TD117A,A,2,TR,11:00am-12:30pm,Contemporary Dance Technique Lab: Beginning/Partnering,, ,RUNN 201,13,15,0,Anspaugh   
+Fall,TD117B,A,2,MW, 2:30pm- 4:00pm,Contemporary Dance Technique Lab: Intermediate,, ,RUNN 201,8,15,0,Kloppenbrg 
+Fall,TD118,A,2,MW,11:00am-12:30pm,Dance Technique Lab: Dance Forms of the African Diaspora: Hip-hop,, ,RUNN 201,10,18,0,Akuchu     
+Fall,TD139,A,4,M, 1:00pm- 4:00pm,Stagecraft I,A, ,RUNN SHOP,4,4,0,Ervin      
+Fall,TD139,B,4,T, 1:00pm- 4:00pm,Stagecraft I,A, ,RUNN SHOP,4,4,0,Ervin      
+Fall,TD139,C,4,R, 1:00pm- 4:00pm,Stagecraft I,A, ,RUNN SHOP,4,4,0,Ervin      
+Fall,TD141,A,4,MW,11:00am-12:15pm,Beginning Playwriting,A, ,RUNN 110,7,12,0,Oldham     
+Fall,TD147A,A,4,MW,11:00am-12:15pm,Articulating the Physical,"A,W1", ,RUNN 203,12,16, ,Kloppenbrg 
+Fall,TD147B,A,2,T, 1:00pm- 3:50pm,Somatic Practices: Yoga,, ,RUNN 201,12,16,0,Kloppenbrg 
+Fall,TD164,A,1,,TBA,Applied Performance/Production,, , ,18,25, ,Kloppenbrg 
+Fall,TD171,A,4,TR, 2:00pm- 3:50pm,Acting I,A, ,RUNN SMIT,16,14,0,Akuchu     
+Fall,TD224,A,4,TR, 9:30am-10:45am,Performance History I,L, ,RUNN 110,3,15,7,Oldham     
+Fall,TD239,A,4,W, 1:00pm- 4:00pm,Stagecraft II,, ,RUNN SHOP,0,4,0,Ervin      
+Fall,TD264A,A,2,,TBA,Applied Performance/Production: <I>Set in the Living Room of a Small Town American Play</I>,, ,RUNN THTR,9,25, ,Bercovici  
+Fall,TD264B,A,2,,TBA,Applied Performance/Production: Fall Performance Projects,, , ,0,25, ,Kloppenbrg 
+Fall,TD355,A,4,M, 7:00pm-10:00pm,Applied Choreography,, ,RUNN 201,2,15,0,Kloppenbrg 
+Fall,TD365,A,4,MW, 2:30pm- 3:50pm,Advanced Topics in Design: Architectural Imaging,A, ,RUNN 203,6,12,15,Thurston   
+Fall,WG120,A,4,TR,11:00am-12:15pm,"Gender and Film: Narrative Film, Resistance, and Revolt",W1, ,MILL 241,16,16, ,Fugikawa   
+Fall,WG201,A,4,MW,11:00am-12:15pm,"Introduction to Women's, Gender, and Sexuality Studies",,U ,LOVE 319,19,20,2,Arellano   
+Fall,WG311,A,4,TR, 9:30am-10:45am,Feminist Theories and Methodologies,,U ,MILL 241,8,15,7,"Thomas, S  "
+Fall,WG397,A,4,TR, 1:00pm- 2:15pm,South Asian Feminisms,,I ,MILL 241,7,15,0,"Thomas, S  "
+Fall,WP111,A,3,MW, 1:00pm- 2:15pm,Communication in Context,, ,MILL 241,5,10,0,Gherwash   
+Fall,WP112,A,1,,TBA,Writers' Workshop,, , ,25,25, ,Harrington Sheriff     
+Fall,WP115A,A,4,TR,11:00am-12:15pm,"First-Year Writing: Rhetoric, Writing, and Social Change",W1, ,MILL 008,16,16, ,Sheriff    
+Fall,WP115C,A,4,TR, 9:30am-10:45am,First-Year Writing: Reimagining  the Essay,W1, ,DIAM 123,16,16, ,Ketner     
+Fall,WP115C,B,4,TR, 1:00pm- 2:15pm,First-Year Writing: Reimagining  the Essay,W1, ,MILL 319,16,16, ,Ketner     
+Fall,WP115G,A,4,TR, 1:00pm- 2:15pm,First-Year Writing: Rich and Poor in American Novels,W1, ,LOVE 202,14,16, ,Harrington 
+Fall,WP115H,A,4,MWF, 1:00pm- 1:50pm,First-Year Writing: Writing about Writing,W1, ,LOVE 203,16,16, ,Hancock    
+Fall,WP115I,A,4,TR, 1:00pm- 2:15pm,First-Year Writing: Landscape and Place,W1, ,LOVE 103,16,16, ,Megan      
+Fall,WP115I,B,4,TR, 2:30pm- 3:45pm,First-Year Writing: Landscape and Place,W1, ,LOVE 103,16,16, ,Megan      
+Fall,WP151A,A,4,MWF,10:00am-10:50am,Reading and Writing about Literature: Dark and Stormy Nights,W1, ,LOVE 119,15,16, ,Stokes     
+Fall,WP151A,B,4,MWF,11:00am-11:50am,Reading and Writing about Literature: Dark and Stormy Nights,W1, ,LOVE 119,16,16, ,Stokes     
+Fall,WP310,A,4,MWF,10:00am-10:50am,Professional Writing,W2,U ,MILL 220,8,16,0,Hancock    
+Janplan,AA338,A,3,,TBA,Field Study in African Development (See GO338),, , ,0, , ,Seay       
+Janplan,AM117,A,2,MRF, 2:00pm- 4:00pm,Fundamentals of Screenwriting,, ,DIAM 342,15,15, ,"Wilson, Wa "
+Janplan,AR117,A,3,MWF, 1:00pm- 4:00pm,Introduction to Art Conservation and Preservation,, ,BIXL 075,14,16, ,Roth-Wells 
+Janplan,AR131J,A,3,MTWR, 9:00am-12:00n ,Introduction to Studio Art,A, ,BIXL 283,16,16, ,Reed       
+Janplan,AR131J,B,3,MTWR, 1:00pm- 4:00pm,Introduction to Studio Art,A, ,BIXL 283,16,16, ,Reed       
+Janplan,AR217,A,3,TRF, 9:00am- 1:00pm,Figure Drawing and Anatomy,, ,BIXL 225,16,16, ,"Engman, K  "
+Janplan,AR218,A,3,M, 1:00pm- 4:00pm,Architectural Design Workshop,, ,BIXL 150,14,16, ,"Lock       Pratt, R    "
+Janplan,AR218,A,3,WF, 1:00pm- 4:00pm,Architectural Design Workshop,, ,BIXL 117,14,16, ,"Lock       Pratt, R    "
+Janplan,AR219,A,3,MTR, 9:00am- 1:00pm,Introduction to Bookbinding: Techniques and Intangibles,, ,LORI 028,10,10, ,Eddy       
+Janplan,AR269J,A,3,F,10:00am- 3:00pm,Advanced Topics in Performance: Presence/Past (See TD361J),, , ,0, , ,"Bartnick   Smith, S    "
+Janplan,AR288,A,3,MWF, 8:30am-11:30am,Global Photographies,A,I ,LOVE 205,25,25, ,Nolan      
+Janplan,AY119,A,3,MTWR,12:00n - 2:00pm,The Anthropology of Utopias,S, ,LOVE 203,25,25, ,Hriskos    
+Janplan,AY221,A,3,MTWR, 1:00pm- 3:00pm,"Of Beasts, Pets, and Wildlife: What Animals Mean to Humans",, ,DIAM 221,18,20, ,Menair     
+Janplan,AY297A,A,3,TRF, 1:00pm- 4:00pm,Maine Drug Policy Lab,, ,DIAM 323,9,20, ,"Tate, W    "
+Janplan,BI111,A,2,MTWRF, 8:00am- 4:00pm,Emergency Medical Technician Training,, ,ROBE SHR,40,40, ,Berkner    
+Janplan,BI118,A,3,MWR, 1:00pm- 4:00pm,Sustainable Agriculture and Food Systems,N, ,OLIN 001,24,25, ,"Marshall,A "
+Janplan,BI265,A,3,MTWR, 9:00am-10:50am,Introduction to Human Anatomy and Physiology,N, ,OLIN 001,16,16, ,Klepach    
+Janplan,BI265,A,3,MTWR,11:00am-12:30pm,Introduction to Human Anatomy and Physiology,N, ,AREY 307,16,16, ,Klepach    
+Janplan,BI297D,A,3,TW, 9:30am-12:00n ,Global Change Impacts on Marginal Marine Ecosystems (See ES297D),"N,Lb", , ,0, ,OCIN,"Price, N   "
+Janplan,BI297D,A,3,TWR, 1:00pm- 3:00pm,Global Change Impacts on Marginal Marine Ecosystems (See ES297D),"N,Lb", , ,0, ,OCIN,"Price, N   "
+Janplan,BI297E,A,3,MTWR,10:00am-12:00n ,Comparative Biomechanics,, ,KEYE 102,19,20, ,"O'Brien, D "
+Janplan,BI371,A,3,MTWRF, 8:00am- 4:00pm,Applied Biomedical Genomics,, ,OLIN 314,14,10, ,Tilden     
+Janplan,CL143,A,3,MTWR, 9:00am-11:00am,Introduction to Greek and Roman Archaeology,H, ,LOVE 100,28,30, ,Garland    
+Janplan,CL197,A,3,MTR, 9:00am-12:30pm,Representing Rome,L, ,AREY 005,36,25, ,Welser     
+Janplan,CN125J,A,3,MTWRF, 9:00am-12:00n ,Elementary Chinese I,, ,LOVE 423,6,20, ,"Liu, J     "
+Janplan,CS267,A,3,MWR, 9:00am-10:00am,Interactive Digital Media,A, ,DAVI 301,52,30, ,Maxwell    
+Janplan,CS267,A,3,MWR,10:00am-11:30am,Interactive Digital Media,A, ,DAVI 102,52,30, ,Maxwell    
+Janplan,CS267,A,3,MWR, 1:00pm- 3:00pm,Interactive Digital Media,A, ,DAVI 301,52,30, ,Maxwell    
+Janplan,CS325,A,3,MTR, 9:00am-11:30am,Web Programming,, ,DAVI 117,22,24, ,Skrien     
+Janplan,CS325,A,3,MTR, 1:00pm- 3:00pm,Web Programming,, ,DAVI 102,22,24, ,Skrien     
+Janplan,EA297D,A,3,MTWR, 9:30am-11:30am,Revolutionary Culture in Contemporary China (See HI297D),H,I , ,0, , ,"Parker, La "
+Janplan,EC117,A,3,MTWR, 9:00am-11:00am,Introduction to Financial Decision Making,, ,DIAM 141,20,20, ,Largay     
+Janplan,EC117,B,3,MTWR, 1:00pm- 3:00pm,Introduction to Financial Decision Making,, ,DIAM 141,20,20, ,Largay     
+Janplan,EC171,A,3,MTWR, 9:30am-11:30am,Global Financial Markets,, ,LOVE 215,25,25, ,Atkinson   
+Janplan,EC256,A,3,TWR, 9:30am-11:30am,Economics of Crime,, ,DIAM 344,21,22, ,"Burton, A  "
+Janplan,EC256,A,3,F, 9:30am-11:30am,Economics of Crime,, ,DAVI 308,21,22, ,"Burton, A  "
+Janplan,ED221,A,3,MWR, 1:00pm- 3:45pm,Creating Media for Social Change,, ,DIAM 153,22,25, ,Pierce     
+Janplan,ED227,A,3,MTWR, 1:00pm- 3:00pm,History of Educational Activism,, ,DIAM 123,17,20, ,Casalaspi  
+Janplan,ED297,A,3,MTWR,10:00am-12:00n ,Teach Freedom,, ,DIAM 123,16,20, ,Ayers      
+Janplan,ED297B,A,3,MTWR,10:00am-12:00n ,What Kind of a Person is a Child?,, ,DIAM 323,21,20, ,Dohrn      
+Janplan,ED351J,A,3,W, 1:00pm- 3:30pm,Practicum in Education,, ,MILL 034,8,30, ,Proto      
+Janplan,ED437,A,3,M, 7:00pm- 9:30pm,Student Teaching Practicum,, ,MILL 034,0,10, ,Howard     
+Janplan,EN115J,A,3,MTRF, 9:30am-12:30pm,English Composition: Critical Writing,W1, ,LOVE 202,16,16, ,Osborne    
+Janplan,EN174J,A,2,MTR, 1:30pm- 3:45pm,Public Speaking,, ,DIAM 122,17,20, ,Donnelly   
+Janplan,EN237,A,3,,TBA,"Postcolonial Pastoral: Ecology, Travel, and Writing",L,I , ,20,18,OCIN,Roy        
+Janplan,EN238,A,3,MTWR, 1:00pm- 3:30pm,"Art of Fly-Fishing: Maine and Bishop, California",L, ,MUDD 311,12,12,OCUS,Suchoff    
+Janplan,EN258,A,3,MW, 9:00am-12:00n ,Adventurous Writers of Maine: A Creative Writing Lab,A, ,BIXL 154,25,25, ,Blevins    Braunstein  
+Janplan,EN258,A,3,F,10:00am-12:00n ,Adventurous Writers of Maine: A Creative Writing Lab,A, ,BIXL 154,25,25, ,Blevins    Braunstein  
+Janplan,EN297,A,3,MTWR, 1:00pm- 3:00pm,"Race, Gender, and Experimental Women's Writing",L,U ,MILL 319,20,20, ,Ardam      
+Janplan,ES151,A,3,MWF, 1:00pm- 4:00pm,Landscapes and Meaning: An Exploration of Environmental Writing,L, ,DIAM 344,15,16, ,MacKenzie  
+Janplan,ES214J,A,3,MTRF, 9:30am-12:00n ,Introduction to GIS and Spatial Analysis,, ,DIAM 322,21,24, ,Gimond     
+Janplan,ES219,A,3,MWF, 1:00pm- 4:00pm,Architectural Design Workshop (See AR218),, , ,0, , ,Lock        
+Janplan,ES297C,A,3,MTWR, 1:00pm- 3:00pm,Creative Environmental Storytelling,, ,DIAM 242,16,16, ,"Williams,B "
+Janplan,ES297D,A,3,MTWR, 9:30am-12:00n ,Global Change Impacts on Marginal Marine Ecosystems,"N,Lb", ,DIAM 223,20,16,OCIN,"Neal, B    Price, N   Rasher      "
+Janplan,ES297D,A,3,MTWR, 1:00pm- 3:00pm,Global Change Impacts on Marginal Marine Ecosystems,"N,Lb", ,DIAM 223,20,16,OCIN,"Neal, B    Price, N   Rasher      "
+Janplan,FR127J,A,3,,TBA,French III (Paris),, , ,13,15,OCIN,Davies     
+Janplan,GE111,A,3,MTWR,10:00am-12:00n ,Geology of National Parks,N, ,MUDD 218,20,20, ,Rueger     
+Janplan,GE242,A,3,MW, 1:00pm- 3:00pm,Hydrogeology,, ,MUDD 221,12,14, ,"Morin, R   "
+Janplan,GE242,A,3,TR, 9:00am-11:00am,Hydrogeology,, ,MUDD 221,12,14, ,"Morin, R   "
+Janplan,GM125J,A,3,MTWR, 9:30am-11:00am,Elementary German I,, ,LOVE 207,3,20, ,"Koch, A    "
+Janplan,GM125J,A,3,MTWR, 1:00pm- 2:30pm,Elementary German I,, ,LOVE 207,3,20, ,"Koch, A    "
+Janplan,GO338,A,3,,TBA,Field Study in African Development,, , ,10,10,OCIN,Seay       
+Janplan,GO362,A,3,MTWR, 9:00am-11:00am,Advanced International Relations at Salzburg Global Seminar,S,I , ,13,14,OCIN,Babik      
+Janplan,GO362,A,3,MTWR, 1:00pm- 2:30pm,Advanced International Relations at Salzburg Global Seminar,S,I , ,13,14,OCIN,Babik      
+Janplan,GS297,A,3,MWR, 9:00am-12:00n ,"Contemporary Immigration in the US: Research, Policy, and Society",, ,DIAM 343,14,18, ,Bazo Vienr 
+Janplan,HI297C,A,3,MTWR, 1:00pm- 3:00pm,Cities from Scratch: A Global History of New Towns,H, ,LOVE 103,18,20, ,"Meredith,J "
+Janplan,HI297D,A,3,MTWR, 9:30am-11:30am,Revolutionary Culture in Contemporary China,H,I ,LOVE 203,20,20, ,"Parker, La "
+Janplan,HI297E,A,3,MWR,10:00am- 1:00pm,New Perspectives on the American Revolution,H,U ,MILL 014,18,20, ,"Reardon, E "
+Janplan,HI297J,A,3,MTWR, 9:30am-11:30am,"America's Whitest State? Immigration in Maine, Yesterday and Today",H,U ,LOVE 119,15,15, ,Asch       
+Janplan,IT125T,A,3,,TBA,Italian I in Genoa,, , ,22,30,OCIN,Brancifort 
+Janplan,IT153,A,3,,TBA,Modern and Contemporary Italian Fiction in Translation in Verona,L, , ,20,18,OCIN,Brancaccio 
+Janplan,JA125J,A,3,MTWRF, 9:00am-12:00n ,Elementary Japanese,, ,LOVE 102,14,20, ,"Shmagin, M "
+Janplan,JP003,A,,R, 8:00am- 4:00pm,Premed Academy,, ,LOVE 319,17,14, ,Berkner    
+Janplan,JP006,A,,MTWR, 9:00am- 4:00pm,Furniture Making,, , ,7,8, ,Camann     
+Janplan,JP007,A,,MTWR, 9:00am- 4:00pm,Blacksmithing,, , ,4,4, ,Murdock    
+Janplan,JP023,A,,MWR, 9:00am-12:00n ,Integrating Mindfulness-based Compassionate Communication,, ,LORI ROSE,13,15, ,Hathaway   
+Janplan,JP024,A,,MTWR,10:00am-12:00n ,Sheep to Shawl,, ,RUNN 203,8,11, ,Fowler     
+Janplan,JP024,A,,MTWR, 1:00pm- 2:00pm,Sheep to Shawl,, ,RUNN 203,8,11, ,Fowler     
+Janplan,JP114,A,3,M, 7:00pm- 9:00pm,The Wide World of Story,A, ,LOVE 302,14,15, ,Gillman    
+Janplan,JP114,A,3,WR, 9:00am-12:00n ,The Wide World of Story,A, ,LOVE 302,14,15, ,Gillman    
+Janplan,JP135,A,3,MTWR, 1:00pm- 3:00pm,Multicultural Literacy,,U ,LOVE 212,18,20, ,Duplessis  
+Janplan,JP137,A,3,MTWR, 1:00pm- 3:30pm,AIDS and the Meaning of Life,, ,LOVE 100,36,30, ,Fried      
+Janplan,JP143,A,2,MTR, 9:30am-11:30am,Introduction to Entrepreneurship,, ,DIAM 153,25,25, ,Downs      
+Janplan,JP153,A,3,MTWR, 9:30am-11:30am,Meteorology,N, ,DIAM 145,26,30, ,Epstein    
+Janplan,JP153,A,3,MW,12:30pm- 2:30pm,Meteorology,N, ,DIAM 145,26,30, ,Epstein    
+Janplan,JP197,A,3,TR, 9:00am-12:00n ,"Consumer Rights, Litigation Practice, and Advocacy Training",, ,LOVE 211,9,20, ,Bopp Stark 
+Janplan,JP197,A,3,F, 1:00pm- 3:30pm,"Consumer Rights, Litigation Practice, and Advocacy Training",, ,LOVE 211,9,20, ,Bopp Stark 
+Janplan,JP197B,A,3,MTWR, 8:00am-10:00am,Domestic Violence Law,, ,MUDD 311,12,15, ,"Adams, C   "
+Janplan,JP197C,A,3,MTF,10:00am-12:45pm,Values Education: Understanding and Teaching Values in Everyday Life,S, ,DIAM 241,19,20, ,Merson     
+Janplan,JP197F,A,3,MWR, 4:00pm- 7:00pm,Handbell Choir,, ,LORI CHAP,13,15, ,"Kelly, Gai "
+Janplan,JP197G,A,3,MTWR,10:00am-12:00n ,Water and Sanitation in Developing Communities,, ,LOVE 212,19,20, ,Wain       
+Janplan,JP197H,A,3,MTWR,10:00am-12:00n ,Product Management: A Path from Colby to the Tech World,, , ,27,20, ,Rimsa      
+Janplan,JP215,A,3,M, 9:00am-11:30am,Philanthropy at Work,, ,ALCM 205,16,20, ,Hallee     
+Janplan,JP215,A,3,W, 9:00am-12:00n ,Philanthropy at Work,, ,ALCM 205,16,20, ,Hallee     
+Janplan,JP215,A,3,R, 1:00pm- 3:30pm,Philanthropy at Work,, ,LOVE 303,16,20, ,Hallee     
+Janplan,JP297,A,3,MTWR,10:00am-12:00n ,Sports Analytics in <I>R</I>,, ,DIAM 342,19,20, ,Majerus    
+Janplan,JP297C,A,3,MTR, 9:00am-12:00n ,Art of the M&A Deal,, ,DIAM 122,23,20, ,McHale     
+Janplan,JP297D,A,3,MWF, 9:00am-12:00n ,Editing for Publication,, ,LOVE 301,11,16, ,Shavelson  
+Janplan,JP297E,A,3,TRF, 9:00am-12:00n ,Advocating for the Environment,, ,DIAM 221,8,20, ,Inches     
+Janplan,JS226,A,3,MTWR, 9:30am-11:30am,Community Organizing and Social Justice,, ,LOVE 344,10,20, ,"Asch, E    "
+Janplan,MU091,A,,,TBA,Music Lessons: Noncredit or JP,, , ,0,99, ,With Whom? 
+Janplan,MU114,A,3,MW,10:00am- 1:00pm,Jazz Improvisation,A, ,BIXL 219,24,30, ,"Thomas, E  "
+Janplan,MU114,A,3,R, 3:00pm- 6:00pm,Jazz Improvisation,A, ,BIXL 219,24,30, ,"Thomas, E  "
+Janplan,MU116,A,3,TRF, 1:00pm- 4:00pm,Acoustic/Electric Grunge/Rock Songwriting: A Composition Seminar,A, ,BIXL 226,9,10, ,Fournier   
+Janplan,MU118,A,3,MTWR,12:15pm- 3:15pm,African Music,A, ,BIXL 178,37,35, ,Benissan   
+Janplan,MU218,A,3,TWF, 9:00am-12:00n ,"Seeing, Then Hearing: Graphic Design for the Music Industry",A, ,BIXL 132,16,16, ,Jee        
+Janplan,MU218,B,3,TWF, 1:00pm- 4:00pm,"Seeing, Then Hearing: Graphic Design for the Music Industry",A, ,BIXL 132,15,16, ,Jee        
+Janplan,MU223,A,3,MTWR,10:00am-12:00n ,Perception of Music,A, ,BIXL 226,14,16, ,"Helm, P    "
+Janplan,MU226,A,3,TRF, 1:00pm- 4:00pm,Music as Therapy: Across the Life Span,A, ,BIXL 154,21,20, ,Wittenberg 
+Janplan,PL212,A,3,MTWR, 9:00am-11:00am,Philosophical Paradoxes,, ,LOVE 303,20,20, ,Cohen      
+Janplan,PL237,A,3,MTWR,10:00am-12:00n ,Taking Philosophy Public,, ,LOVE 246,8,15, ,Gordon     
+Janplan,RE242,A,3,MTWR, 2:00pm- 4:00pm,The Good Life,S, ,DIAM 341,20,18, ,Harper     
+Janplan,SO212J,A,3,MTRF, 9:30am-12:00n ,Introduction to GIS and Spatial Analysis (See ES214J),, , ,0, , ,Gimond     
+Janplan,SP132,A,3,MWR,10:00am- 1:00pm,Conversation and Composition in Salamanca,,I , ,16,14,OCIN,Allbritton 
+Janplan,ST117,A,3,MTWR, 1:00pm- 4:00pm,Information Use and Misuse: Big Data and Artificial Intelligence,, ,ALCM 205,16,20, ,Kugelmeyer 
+Janplan,TD261J,A,3,MWR,10:00am-12:00n ,Topics in Performance: Activist Storytelling Workshop,A, ,RUNN SMIT,5,12, ,Weinblatt  
+Janplan,TD261J,A,3,MWR, 1:00pm- 3:00pm,Topics in Performance: Activist Storytelling Workshop,A, ,RUNN SMIT,5,12, ,Weinblatt  
+Janplan,TD361J,A,3,MTWR,10:00am- 6:00pm,Advanced Topics in Performance: Presence/Past,, ,RUNN 201,8,12, ,"Bartnick   Smith, S    "
+Janplan,TD361J,A,3,F,10:00am- 3:00pm,Advanced Topics in Performance: Presence/Past,, ,RUNN 201,8,12, ,"Bartnick   Smith, S    "
+Janplan,WG211,A,3,MTRF,10:00am-12:30pm,Women in Myth and Fairy Tale,L, ,MILL 008,14,15, ,Pukkila    
+Janplan,WG211,A,3,W, 1:30pm- 4:00pm,Women in Myth and Fairy Tale,L, ,MILL 014,14,15, ,Pukkila    
+Spring,AA118,A,2,TR, 2:30pm- 4:00pm,Dance Technique Lab: Dance Forms of the African Diaspora: Hip-hop (See TD118),, , ,0, , ,Akuchu     
+Spring,AA223,A,4,TR, 8:00am- 9:30am,Critical Race Feminisms and Tap Dance (See WG223),A,U , ,0, , ,"Thomas, S  "
+Spring,AA223,A,4,TR, 9:45am-10:45am,Critical Race Feminisms and Tap Dance (See WG223),A,U , ,0, , ,"Thomas, S  "
+Spring,AA231,A,4,MW,11:00am-12:15pm,Caribbean Cultures (See AY231),,I , ,0, , ,Bhimull    
+Spring,AA276,A,4,TR, 9:30am-10:45am,African-American Culture in the United States (See AM276),S,U , ,0, , ,Gilkes     
+Spring,AA298,A,4,TR, 1:00pm- 2:15pm,"Introduction to African History, 1800-1994 (See HI298)",H,I , ,0, , ,Duff       
+Spring,AA341,A,4,W, 1:00pm- 3:30pm,"Culture, Mobility, Identity: Encounters in the African Diaspora (See AY341)",S,I , ,0, , ,Bhimull    
+Spring,AA357,A,4,T, 7:00pm- 9:30pm,"Civil Rights, Black Power, and Social Change (See SO357)",S,U , ,0, , ,Gilkes     
+Spring,AA361,A,4,MW, 2:30pm- 3:45pm,"Creolization, Culture, and Society in the Indian Ocean Islands (See FR361)",,I , ,0, , ,Mauguiere  
+Spring,AA370,A,4,TR, 2:30pm- 3:45pm,"<I>Corps, Espace, et Genre</I>: Postcolonial Space in Francophone Africa (See FR370)",,I , ,0, , ,Niang      
+Spring,AA398,A,4,W, 1:00pm- 3:30pm,South African Women's Memoir (See HI398B),H,I , ,0, , ,Duff       
+Spring,AM171,A,4,TR, 1:00pm- 2:15pm,Introduction to American Studies,,U ,LOVE 208,22,24,7,Saltz      
+Spring,AM217,A,4,MW, 7:00pm- 8:15pm,Religion in the Americas (See RE217),H, , ,0, , ,Harper     
+Spring,AM221,A,4,TR, 9:30am-10:45am,Mapping Waterville,H, ,DIAM 123,20,20, ,Lisle      
+Spring,AM232,A,4,MW,11:00am-12:15pm,Queer Identities and Politics (See WG232),,U , ,0, , ,Arellano   
+Spring,AM234,A,4,TR, 1:00pm- 2:15pm,From Rockabilly Kings to Lady Gaga: A History of Rock 'n' Roll (See MU234),A, , ,0, , ,Zelensky   
+Spring,AM259,A,4,WF, 2:30pm- 3:45pm,American Art since 1900 (See AR159),A, , ,0, , ,Sperling   
+Spring,AM276,A,4,TR, 9:30am-10:45am,African-American Culture in the United States,S,U ,LOVE 100,55,60,8,Gilkes     
+Spring,AM357,A,4,T, 7:00pm- 9:30pm,"Civil Rights, Black Power, and Social Change (See SO357)",S,U , ,0, , ,Gilkes     
+Spring,AM366,A,4,TR,11:00am-12:15pm,"Race, Gender, and the Graphic Novel",L,U ,MILL 257,16,15,6,Fugikawa   
+Spring,AM457,A,4,MWF,12:00n -12:50pm,American Gothic Literature (See EN457),L,U , ,0, , ,Bryant     
+Spring,AM493C,A,4,T, 1:00pm- 3:30pm,"Seminar: Space, Culture, and Neoliberalism",, ,MILL 253,12,15,0,Lisle      
+Spring,AM493C,B,4,R, 1:00pm- 3:30pm,"Seminar: Space, Culture, and Neoliberalism",, ,MILL 253,8,15,0,Lisle      
+Spring,AN154,A,3 to 4,TR, 9:30am-10:45am,Roman History,H, ,LOVE 213,29,30,8,Welser     
+Spring,AN398,A,4,TR, 1:00pm- 2:15pm,Athenian Democracy as Reality and Idea (See CL398),H, , ,0, , ,Welser     
+Spring,AR101W,A,4,TR,11:00am-12:15pm,Reading Images,W1, ,BIXL 154,16,16, ,Plesch     
+Spring,AR112,A,4,MW,11:00am-12:15pm,Introduction to Western Art: Renaissance to Today,A, ,BIXL 154,25,25,0,Harkett    
+Spring,AR126,A,4,TR, 9:30am-10:45am,"Art and Architecture of the Islamic World, 1258-1914",A, ,BIXL 154,24,25,8,Ameri      
+Spring,AR135,A,4,MW, 2:00pm- 3:50pm,Visual Thinking,A, ,BIXL 283,18,16,0,Mitchell   
+Spring,AR159,A,4,WF, 2:30pm- 3:45pm,American Art since 1900,A, ,BIXL 154,24,25,0,Sperling   
+Spring,AR222,A,4,MW,11:00am-12:50pm,Drawing II,, ,BIXL 283,6,16,0,Mitchell   
+Spring,AR229,A,4,MW,11:00am-12:50pm,Print and Digital Media II,, ,BIXL 302,8,15,0,Lilleston  
+Spring,AR242,A,4,TR, 2:00pm- 3:50pm,Painting II,, ,BIXL 250,14,16,0,"Engman, B  "
+Spring,AR244,A,4,WF, 1:00pm- 2:15pm,Moving Images: Magic Lanterns to Virtual Reality,A, ,BIXL 154,19,25,0,Sperling   
+Spring,AR257,A,4,TR, 2:30pm- 3:45pm,Renaissance Art,A, ,BIXL 154,18,25,0,Plesch     
+Spring,AR265,A,4,MW, 2:00pm- 3:50pm,Sculpture I: Architecture and Site,, ,BIXL 117,15,16,0,Borthwick  
+Spring,AR268,A,4,MWF, 9:00am- 9:50am,Design Thinking Studio: Performative Sculpture,A, ,RUNN THTR,3,16,0,Borthwick   Thurston   
+Spring,AR268,A,4,F,10:00am-12:00n ,Design Thinking Studio: Performative Sculpture,A, ,RUNN THTR,3,16,0,Borthwick   Thurston   
+Spring,AR276,A,4,MWF, 9:00am- 9:50am,Zen and the Arts in Asia,A, ,BIXL 154,24,25,10,Weitz      
+Spring,AR282,A,4,TR,11:00am-12:50pm,Photography II,, ,BIXL 278,11,12,0,Green      
+Spring,AR323,A,4,TR, 1:00pm- 2:15pm,Destroying Culture: Iconoclasm from Antiquity to Today,,I ,MILL 205,9,16,0,Ameri      
+Spring,AR329,A,4,MW, 2:00pm- 3:50pm,Print and Digital Media IV,, ,BIXL 302,6,15,0,Lilleston  
+Spring,AR341,A,4,TR,11:00am-12:50pm,Painting III,, ,BIXL 250,1,16,0,"Engman, B  "
+Spring,AR342,A,4,TR,11:00am-12:50pm,Painting IV,, ,BIXL 250,6,16,0,"Engman, B  "
+Spring,AR356,A,4,MW, 1:00pm- 2:15pm,Writing Art Criticism,W2, ,BIXL 142,8,12,0,Harkett    
+Spring,AR365,A,4,MW,11:00am-12:50pm,Sculpture III: The Nobility of Stone,, ,BIXL 117,11,12,0,Borthwick  
+Spring,AR366,A,4,MW,11:00am-12:50pm,"Sculpture IV: Measure, Material, and Process",, ,BIXL 117,4,12,0,Borthwick  
+Spring,AR382,A,4,TR, 2:00pm- 3:50pm,Photography IV,, ,BIXL 278,7,12,0,Green      
+Spring,AR398,A,4,W, 1:00pm- 3:30pm,Japanese Visual Culture,, ,BIXL 102,11,10,0,Weitz      
+Spring,AR402,A,2,M, 7:00pm- 9:30pm,Studio Art Capstone,, ,BIXL 270,12,15,0,Mitchell   
+Spring,AR411,A,4,F, 1:00pm- 3:30pm,Theories and Methods of Art History,, ,BIXL 102,5,12,0,Plesch     
+Spring,AR425,A,4,T, 1:00pm- 3:30pm,Intimate Things,, ,BIXL 102,3,12,0,Harkett    
+Spring,AR441,A,4,TR,11:00am-12:50pm,Painting V,, ,BIXL 250,0,16,0,"Engman, B  "
+Spring,AR442,A,4,TR,11:00am-12:50pm,Painting VI,, ,BIXL 250,2,16,0,"Engman, B  "
+Spring,AR443,A,4,TR,11:00am-12:50pm,Painting VII,, ,BIXL 250,0,16,0,"Engman, B  "
+Spring,AR481,A,4,TR, 2:00pm- 3:50pm,Photography V,, ,BIXL 278,3,12,0,Green      
+Spring,AR482,A,4,TR, 2:00pm- 3:50pm,Photography VI,, ,BIXL 278,0,12,0,Green      
+Spring,AR485,A,4,TR, 2:00pm- 3:50pm,Photography VII,, ,BIXL 278,1,12,0,Green      
+Spring,AS151,A,3 to 4,MWF, 1:00pm- 1:50pm,"Stars, Stellar Systems, and Cosmology","N,OptLb", ,KEYE 105,36,35,4,McGrath    
+Spring,AS151 L,A,,T, 1:00pm- 3:50pm,Stars and Stellar Systems Laboratory,, ,KEYE 114,16,16, ,Goulet     
+Spring,AS172,A,3,MWF,11:00am-11:50am,Extraterrestrial Life,N, ,MILL 014,36,35,5,Kocevski   
+Spring,AS172,B,3,MWF, 1:00pm- 1:50pm,Extraterrestrial Life,N, ,MILL 014,36,35,5,Kocevski   
+Spring,AS342,A,4,TR, 2:30pm- 3:45pm,Galaxies and Cosmology,, ,KEYE 105,15,18,9,Kocevski   
+Spring,AY112,A,4,MWF, 9:00am- 9:50am,Cultural Anthropology,S,I ,DIAM 145,30,30,10,Strohl     
+Spring,AY112,B,4,MWF,10:00am-10:50am,Cultural Anthropology,S,I ,DIAM 145,29,30,11,"Tate, W    "
+Spring,AY112,C,4,MWF,11:00am-11:50am,Cultural Anthropology,S,I ,DIAM 145,29,30,1,MillsMaryB 
+Spring,AY211,A,4,T, 1:00pm- 3:30pm,Human Rights and Social Justice in Global Perspective (See GS211),W2, , ,0, , ,Razsa      
+Spring,AY231,A,4,MW,11:00am-12:15pm,Caribbean Cultures,,I ,DIAM 323,17,20,0,Bhimull    
+Spring,AY262,A,4,TR, 9:30am-10:45am,"Music in Life, Music as Culture: Introduction to Ethnomusicology (See MU262)",A,I , ,0, , ,Zelensky   
+Spring,AY276,A,4,TR, 9:30am-10:45am,African-American Culture in the United States (See AM276),S,U , ,0, , ,Gilkes     
+Spring,AY277,A,4,TR, 1:00pm- 2:15pm,Culture of Cuteness: Japanese Women (in English) (See EA277),S,I , ,0, , ,Abe        
+Spring,AY298,A,4,TR,11:00am-12:15pm,Cultural Accounting of Business and Work,, ,DIAM 323,15,18,6,Menair     
+Spring,AY316,A,4,M, 1:00pm- 3:30pm,Religion and Social Change in Contemporary Africa (See GS316),, , ,0, , ,Halvorson  
+Spring,AY341,A,4,W, 1:00pm- 3:30pm,"Culture, Mobility, Identity: Encounters in the African Diaspora",S,I ,DIAM 323,9,15,0,Bhimull    
+Spring,AY355,A,4,M, 7:00pm- 9:30pm,Aging and Public Policy in East Asia (See EA355),S,I , ,0, , ,Zhang      
+Spring,AY363,A,4,M, 1:00pm- 3:30pm,Secrecy and Power,,I ,DIAM 323,15,15,0,Strohl     
+Spring,AY455,A,4,R, 1:00pm- 3:30pm,Intervention: The Ethics and Politics of Humanitarianism (See GS455),S, , ,0, , ,Halvorson  
+Spring,AY464,A,4,R, 1:00pm- 3:30pm,Anthropology of Food,, ,DIAM 323,10,15,0,MillsMaryB 
+Spring,BC362,A,4,TR,11:00am-12:15pm,Medical Biochemistry,, ,KEYE 105,8,36,6,Moloney    
+Spring,BC362,A,4,F,12:00n -12:50pm,Medical Biochemistry,, ,AREY 005,8,36,6,Moloney    
+Spring,BC368,A,4 to 5,TR, 9:30am-10:45am,Biochemistry of the Cell II,, ,KEYE 103,18,24,8,Millard    
+Spring,BC368,A,4 to 5,F,12:00n -12:50pm,Biochemistry of the Cell II,, ,LOVE 213,18,24,8,Millard    
+Spring,BC368 L,A,,W,12:30pm- 4:30pm,Lab:Cell Biochemistry II,, ,KEYE 303,7,12, ,Moloney    
+Spring,BC368 L,B,,R,12:30pm- 4:30pm,Lab:Cell Biochemistry II,, ,KEYE 303,8,12, ,Hepburn    
+Spring,BC378,A,4,MWF,10:00am-10:50am,Molecular Biology,, ,MUDD 405,14,16,11,van Oers   
+Spring,BC378,A,4,W, 1:00pm- 4:00pm,Molecular Biology,, ,AREY 205,14,16,11,van Oers   
+Spring,BI133,A,3,TR,11:00am-12:15pm,Microorganisms and Society,N, ,AREY 005,32,32,6,Childers   
+Spring,BI164,A,4,MWF, 9:00am- 9:50am,Evolution and Diversity,"N,Lb", ,OLIN 001,62,48,10,"Stone, J.  "
+Spring,BI164,B,4,MWF,10:00am-10:50am,Evolution and Diversity,"N,Lb", ,OLIN 001,52,48,11,Noh        
+Spring,BI164,C,4,MWF,11:00am-11:50am,Evolution and Diversity,"N,Lb", ,OLIN 001,62,48,1,Bevier     
+Spring,BI164 L,A1,,M, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 201,16,16, ,Staffiere  
+Spring,BI164 L,A2,,M, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 307,16,16, ,Bade       
+Spring,BI164 L,B1,,T, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 201,17,16, ,Staffiere  
+Spring,BI164 L,B2,,T, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 307,19,16, ,Bade       
+Spring,BI164 L,B3,,T, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 202,14,16, ,"Graham, S  "
+Spring,BI164 L,C1,,W, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 201,16,16, ,Staffiere  
+Spring,BI164 L,C2,,W, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 307,16,16, ,Bade       
+Spring,BI164 L,C3,,W, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 202,14,16, ,"Graham, S  "
+Spring,BI164 L,D1,,R, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 201,16,16, ,Chiriboga  
+Spring,BI164 L,D2,,R, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 307,16,16, ,Bade       
+Spring,BI164 L,D3,,R, 1:00pm- 4:00pm,Lab: Evolutn & Diversity,, ,AREY 202,16,16, ,"Graham, S  "
+Spring,BI198,A,4,MWF, 9:00am- 9:50am,Biochemistry of Food,"N,Lb", ,MILL 205,16,16,10,Klepach    
+Spring,BI198,A,4,F, 1:00pm- 3:50pm,Biochemistry of Food,"N,Lb", ,AREY 305,16,16,10,Klepach    
+Spring,BI225,A,3,MWF, 9:00am- 9:50am,Immunology,, ,LOVE 100,40,32,10,Hannum     
+Spring,BI244,A,4,TR, 9:30am-10:45am,Marine Communities (See ES244),, , ,0, , ,McClenacha 
+Spring,BI274,A,4,MWF,12:00n -12:50pm,Neurobiology,, ,LOVE 215,22,24,2,Martin     
+Spring,BI274 L,A,,W, 1:00pm- 4:00pm,Laboratory: Neurobiology,, ,OLIN 332,12,12, ,Chiriboga  
+Spring,BI274 L,B,,R, 1:00pm- 4:00pm,Laboratory: Neurobiology,, ,OLIN 332,10,12, ,Martin     
+Spring,BI275,A,4,MWF,12:00n -12:50pm,Human Physiology,, ,OLIN 001,26,28,5,Tilden     
+Spring,BI275 L,A,,M, 1:00pm- 4:00pm,Lab: Human Physiology,, ,OLIN 213,12,14, ,Guay       
+Spring,BI275 L,B,,T, 1:00pm- 4:00pm,Lab: Human Physiology,, ,OLIN 213,14,14, ,Guay       
+Spring,BI276,A,4,MWF, 8:00am- 8:50am,Comparative Vertebrate Anatomy,, ,OLIN 001,20,32,7,Bevier     
+Spring,BI276 L,A,,T, 1:00pm- 4:00pm,Comparative Vertebrate Anatomy,, ,AREY 207,14,16, ,Bevier     
+Spring,BI276 L,B,,W, 1:00pm- 4:00pm,Comparative Vertebrate Anatomy,, ,AREY 207,6,16, ,Bevier     
+Spring,BI279,A,4,MWF,11:00am-11:50am,Genetics,, ,LOVE 205,35,36,1,Angelini   
+Spring,BI279 L,A,,T, 1:00pm- 4:00pm,Laboratory: Genetics,, ,AREY 001,11,12, ,Beachy     
+Spring,BI279 L,B,,W, 1:00pm- 4:00pm,Laboratory: Genetics,, ,AREY 001,12,12, ,Angelini   
+Spring,BI279 L,C,,R, 1:00pm- 4:00pm,Laboratory: Genetics,, ,AREY 001,12,12, ,Beachy     
+Spring,BI306,A,4,MWF,12:00n -12:50pm,Topics in Epidemiology (See SC306),, , ,0, , ,Scott      
+Spring,BI319,A,4,TR,11:00am-12:15pm,Conservation Biology (See ES319),, , ,0, , ,Nyhus      
+Spring,BI319,A,4,R, 1:00pm- 4:00pm,Conservation Biology (See ES319),, , ,0, , ,Nyhus      
+Spring,BI320,A,3,TR,11:00am-12:15pm,Evolutionary Analysis,, ,OLIN 314,13,20,6,Noh        
+Spring,BI338,A,4,MWF, 9:00am- 9:50am,Forest Ecosystems (See ES338),"N,Lb", , ,0, , ,Becknell   
+Spring,BI338,A,4,M, 1:00pm- 4:00pm,Forest Ecosystems (See ES338),"N,Lb", , ,0, , ,Becknell   
+Spring,BI351,A,4,MWF,11:00am-11:50am,Applied and Environmental Microbiology,, ,OLIN 335,6,12,1,Peck       
+Spring,BI351,A,4,R, 1:00pm- 5:00pm,Applied and Environmental Microbiology,, ,AREY 305,6,12,1,Peck       
+Spring,BI362,A,4,TR,11:00am-12:15pm,Medical Biochemistry (See BC362),, , ,0, , ,Moloney    
+Spring,BI362,A,4,F,12:00n -12:50pm,Medical Biochemistry (See BC362),, , ,0, , ,Moloney    
+Spring,BI368,A,4 to 5,TR, 9:30am-10:45am,Biochemistry of the Cell II (See BC368),, , ,0, , ,Millard    
+Spring,BI368,A,4 to 5,F,12:00n -12:50pm,Biochemistry of the Cell II (See BC368),, , ,0, , ,Millard    
+Spring,BI374,A,3 to 4,TR, 9:30am-10:45am,Advanced Neurobiology,, ,OLIN 001,31,16,8,Ahmad      
+Spring,BI374 L,A,,R, 1:00pm- 4:00pm,Optional Lab: Advanced Neurobiology,, ,AREY 205,14,16, ,Ahmad      
+Spring,BI378,A,4,MWF,10:00am-10:50am,Molecular Biology (See BC378),, , ,0, , ,van Oers   
+Spring,BI378,A,4,W, 1:00pm- 4:00pm,Molecular Biology (See BC378),, , ,0, , ,van Oers   
+Spring,BI382,A,4,TR, 9:30am-10:45am,Ecological Modeling,, ,MILL 205,11,12,8,"Moore, C   "
+Spring,BI382,A,4,M, 1:00pm- 4:00pm,Ecological Modeling,, ,OLIN 314,11,12,8,"Moore, C   "
+Spring,BI402,A,1,F, 1:00pm- 1:50pm,Biology Seminar (Integrative Biology),, ,LOVE 319,11,12, ,Angelini   
+Spring,BI402,B,1,F, 1:00pm- 1:50pm,Biology Seminar (Human Evolution),, ,OLIN 335,9,12, ,"Stone, J.  "
+Spring,CH122,A,4,MWF,10:00am-10:50am,Earth Systems Chemistry II,"N,Lb", ,MILL 008,23,32,11,Drozd      Koffman     
+Spring,CH122 L,A,,W, 1:00pm- 4:00pm,Lab: Earth Systems Chemistry II,, ,KEYE 408,15,16, ,Drozd       Twining    
+Spring,CH122 L,B,,R, 1:00pm- 4:00pm,Lab: Earth Systems Chemistry II,, ,KEYE 408,8,16, ,Drozd       Twining    
+Spring,CH142,A,4,MWF, 9:00am- 9:50am,General Chemistry II,"N,Lb", ,KEYE 105,51,45,16,Millard    
+Spring,CH142,B,4,MWF,10:00am-10:50am,General Chemistry II,"N,Lb", ,KEYE 105,49,45,16,McKinney   
+Spring,CH142 L,A,,M, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,20,18, ,"Miller, L  "
+Spring,CH142 L,B,,T, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,20,18, ,Drozd      
+Spring,CH142 L,C,,W, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,18,18, ,"Miller, L  "
+Spring,CH142 L,D,,R, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,21,18, ,"Miller, L  "
+Spring,CH142 L,E,,F, 1:00pm- 3:50pm,Laboratory: General Chem,, ,KEYE 405,21,18, ,"Miller, L  "
+Spring,CH144,A,1,F, 1:30pm- 3:30pm,Turbo Chemistry,, ,KEYE 103,8,16, ,McKinney   
+Spring,CH147,A,4,MWF,10:00am-10:50am,Comprehensive General Chemistry,"N,Lb", ,AREY 005,50,48,16,Rice       
+Spring,CH147 L,A,,M, 1:00pm- 4:00pm,Lab: Comprehnsv Gen Chem,, ,KEYE 408,17,16, ,King       
+Spring,CH147 L,B,,T, 8:00am-10:50am,Lab: Comprehnsv Gen Chem,, ,KEYE 408,16,16, ,Hepburn    
+Spring,CH147 L,C,,T, 1:00pm- 4:00pm,Lab: Comprehnsv Gen Chem,, ,KEYE 408,17,16, ,Hepburn    
+Spring,CH217,A,4,MWF,12:00n -12:50pm,Environmental Chemistry,, ,KEYE 103,14,24,2,McKinney   
+Spring,CH242,A,4,MWF, 9:00am- 9:50am,Organic Chemistry II,, ,MILL 014,33,32,15,Katz       
+Spring,CH242,B,4,MWF,10:00am-10:50am,Organic Chemistry II,, ,MILL 014,35,32,15,Katz       
+Spring,CH242 L,A,,M, 1:00pm- 4:45pm,Lab: Organic Chem II,, ,KEYE 305,15,16, ,Klinkerch  
+Spring,CH242 L,B,,T, 1:00pm- 4:45pm,Lab: Organic Chem II,, ,KEYE 305,13,16, ,Klinkerch  
+Spring,CH242 L,C,,W, 1:00pm- 4:45pm,Lab: Organic Chem II,, ,KEYE 305,12,16, ,Klinkerch  
+Spring,CH242 L,D,,R, 8:00am-11:45am,Lab: Organic Chem II,, ,KEYE 305,14,16, ,Klinkerch  
+Spring,CH242 L,E,,R, 1:00pm- 4:45pm,Lab: Organic Chem II,, ,KEYE 305,14,16, ,Klinkerch  
+Spring,CH342,A,5,MW,11:00am-12:15pm,Physical Chemistry: Quantum and Statistical Mechanics,, ,KEYE 104,7,12,1,Madison    
+Spring,CH342,A,5,F, 1:00pm- 1:50pm,Physical Chemistry: Quantum and Statistical Mechanics,, ,KEYE 104,7,12,1,Madison    
+Spring,CH342,A,5,M, 1:00pm- 4:50pm,Physical Chemistry: Quantum and Statistical Mechanics,, ,KEYE 205,7,12,1,Madison    
+Spring,CH362,A,4,TR,11:00am-12:15pm,Medical Biochemistry (See BC362),, , ,0, , ,Moloney    
+Spring,CH362,A,4,F,12:00n -12:50pm,Medical Biochemistry (See BC362),, , ,0, , ,Moloney    
+Spring,CH368,A,4 to 5,TR, 9:30am-10:45am,Biochemistry of the Cell II (See BC368),, , ,0, , ,Millard    
+Spring,CH368,A,4 to 5,F,12:00n -12:50pm,Biochemistry of the Cell II (See BC368),, , ,0, , ,Millard    
+Spring,CH378,A,4,MWF,10:00am-10:50am,Molecular Biology (See BC378),, , ,0, , ,van Oers   
+Spring,CH378,A,4,W, 1:00pm- 4:00pm,Molecular Biology (See BC378),, , ,0, , ,van Oers   
+Spring,CH432,A,4,TR,11:00am-12:15pm,Advanced Organic Chemistry,, ,KEYE 104,7,10,6,Katz       
+Spring,CH444,A,4,MWF, 9:00am- 9:50am,Advanced Methods in Biochemistry,W3, ,KEYE 104,11,12,10,Rice       
+Spring,CH494,A,1,F,11:00am-11:50am,Senior Seminar,, ,AREY 005,15,30, ,Millard    
+Spring,CH494,A,1,F, 3:00pm- 4:30pm,Senior Seminar,, ,KEYE 105,15,30, ,Millard    
+Spring,CH494,B,1,F,11:00am-11:50am,Senior Seminar (for Juniors),, ,AREY 005,0,30, ,Millard    
+Spring,CH494,B,1,F, 3:00pm- 4:30pm,Senior Seminar (for Juniors),, ,KEYE 105,0,30, ,Millard    
+Spring,CI142,A,4,MW,11:00am-12:15pm,Introduction to Cinema Studies,A, ,LOVE 103,19,25,1,Wurtzler   
+Spring,CI142,A,4,M, 7:00pm-10:00pm,Introduction to Cinema Studies,A, ,AREY 005,19,25,1,Wurtzler   
+Spring,CI247,A,4,TR,11:00am-12:15pm,Visual Storytelling: Found Materials and the Archive,, ,MILL 253,16,15,6,"Murphy, E  "
+Spring,CI252,A,4,MW, 2:30pm- 3:45pm,History of International Cinema II,A, ,LOVE 215,13,25,3,Wurtzler   
+Spring,CI252,A,4,T, 7:00pm-10:00pm,History of International Cinema II,A, ,AREY 005,13,25,3,Wurtzler   
+Spring,CL138,A,4,MW, 2:30pm- 3:45pm,Heroes of the World,L, ,LOVE 100,102,105,0,O'Neill    
+Spring,CL398,A,4,TR, 1:00pm- 2:15pm,Athenian Democracy as Reality and Idea,H, ,LOVE 244,10,14,7,Welser     
+Spring,CN126,A,5,MTWRF, 9:00am- 9:50am,Elementary Chinese II,, ,LOVE 207,16,20,10,"Liu, J     "
+Spring,CN128,A,4,MTWF,10:00am-10:50am,Intermediate Chinese II,, ,LOVE 307,7,20,11,"Wang, F    "
+Spring,CN135,A,1,F, 2:00pm- 2:50pm,Chinese Conversation I,, ,LOVE 423,6,20, ,Chen       
+Spring,CN235,A,1,M, 3:00pm- 3:50pm,Chinese Conversation II,, ,LOVE 423,6,20, ,Chen       
+Spring,CN322,A,4,MWF,11:00am-11:50am,Third-Year Chinese II,, ,LOVE 423,8,20,1,"Liu, J     "
+Spring,CN335,A,1,R, 3:00pm- 3:50pm,Chinese Conversation III,, ,LOVE 423,9,18, ,Chen       
+Spring,CN434,A,4,TR, 1:00pm- 2:15pm,Docu-China: Advanced Readings in Chinese,, ,LOVE 423,9,15,7,Zhang      
+Spring,CS151,A,4,MWF,10:00am-10:50am,Computational Thinking: Visual Media,Q, ,LOVE 215,41,48,11,"Eaton, C   "
+Spring,CS151 L,A,,W, 1:00pm- 2:20pm,Lab: Comp Thnkg: Visual,, ,DAVI 102,19,24, ,Layton     
+Spring,CS151 L,B,,R, 2:30pm- 3:50pm,Lab: Comp Thnkg: Visual,, ,DAVI 102,23,24, ,Layton     
+Spring,CS152,A,4,MWF,11:00am-11:50am,Computational Thinking: Science,Q, ,LOVE 215,32,48,1,Codabux    
+Spring,CS152 L,A,,W, 2:30pm- 3:50pm,Lab: Comp Thkg: Science,, ,DAVI 102,13,24, ,Aaron      
+Spring,CS152 L,B,,R, 1:00pm- 2:20pm,Lab: Comp Thkg: Science,, ,DAVI 102,19,24, ,Aaron      
+Spring,CS231,A,4,MWF, 9:00am- 9:50am,Data Structures and Algorithms,Q, ,LOVE 215,16,20,2,Codabux    
+Spring,CS231,B,4,MWF,10:00am-10:50am,Data Structures and Algorithms,Q, ,DAVI 117,22,25,2,"Taylor, St "
+Spring,CS231,C,4,MWF,10:00am-10:50am,Data Structures and Algorithms,Q, ,DAVI 102,20,22,2,Maxwell    
+Spring,CS231 L,A,,M, 1:00pm- 2:20pm,Lab: Data Struct/Algrthm,, ,DAVI 102,16,18, ,Layton     
+Spring,CS231 L,B,,M, 2:30pm- 3:50pm,Lab: Data Struct/Algrthm,, ,DAVI 102,15,18, ,Layton     
+Spring,CS231 L,C,,T, 1:00pm- 2:20pm,Lab: Data Struct/Algrthm,, ,DAVI 102,12,18, ,Aaron      
+Spring,CS231 L,D,,T, 2:30pm- 3:50pm,Lab: Data Struct/Algrthm,, ,DAVI 102,15,18, ,Aaron      
+Spring,CS251,A,4,MWF, 9:00am- 9:50am,Data Analysis and Visualization,, ,DAVI 117,20,25,13,"Taylor, St "
+Spring,CS251,B,4,MWF,10:00am-10:50am,Data Analysis and Visualization,, ,LOVE 213,28,20,13,Layton     
+Spring,CS251,C,4,MWF,11:00am-11:50am,Data Analysis and Visualization,, ,DAVI 117,21,25,13,Maxwell    
+Spring,CS251 L,A,,T, 1:00pm- 2:20pm,Lab: Data Analysis/Vis,, ,DAVI 122,15,16, ,Codabux    
+Spring,CS251 L,B,,T, 2:30pm- 3:50pm,Lab: Data Analysis/Vis,, ,DAVI 122,14,16, ,Codabux    
+Spring,CS251 L,C,,W, 1:00pm- 2:20pm,Lab: Data Analysis/Vis,, ,DAVI 122,19,16, ,Maxwell    
+Spring,CS251 L,D,,W, 2:30pm- 3:50pm,Lab: Data Analysis/Vis,, ,DAVI 122,19,16, ,Maxwell    
+Spring,CS333,A,4,TR, 9:30am-10:45am,Programming Languages,, ,DAVI 117,19,30,8,"Taylor, St "
+Spring,CS365,A,4,TR, 1:00pm- 2:15pm,Computer Vision,, ,DAVI 117,29,30,7,Maxwell    
+Spring,CS365,B,4,TR, 2:30pm- 3:45pm,Computer Vision,, ,DAVI 117,29,30,9,Maxwell    
+Spring,CS375M,A,4,MW, 1:00pm- 2:15pm,Analysis of Algorithms,, ,DAVI 117,13,30,4,Aaron      
+Spring,CS442,A,4,TR, 1:00pm- 2:15pm,Computational Physiology: Bioinspiration in Design and Control,, ,MILL 008,20,24,0,"Eaton, C   "
+Spring,CS442,A,4,F, 1:00pm- 3:50pm,Computational Physiology: Bioinspiration in Design and Control,, ,DAVI 122,20,24,0,"Eaton, C   "
+Spring,CS461,A,4,TR,11:00am-12:15pm,Object-Oriented Software Systems,, ,DAVI 102,15,24,6,Skrien     
+Spring,EA150,A,4,MW,11:00am-12:15pm,Foundations in East Asian Studies,H,I ,LOVE 302,18,18,1,Shmagin    
+Spring,EA221,A,4,MW, 2:30pm- 3:45pm,Second Language Pedagogy,, ,LOVE 319,13,20,0,"Wang, F    "
+Spring,EA263,A,4,TR, 1:00pm- 2:15pm,Buddhism across East Asia,L, ,LOVE 103,17,20,7,Orzech     
+Spring,EA276,A,4,MWF, 9:00am- 9:50am,Zen and the Arts in Asia (See AR276),A, , ,0, , ,Weitz      
+Spring,EA277,A,4,TR, 1:00pm- 2:15pm,Culture of Cuteness: Japanese Women (in English),S,I ,LOVE 202,18,20,7,Abe        
+Spring,EA298,A,4,TR,11:00am-12:15pm,Language and Mind,, ,LOVE 102,16,20,6,"Liu, J     "
+Spring,EA355,A,4,M, 7:00pm- 9:30pm,Aging and Public Policy in East Asia,S,I ,LOVE 301,13,15,0,Zhang      
+Spring,EA398A,A,4,MW, 2:30pm- 3:45pm,Minorities in East Asia (See HI398A),H,I , ,0, , ,Shmagin    
+Spring,EA398B,A,4,W, 1:00pm- 3:30pm,Japanese Visual Culture (See AR398),, , ,0, , ,Weitz      
+Spring,EC121,A,4,TR,11:00am-12:15pm,Financial Accounting,, ,DIAM 145,34,35,6,Downs      
+Spring,EC133,A,4,MW, 1:00pm- 2:15pm,Principles of Microeconomics,S, ,DIAM 141,33,35,12,"Park, Y    "
+Spring,EC133,B,4,TR, 9:30am-10:45am,Principles of Microeconomics,S, ,DIAM 153,27,35,12,"Libby, J   "
+Spring,EC133,C,4,TR,11:00am-12:15pm,Principles of Microeconomics,S, ,DIAM 153,35,35,12,"Libby, J   "
+Spring,EC134,A,4,MWF,10:00am-10:50am,Principles of Macroeconomics,S, ,DIAM 122,33,35,15,Siodla     
+Spring,EC134,B,4,MWF,11:00am-11:50am,Principles of Macroeconomics,S, ,DIAM 122,34,35,15,Siodla     
+Spring,EC134,C,4,TR,11:00am-12:15pm,Principles of Macroeconomics,S, ,DIAM 141,36,35,15,"Lester, R  "
+Spring,EC134,D,4,TR, 1:00pm- 2:15pm,Principles of Macroeconomics,S, ,DIAM 141,36,35,15,"Lester, R  "
+Spring,EC212,A,4,MWF, 9:00am- 9:50am,Corporate Finance II,, ,DIAM 344,18,22,2,"Fan, Y     "
+Spring,EC212,B,4,MWF,11:00am-11:50am,Corporate Finance II,, ,DIAM 344,20,22,2,"Fan, Y     "
+Spring,EC223,A,4,MWF,10:00am-10:50am,Microeconomic Theory,, ,DIAM 153,32,30,11,Hubbard    
+Spring,EC224,A,4,MWF,10:00am-10:50am,Macroeconomic Theory,, ,DIAM 141,29,30,12,Findlay    
+Spring,EC224,A,4,W, 3:00pm- 4:00pm,Macroeconomic Theory,, ,DIAM 122,29,30,12,Findlay    
+Spring,EC224,B,4,MWF,11:00am-11:50am,Macroeconomic Theory,, ,DIAM 141,27,30,12,Findlay    
+Spring,EC224,B,4,W, 3:00pm- 4:00pm,Macroeconomic Theory,, ,DIAM 122,27,30,12,Findlay    
+Spring,EC231,A,4,MW,11:00am-12:15pm,Environmental and Natural Resource Economics,, ,DIAM 153,30,30,5,Meredith   
+Spring,EC231,B,4,MW, 1:00pm- 2:15pm,Environmental and Natural Resource Economics,, ,DIAM 153,30,30,5,Meredith   
+Spring,EC235,A,4,TR, 9:30am-10:45am,Organizational Strategy and Economics,, ,DIAM 145,26,22,8,Downs      
+Spring,EC237,A,4,TR, 1:00pm- 2:15pm,Experimental Economics,, ,DIAM 145,20,22,7,Giffin     
+Spring,EC252,A,4,MWF, 1:00pm- 1:50pm,Presidential Economics,H, ,DIAM 344,15,22,4,Findlay    
+Spring,EC293,A,4,TR, 9:30am-10:45am,Research Methods and Statistics for Economics,, ,DIAM 344,21,22,8,"Park, Y    "
+Spring,EC313,A,4,TR, 2:30pm- 3:45pm,Behavioral Economics,, ,DIAM 145,21,22,4,Giffin     
+Spring,EC318,A,4,TR, 9:30am-10:45am,Economics of Health and Consumer Behavior,, ,DIAM 342,22,22,0,Novak      
+Spring,EC335,A,4,TR, 1:00pm- 2:15pm,Topics in Economic Development,, ,DIAM 342,22,22,7,Novak      
+Spring,EC393,A,4,TR,11:00am-12:15pm,Econometrics,, ,DIAM 342,21,22,6,LaFave     
+Spring,EC452,A,1,,TBA,Economics Research,, , ,6,12, ,Novak      
+Spring,EC471,A,4,T, 1:00pm- 3:30pm,Seminar: Global Production,, ,DIAM 341,12,14,0,Waldkirch  
+Spring,EC471,A,4,R, 1:00pm- 2:15pm,Seminar: Global Production,, ,DIAM 341,12,14,0,Waldkirch  
+Spring,EC474,A,4,M, 1:00pm- 3:30pm,Seminar: Growth and Work of Nations,, ,DIAM 341,10,14,0,"Lester, R  "
+Spring,EC474,A,4,W, 2:30pm- 3:45pm,Seminar: Growth and Work of Nations,, ,DIAM 341,10,14,0,"Lester, R  "
+Spring,EC475,A,4,M, 1:00pm- 3:30pm,Seminar: Health and Global Development,, ,DIAM 342,13,14,0,LaFave     
+Spring,EC475,A,4,W, 1:00pm- 2:15pm,Seminar: Health and Global Development,, ,DIAM 322,13,14,0,LaFave     
+Spring,EC498,A,4,TR, 2:30pm- 3:45pm,Seminar: Political Economy,, ,DIAM 344,11,14,9,"Park, Y    "
+Spring,ED201,A,4,TR, 2:30pm- 3:45pm,Education and Social Justice,S,U ,DIAM 123,26,20,0,Tappan     
+Spring,ED213,A,4,TR,11:00am-12:15pm,Schools and Society,,U ,DIAM 123,20,20,6,Howard     
+Spring,ED222,A,4,MW, 2:30pm- 3:45pm,Second Language Pedagogy (See EA221),, , ,0, , ,"Wang, F    "
+Spring,ED249,A,4,MW,11:00am-12:15pm,Achievement Gap,, ,DIAM 123,18,20,1,Casalaspi  
+Spring,ED317,A,4,TR, 1:00pm- 2:15pm,Boys to Men (See WG317),,U , ,0, , ,Tappan     
+Spring,ED322,A,4,M, 1:00pm- 3:30pm,Social Class and Schooling,,U ,ALCM 205,17,18,4,Howard     
+Spring,ED345,A,4,W, 1:00pm- 3:30pm,Reform and the Classroom,, ,MILL 034,11,20,3,Yoshizawa  
+Spring,ED347,A,4,M, 1:00pm- 3:30pm,Education Policymaking in Theory and Practice,, ,DIAM 123,8,20,4,Casalaspi  
+Spring,ED351,A,1 to 3,,TBA,Practicum in Education,, , ,2, , ,Tappan     
+Spring,ED398,A,1,M,10:00am-10:50am,Citizenship and Community II,, ,DIAM 123,18,18, ,Klepach    
+Spring,ED398,B,1,M, 8:00pm- 8:50pm,Citizenship and Community II,, ,ALCM 205,25,18, ,Duff       
+Spring,ED398,C,1,T,11:00am-11:50am,Citizenship and Community II,, ,MILL 014,18,18, ,Tappan     
+Spring,ED398,D,1,T, 4:30pm- 5:20pm,Citizenship and Community II,, ,ALCM 205,18,18, ,Bruesewitz 
+Spring,ED398,E,1,W, 9:00am- 9:50am,Citizenship and Community II,, ,ALCM 205,14,18, ,Sheriff    
+Spring,ED398,F,1,W, 1:00pm- 1:50pm,Citizenship and Community II,, ,DIAM 123,15,18, ,Begley     
+Spring,ED398,G,1,W, 7:00pm- 7:50pm,Citizenship and Community II,, ,ALCM 505,20,18, ,Becknell   
+Spring,ED398,H,1,R, 1:00pm- 1:50pm,Citizenship and Community II,, ,BIXL 150,20,18, ,Benjamin   
+Spring,ED398,I,1,R, 3:00pm- 3:50pm,Citizenship and Community II,, ,ALCM 205,20,18, ,Rice       
+Spring,ED398,J,1,R, 4:00pm- 4:50pm,Citizenship and Community II,, ,ALCM 205,17,18, ,"Jabar, E   "
+Spring,ED398B,A,4,W, 7:00pm- 9:30pm,Community Engagement in Education,, ,ALCM 205,2,20,5,Casalaspi  
+Spring,ED433,A,4,,TBA,Student Teaching Practicum,, , ,1,15,0,Howard     
+Spring,ED494A,A,4,M, 7:00pm- 9:30pm,Senior Seminar in Creating Equitable Learning Environments,, ,MILL 034,1,15,0,Howard     
+Spring,ED494B,A,4,M, 7:00pm- 9:30pm,Senior Seminar in Professional Certification,, ,MILL 034,1,15,0,Howard     
+Spring,EN115C,A,4,WF, 1:00pm- 2:15pm,English Composition: Critical Inquiries into Medical Ethics,W1, ,LOVE 202,8,16, ,Sibara     
+Spring,EN120G,A,4,MW, 2:30pm- 3:45pm,"Language, Thought, and Writing: Games, Rules, and Play",W1, ,LOVE 203,15,16, ,Ardam      
+Spring,EN120I,A,4,TR,11:00am-12:15pm,Inventing Nature in New England,W1, ,MILL 319,17,16, ,"Gibson, M  "
+Spring,EN120K,A,4,MW, 2:30pm- 3:45pm,"Language, Thought, and Writing: On Beauty",W1, ,MILL 008,14,16, ,"White, A   "
+Spring,EN142,A,4,MW,11:00am-12:15pm,Introduction to Cinema Studies (See CI142),A, , ,0, , ,Wurtzler   
+Spring,EN142,A,4,M, 9:00pm-10:00pm,Introduction to Cinema Studies (See CI142),A, , ,0, , ,Wurtzler   
+Spring,EN174,A,4,TR, 8:00am- 9:15am,Public Speaking,, ,MILL 008,15,16,0,Mazzeo     
+Spring,EN200,A,4,MW, 1:00pm- 2:15pm,Foundations of Literary Studies,L, ,LOVE 302,15,15,0,"Cook, M    "
+Spring,EN200,B,4,TR, 9:30am-10:45am,Foundations of Literary Studies,L, ,MILL 220,15,15,0,Stubbs     
+Spring,EN213,A,4,MWF,10:00am-10:50am,"Introduction to Shakespeare: Stage, Page, and Screen",L, ,MILL 241,11,25,11,Osborne    
+Spring,EN214,A,4,TR, 1:00pm- 2:15pm,Tutoring Writing in Theory and Practice,, ,MILL 220,12,10,0,Harrington 
+Spring,EN226,A,4,MW,11:00am-12:15pm,Performance History II (See TD226),L, , ,0,15, ,Oldham     
+Spring,EN247,A,4,MW, 1:00pm- 2:15pm,Science Fictions,L, ,LOVE 203,25,25,4,Ardam      
+Spring,EN252,A,4,MW, 2:30pm- 3:45pm,History of International Cinema II (See CI252),A, , ,0, , ,Wurtzler   
+Spring,EN252,A,4,T, 7:00pm- 9:00pm,History of International Cinema II (See CI252),A, , ,0, , ,Wurtzler   
+Spring,EN264,A,4,TR,11:00am-12:15pm,Comparative Studies: Emily Dickinson and English Poetry,L, ,LOVE 103,19,25,6,Sagaser    
+Spring,EN271,A,4,TR, 2:30pm- 3:45pm,Critical Theory,L, ,LOVE 102,15,18,16,Suchoff    
+Spring,EN278,A,4,MW,11:00am-12:15pm,Fiction Writing I,A, ,MILL 241,15,15,0,Braunstein 
+Spring,EN278,B,4,TR,11:00am-12:15pm,Fiction Writing I,A, ,LOVE 319,15,15,0,Spark      
+Spring,EN279,A,4,MW,11:00am-12:15pm,Poetry Writing I,A, ,MILL 257,15,15,0,"White, A   "
+Spring,EN279,B,4,TR, 9:30am-10:45am,Poetry Writing I,A, ,MILL 241,14,15,0,Blevins    
+Spring,EN298,A,4,TR, 9:30am-10:45am,Genres of the Mystery Novel,L, ,MILL 319,18,25,0,Mazzeo     
+Spring,EN298A,A,4,MWF,12:00n -12:50pm,Fake News and the Rise of the Novel,L, ,LOVE 203,16,16,0,"Reed, J    "
+Spring,EN310,A,4,MWF,10:00am-10:50am,Professional Writing (See WP310),W2,U , ,0, , ,Hancock    
+Spring,EN312,A,4,MW,11:00am-12:15pm,Death and Dying in the Middle Ages,L, ,MILL 319,17,18,0,"Cook, M    "
+Spring,EN341,A,4,WF,11:00am-12:15pm,American Realism and Naturalism: Then and Now,L, ,MILL 220,14,18,0,Sibara     
+Spring,EN353,A,4,MWF,10:00am-10:50am,The American Short Story,L, ,LOVE 319,18,18,11,Bryant     
+Spring,EN378,A,4,W, 1:00pm- 3:30pm,Fiction Writing II: Special Topics,, ,MILL 220,15,15,0,Braunstein 
+Spring,EN379,A,4,TR,11:00am-12:15pm,Poetry Writing II,, ,MILL 241,8,15,0,Blevins    
+Spring,EN380,A,4,MW, 1:00pm- 2:15pm,Creative Nonfiction Writing II,A, ,MILL 253,8,15,0,Burke      
+Spring,EN386C,A,4,R, 1:00pm- 3:30pm,Special Topics: Documentary Radio,, ,MILL 241,14,15,9,Spark      
+Spring,EN398,A,4,MW, 2:30pm- 3:45pm,Life in Times of Extinction,L, ,LOVE 102,19,18,0,Walker     
+Spring,EN398B,A,4,MW, 2:30pm- 3:45pm,"Sex, Power, and Performance: Restoration Drama",L, ,MILL 253,7,18,0,"Reed, J    "
+Spring,EN442,A,4,TR, 1:00pm- 2:15pm,U.S. Orientalisms and Arab American Literature,L,U ,LOVE 319,17,18,7,Stubbs     
+Spring,EN457,A,4,MWF,12:00n -12:50pm,American Gothic Literature,L,U ,MILL 008,14,18,2,Bryant     
+Spring,EN493A,A,4,MW, 1:00pm- 2:15pm,Seminar: Literature and Film Adaptation,L, ,MILL 008,15,15,0,Osborne    
+Spring,EN493G,A,4,TR, 2:30pm- 3:45pm,Seminar: Poetry and Cognition,L, ,MILL 220,10,15,0,Sagaser    
+Spring,ES118,A,4,MW,10:00am-10:50am,Environment and Society,, ,DIAM 142,62,48,0,"Becknell   Moore, C   Nyhus       Walker     "
+Spring,ES118 D,A,,R, 7:00pm- 7:50pm,Disc/Activity: Env & Soc,, ,DIAM 343,14,16, ,Nyhus      
+Spring,ES118 D,A,,F,10:00am-10:50am,Disc/Activity: Env & Soc,, ,DIAM 343,14,16, ,Nyhus      
+Spring,ES118 D,B,,R, 7:00pm- 7:50pm,Disc/Activity: Env & Soc,, ,DIAM 323,16,16, ,Becknell   
+Spring,ES118 D,B,,F,10:00am-10:50am,Disc/Activity: Env & Soc,, ,DIAM 323,16,16, ,Becknell   
+Spring,ES118 D,C,,R, 7:00pm- 7:50pm,Disc/Activity: Env & Soc,, ,DIAM 341,16,16, ,Walker     
+Spring,ES118 D,C,,F,10:00am-10:50am,Disc/Activity: Env & Soc,, ,DIAM 341,16,16, ,Walker     
+Spring,ES118 D,D,,R, 7:00pm- 7:50pm,Disc/Activity: Env & Soc,, ,DIAM 221,16,16, ,"Neal, B    "
+Spring,ES118 D,D,,F,10:00am-10:50am,Disc/Activity: Env & Soc,, ,DIAM 221,16,16, ,"Neal, B    "
+Spring,ES217,A,3,MWF,12:00n -12:50pm,Environmental Chemistry (See CH217),, , ,0, , ,McKinney   
+Spring,ES218,A,4,MW,11:00am-11:50am,Exploratory Data Analysis in <I>R</I>,, ,DIAM 322,15,16,1,Gimond     
+Spring,ES218,A,4,F, 1:00pm- 3:30pm,Exploratory Data Analysis in <I>R</I>,, ,MILL 008,15,16,1,Gimond     
+Spring,ES231,A,4,MW,11:00am-12:15pm,Environmental and Natural Resource Economics (See EC231),, , ,0, , ,Meredith   
+Spring,ES231,B,4,MW, 1:00pm- 2:15pm,Environmental and Natural Resource Economics (See EC231),, , ,0, , ,Meredith   
+Spring,ES234,A,4,MWF, 9:00am- 9:50am,International Environmental Policy,,I ,DIAM 122,37,30,10,Abrahams   
+Spring,ES242,A,4,MWF,10:00am-10:50am,Marine Conservation and Policy,, ,DIAM 242,21,22,11,McClenacha 
+Spring,ES243,A,4,TR, 9:30am-10:45am,Environmental Ethics (See PL243),, , ,0, , ,Peterson   
+Spring,ES244,A,4,TR, 9:30am-10:45am,Marine Communities,, ,DIAM 242,18,18,8,McClenacha 
+Spring,ES276,A,4,MWF,11:00am-11:50am,Global Change Ecology,, ,KEYE 102,24,24,0,Bruesewitz 
+Spring,ES298,A,4,TR, 1:00pm- 2:15pm,Seafood Forensics: Uncovering Fraud in Ocean Food Systems,N, ,DIAM 344,21,20,7,Rasher     
+Spring,ES319,A,4,TR,11:00am-12:15pm,Conservation Biology,, ,DIAM 223,14,24,6,Nyhus      
+Spring,ES319,A,4,R, 1:00pm- 4:00pm,Conservation Biology,, ,DIAM 222,14,24,6,Nyhus      
+Spring,ES338,A,4,MWF, 9:00am- 9:50am,Forest Ecosystems,"N,Lb", ,DIAM 223,12,16,10,Becknell   
+Spring,ES338,A,4,M, 1:00pm- 4:00pm,Forest Ecosystems,"N,Lb", ,OLIN 229,12,16,10,Becknell   
+Spring,ES366,A,4,TR, 9:30am-10:45am,The Environment and Human Health,N, ,DIAM 141,40,34,0,Carlson    
+Spring,ES382,A,4,TR, 9:30am-10:45am,Ecological Modeling (See BI382),, , ,0, , ,"Moore, C   "
+Spring,ES382,A,4,M, 1:00pm- 4:00pm,Ecological Modeling (See BI382),, , ,0, , ,"Moore, C   "
+Spring,ES398,A,4,MW, 2:30pm- 3:45pm,Life in Times of Extinction (See EN398),L, , ,0, , ,Walker     
+Spring,ES398B,A,4,TR,11:00am-12:15pm,Environmental Security,, ,DIAM 344,8,16,0,Abrahams   
+Spring,ES402,A,1,T, 7:00pm- 8:15pm,Environmental Studies Colloquium,, ,OLIN 001,53,60, ,Nyhus      
+Spring,ES402,A,1,W,12:00n -12:50pm,Environmental Studies Colloquium,, ,DANA FAIR,53,60, ,Nyhus      
+Spring,FR125,A,4,MTWR, 9:00am- 9:50am,French I,, ,LOVE 102,10,18,9,Billard    
+Spring,FR126,A,4,MTWR,10:00am-10:50am,French II,, ,LOVE 203,16,18,17,Dionne     
+Spring,FR126,B,4,MTWR,11:00am-11:50am,French II,, ,LOVE 203,15,18,17,Dionne     
+Spring,FR127,A,4,MTWR, 8:00am- 8:50am,French III,, ,LOVE 103,13,18,9,Maurer     
+Spring,FR127,B,4,MTWR,10:00am-10:50am,French III,, ,LOVE 103,18,18,9,Maurer     
+Spring,FR128,A,4,MWF, 1:00pm- 1:50pm,French IV: Reading in Cultural Contexts,L, ,LOVE 318,11,18,0,Mailhe     
+Spring,FR131,A,4,TR,11:00am-12:15pm,Conversation and Composition,, ,LOVE 307,8,15,6,Niang      
+Spring,FR231,A,4,MWF, 9:00am- 9:50am,Advanced Grammar and Composition,, ,LOVE 103,4,19,10,Maurer     
+Spring,FR234,A,1,M, 4:00pm- 4:50pm,Intensive Spoken French,, ,LOVE 318,5,15, ,Billard    
+Spring,FR243,A,4,TR, 1:00pm- 2:15pm,French Pronunciation through Phonetics,, ,LOVE 307,2,20,0,Mailhe     
+Spring,FR252,A,4,MWF,11:00am-11:50am,Provocative Texts: A Critical Toolbox,L,I ,LOVE 307,8,19,1,Paliyenko  
+Spring,FR354,A,4,MW, 1:00pm- 2:15pm,"Parisian Encounters: Great Loves, Grand Passions",H,I ,LOVE 307,9,15,4,Paliyenko  
+Spring,FR361,A,4,MW, 2:30pm- 3:45pm,"Creolization, Culture, and Society in the Indian Ocean Islands",,I ,DIAM 243,4,15,3,Mauguiere  
+Spring,FR370,A,4,TR, 2:30pm- 3:45pm,"<I>Corps, Espace, et Genre</I>: Postcolonial Space in Francophone Africa",,I ,LOVE 307,6,15,0,Niang      
+Spring,FR493D,A,4,MW, 1:00pm- 2:15pm,"Seminar: Parisian Encounters: Great Loves, Grand Passions",, ,LOVE 307,1,15,0,Paliyenko  
+Spring,FR493E,A,4,MW, 2:30pm- 3:45pm,"Seminar: Creolization, Culture, and Society in the Indian Ocean Islands",, ,DIAM 243,4,15,0,Mauguiere  
+Spring,FR493F,A,4,TR, 2:30pm- 3:45pm,"Seminar: <I>Corps, Espace, et Genre</I>: Postcolonial Space in Francophone Africa",, ,LOVE 307,0,15,0,Niang      
+Spring,GE122,A,4,MWF,10:00am-10:50am,Earth Systems Chemistry II (See CH122),"N,Lb", , ,0, , ,Drozd      Koffman     
+Spring,GE122 L,A,,W, 1:00pm- 4:00pm,Lab: Earth Systems Chemistry II (See CH122 L),, , ,0, , ,Drozd       Twining    
+Spring,GE122 L,B,,R, 1:00pm- 4:00pm,Lab: Earth Systems Chemistry II (See CH122 L),, , ,0, , ,Drozd       Twining    
+Spring,GE141,A,4,MWF, 9:00am- 9:50am,Earth and Environment,"N,Lb", ,MILL 008,38,40,10,"Sullivan,W "
+Spring,GE141,B,4,MWF,11:00am-11:50am,Earth and Environment,"N,Lb", ,MILL 008,44,40,1,Rueger     
+Spring,GE141 L,A,,M, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,21,20, ,Rueger     
+Spring,GE141 L,B,,T, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,22,20, ,Rueger     
+Spring,GE141 L,C,,W, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,19,20, ,Dunn       
+Spring,GE141 L,D,,R, 1:00pm- 4:00pm,Lab: Earth and the Environment,, ,MUDD 218,20,20, ,Croft      
+Spring,GE225,A,4,TR, 9:30am-10:45am,Mineralogy,, ,MUDD 221,7,12,8,Dunn       
+Spring,GE225,A,4,R, 1:00pm- 4:00pm,Mineralogy,, ,MUDD 221,7,12,8,Dunn       
+Spring,GE262,A,4,TR,11:00am-12:15pm,"Earth's Climate: Past, Present, and Future",N, ,MUDD 103,10,14,6,Koffman    
+Spring,GE262,A,4,T, 1:00pm- 4:00pm,"Earth's Climate: Past, Present, and Future",N, ,MUDD 103,10,14,6,Koffman    
+Spring,GE331,A,4,MWF,11:00am-11:50am,Plate Tectonics,, ,MUDD 221,4,10,1,"Sullivan,W "
+Spring,GE391,A,1,F, 1:00pm- 2:00pm,Geology Seminar,, ,LOVE 100,31,50, ,Dunn       
+Spring,GE494,A,4,M, 1:00pm- 4:00pm,Topics in Geoscience,W3, ,MUDD 219,5,12,0,Gastaldo   
+Spring,GK112,A,4,MTWR,11:00am-11:50am,Intermediate Greek,, ,LOVE 244,6,15,1,Barrett    
+Spring,GK362,A,4,TR, 2:30pm- 3:45pm,Sophocles: <I>Ajax</I>,L, ,LOVE 244,2,20,9,Barrett    
+Spring,GM126,A,4,MTRF, 8:00am- 8:50am,Elementary German II,, ,LOVE 207,13,20,14,"Bradley, R "
+Spring,GM128,A,4,MTRF, 9:00am- 9:50am,Intermediate German II: Readings in Cultural Contexts,, ,LOVE 302,10,19,10,"Bradley, R "
+Spring,GM130,A,1,R, 7:00pm- 7:50pm,Conversation Group,, ,LOVE 450,6,15, ,Williamson 
+Spring,GM236,A,4,MW,11:00am-12:15pm,ConTexts in German Culture,, ,LOVE 450,2,15,0,Manektala  
+Spring,GM298A,A,4,TR,11:00am-12:15pm,Environmental Humanities: Nature Philosophy's Roots,L, ,LOVE 302,14,20,0,"Bradley, R "
+Spring,GM298B,A,4,TR, 2:30pm- 3:45pm,Weimar Culture: Germany Between the World Wars (See HI398C),H, , ,0, , ,Hollander  
+Spring,GM330,A,1,T, 7:00pm- 7:50pm,Current Topics,, ,LOVE 450,4,15, ,Williamson 
+Spring,GM493,A,4,W, 1:00pm- 3:30pm,Seminar: Ideologies and Identities,L, ,LOVE 450,2,15,0,Manektala  
+Spring,GO111,A,4,TR, 2:30pm- 3:45pm,Introduction to American Government and Politics,S, ,DIAM 122,37,40,0,Shea       
+Spring,GO115,A,4,TR, 9:30am-10:45am,Great Issues in Contemporary American Government,"S,W1", ,DIAM 241,16,16, ,Maisel     
+Spring,GO131,A,4,MWF, 9:00am- 9:50am,Introduction to International Relations,S, ,DIAM 142,39,40,10,Babik      
+Spring,GO131,B,4,TR,11:00am-12:15pm,Introduction to International Relations,S, ,LOVE 215,39,40,6,Seay       
+Spring,GO171,A,4,MW, 1:00pm- 2:15pm,Introduction to Political Theory,S,I ,DIAM 122,43,40,4,Corrado    
+Spring,GO226,A,4,TR,11:00am-12:15pm,Media and Politics,S, ,LOVE 213,25,25,6,Shea       
+Spring,GO238,A,4,TR, 7:00pm- 8:30pm,Politics of War Crime Tribunals,S, ,DIAM 241,8,25,2,Rodman     
+Spring,GO251,A,4,MW,11:00am-12:15pm,Israelis and Palestinians: Conflict and Accommodation,S, ,DIAM 342,18,25,1,Denoeux    
+Spring,GO259,A,4,TR, 9:30am-10:45am,Introduction to European Politics,, ,DIAM 122,32,25,8,Yoder      
+Spring,GO260,A,4,MWF,10:00am-10:50am,"9/11: Origins, Event, Aftermath",S, ,DIAM 344,25,25,11,Babik      
+Spring,GO263,A,4,MW, 2:30pm- 3:45pm,Global Crisis of Democracy and Democracy Assistance,S, ,DIAM 145,21,25,5,Denoeux    
+Spring,GO264,A,4,MW, 7:00pm- 8:15pm,Democracy and Human Rights in Latin America,"S,W2",I ,DIAM 241,14,16,5,Mayka      
+Spring,GO281,A,4,MWF, 9:00am- 9:50am,Concepts and Methods of Political Science Research,Q, ,DIAM 241,20,18,10,Levan      
+Spring,GO281,B,4,MWF,10:00am-10:50am,Concepts and Methods of Political Science Research,Q, ,DIAM 241,19,18,11,Mayka      
+Spring,GO312,A,4,TR, 9:30am-10:45am,Suburban Politics,,U ,LOVE 205,24,25,8,Levan      
+Spring,GO313,A,4,MW, 2:30pm- 3:45pm,National Powers in American Constitutional Law,, ,DIAM 241,15,25,3,Reisert    
+Spring,GO318,A,4,TR,11:00am-12:15pm,Money and Politics,, ,DIAM 122,23,25,0,Corrado    
+Spring,GO354,A,4,MW, 1:00pm- 2:15pm,The European Union,, ,DIAM 241,19,25,0,Yoder      
+Spring,GO417,A,4,T, 1:00pm- 3:30pm,Seminar: Reinventing America: A Constitution for the 21st Century,, ,DIAM 241,12,12,0,Reisert    
+Spring,GO432,A,4,R, 1:00pm- 3:30pm,Seminar: U.S. Foreign Policy,, ,DIAM 241,11,12,0,Rodman     
+Spring,GS198,A,1,R,12:00n -12:50pm,Water and Human Rights: A Reading Group,, , ,21,20, ,"Carlson    Dionne     Fleming    Maurer     McClenacha Meredith   Rasher     Reardon, E  Walker     "
+Spring,GS211,A,4,T, 1:00pm- 3:30pm,Human Rights and Social Justice in Global Perspective,W2, ,DIAM 343,18,18,7,Razsa      
+Spring,GS316,A,4,M, 1:00pm- 3:30pm,Religion and Social Change in Contemporary Africa,, ,DIAM 343,9,15,0,Halvorson  
+Spring,GS455,A,4,R, 1:00pm- 3:30pm,Intervention: The Ethics and Politics of Humanitarianism,S, ,DIAM 343,12,12,0,Halvorson  
+Spring,HI112,A,4,TR,11:00am-12:15pm,Revolutions of Modern Europe,H,I ,OLIN 001,36,40,6,Hollander  
+Spring,HI120D,A,4,TR, 9:30am-10:45am,Spotlight on History: Becoming Chinese American,"H,W1",U ,LOVE 212,17,16, ,"Parker, La "
+Spring,HI131,A,4,MWF,10:00am-10:50am,"Survey of U.S. History, to 1865",H,U ,LOVE 205,37,40,11,"Reardon, E "
+Spring,HI184,A,4,TR, 8:00am- 9:15am,History of the Modern Middle East,H,I ,MILL 014,37,40,13,Turner     
+Spring,HI211,A,4,TR, 9:30am-10:45am,"Lawgivers, Pharaohs, and Philosophers: Ancient Civilizations",H, ,MILL 008,20,30,0,"Taylor, L  "
+Spring,HI228,A,4,TR,11:00am-12:15pm,The Russian Empire: Soviet History and 20th-Century Revolutions,H,I ,MILL 008,25,30,0,Josephson  
+Spring,HI232,A,4,MWF, 9:00am- 9:50am,"American Women's History, 1870 to the Present",H,U ,LOVE 119,19,30,0,Leonard    
+Spring,HI234,A,4,WF, 1:00pm- 2:15pm,Native Americans since 1850,H,U ,LOVE 213,23,30,0,"Reardon, E "
+Spring,HI246,A,4,TR, 9:30am-10:45am,Luddite Rantings: A Historical Critique of Big Technology,H,U ,LOVE 215,37,30,0,Josephson  
+Spring,HI255,A,4,TR,11:00am-12:15pm,"Histories of Southeast Asia: Slavery, Diasporas, and Revolutions",H,I ,LOVE 208,26,30,6,vanderMeer 
+Spring,HI276,A,4,TR, 9:30am-10:45am,Patterns and Processes in World History,H, ,MILL 014,25,30,0,Duff       
+Spring,HI298,A,4,TR, 1:00pm- 2:15pm,"Introduction to African History, 1800 to 1994",H,I ,LOVE 213,19,20,0,Duff       
+Spring,HI320,A,4,T, 1:00pm- 3:30pm,"Joan of Arc: History, Legend, and Film",H,I ,MILL 014,13,20,0,"Taylor, L  "
+Spring,HI362,A,4,TR, 2:30pm- 3:45pm,History of Egypt,H,I ,MILL 257,11,20,9,Turner     
+Spring,HI377,A,4,M, 1:00pm- 3:30pm,"Imperialism, Decolonization, and Modernity in Southeast Asia",H,I ,MILL 319,6,20,0,vanderMeer 
+Spring,HI398A,A,4,MW, 2:30pm- 3:45pm,Minorities in East Asia,H,I ,LOVE 302,5,20,0,Shmagin    
+Spring,HI398B,A,4,W, 1:00pm- 3:30pm,South African Women's Memoir,H,I ,ALCM 205,4,20,0,Duff       
+Spring,HI398C,A,4,TR, 2:30pm- 3:45pm,Weimar Culture: Germany Between the World Wars,H, ,MILL 008,7,20,0,Hollander  
+Spring,HI435,A,4,M, 1:00pm- 3:30pm,Research Seminar: The American Civil War,H,U ,MILL 257,6,15,0,Leonard    
+Spring,IT126,A,4,MTWR,10:00am-10:50am,Italian II,, ,LOVE 207,17,19,17,"Rizzo, G   "
+Spring,IT126,B,4,MTWR,11:00am-11:50am,Italian II,, ,LOVE 207,13,19,17,Parodi     
+Spring,IT128,A,4,MWF, 9:00am- 9:50am,Italian through Film and Visual Culture,, ,LOVE 319,5,10,9,Ferrando   
+Spring,IT141,A,4,MW,11:00am-12:15pm,"Introduction to Italian Literary Studies: Poets, Lovers, Revolutionaries",L, ,LOVE 246,2,20,0,Ferrando   
+Spring,IT235,A,1,M, 6:00pm- 6:50pm,Italian Conversation,, ,LOVE 203,9,20, ,Parodi     
+Spring,IT356,A,4,MW,11:00am-12:15pm,Introduction to Dante's <I>Divine Comedy</I> (in English),L, ,LOVE 208,12,15,1,"Rizzo, G   "
+Spring,JA126,A,5,MTWRF, 9:00am- 9:50am,Elementary Japanese II,, ,LOVE 307,10,25,8,"Shmagin, M "
+Spring,JA126,B,5,MTWRF, 9:00am- 9:50am,Elementary Japanese II,, ,LOVE 203,16,25,8,"Yoshida, J "
+Spring,JA128,A,4,MTWR,10:00am-10:50am,Intermediate Japanese II,, ,LOVE 423,5,19,11,Abe        
+Spring,JA135,A,1,M, 5:00pm- 5:50pm,Conversational Japanese I,, ,LOVE 307,9,20, ,KawashimaM 
+Spring,JA135,B,1,M, 6:00pm- 6:50pm,Conversational Japanese I,, ,LOVE 307,9,20, ,KawashimaM 
+Spring,JA235,A,1,,TBA,Conversational Japanese II,, , ,4,20, ,KawashimaM 
+Spring,JA322,A,4,MWF, 1:00pm- 1:50pm,Third-Year Japanese,, ,LOVE 423,6,19,4,"Yoshida, J "
+Spring,JA335,A,1,,TBA,Conversational Japanese III,, , ,6,19, ,KawashimaM 
+Spring,JA422,A,4,TR,11:00am-12:15pm,Fourth-Year Japanese,, ,LOVE 423,4,19,6,Abe        
+Spring,JS126,A,3,MWR,10:00am-10:50am,Hebrew II,, ,LOVE 102,3,18,2,Isaacs     
+Spring,JS144,A,4,MW, 2:30pm- 3:45pm,Introduction to the New Testament (See RE144),L, , ,0, , ,Emanuel    
+Spring,JS182,A,4,TR, 9:30am-10:45am,"Jews, Judaism, and the Modern World (See RE182)",H,I , ,0, , ,Freidenrch 
+Spring,JS251,A,4,MW,11:00am-12:15pm,Israelis and Palestinians: Conflict and Accommodation (See GO251),S, , ,0, , ,Denoeux    
+Spring,JS298,A,4,MW, 1:00pm- 2:15pm,Public Speaking for Social Change,, ,LOVE 207,8,16,0,Isaacs     
+Spring,JS298,A,4,M, 7:00pm- 8:30pm,Public Speaking for Social Change,, ,MILL 205,8,16,0,Isaacs     
+Spring,JS298A,A,4,MW,11:00am-12:15pm,The Jewish Jesus (See RE298A),H, , ,0, , ,Emanuel    
+Spring,JS322,A,4,TR, 1:00pm- 2:15pm,Food and Religious Identity (See RE322),S, , ,0, , ,Freidenrch 
+Spring,LA174,A,4,MW, 1:00pm- 2:15pm,Introduction to Latin American Studies,H,I ,LOVE 208,33,35,4,Fallaw     
+Spring,LA264,A,4,MW, 7:00pm- 8:15pm,Democracy and Human Rights in Latin America (See GO264),"S,W2",I , ,0, , ,Mayka      
+Spring,LA298,A,1,T, 7:00pm- 8:30pm,"Baila: Latin Dance, History, Culture, and Performance",, ,RUNN 201,19,16, ,Bernal     
+Spring,LA378,A,4,MW,11:00am-12:15pm,"U.S. in Latin America: Intervention, Influence, Integration","H,W2",I ,LOVE 318,7,15,0,Fallaw     
+Spring,LT112,A,4,MTWF,12:00n -12:50pm,Intermediate Latin,, ,LOVE 202,17,20,17,Gillum     
+Spring,LT364,A,4,MW, 1:00pm- 2:15pm,Livy: Early Rome,, ,LOVE 244,8,20,4,Barrett    
+Spring,MA121,A,4,MTWF, 9:00am- 9:50am,Single-Variable Calculus,Q, ,LOVE 303,26,28,17,"Keller, A  "
+Spring,MA121,B,4,MTWF,11:00am-11:50am,Single-Variable Calculus,Q, ,LOVE 303,17,28,17,Melvin     
+Spring,MA121,C,4,MTWF,12:00n -12:50pm,Single-Variable Calculus,Q, ,KEYE 102,19,28,17,Bontea     
+Spring,MA122,A,4,MTWF,11:00am-11:50am,Series and Multi-variable Calculus,Q, ,DAVI 201,18,28,6,Livshits   
+Spring,MA122,B,4,MTWF,12:00n -12:50pm,Series and Multi-variable Calculus,Q, ,DAVI 201,24,28,6,Welch      
+Spring,MA162,A,4,MTWF,12:00n -12:50pm,Honors Calculus II,, ,MILL 014,12,28,6,Mathes     
+Spring,MA253,A,4,MWF, 8:00am- 8:50am,Linear Algebra,, ,DAVI 301,30,28,14,Youngs     
+Spring,MA253,B,4,MWF, 9:00am- 9:50am,Linear Algebra,, ,LOVE 213,24,28,14,Bretscher  
+Spring,MA253,C,4,MWF, 1:00pm- 1:50pm,Linear Algebra,, ,DAVI 201,29,28,14,Gouvea     
+Spring,MA262,A,4,MWF,10:00am-10:50am,Vector Calculus,, ,KEYE 102,13,28,11,"Taylor, Sc "
+Spring,MA274,A,4,MWF, 9:00am- 9:50am,Mathematical Reasoning,W2, ,KEYE 102,18,24,10,"Taylor, Sc "
+Spring,MA274,B,4,MWF,12:00n -12:50pm,Mathematical Reasoning,W2, ,LOVE 303,16,24,8,Youngs     
+Spring,MA311,A,4,MWF, 1:00pm- 1:50pm,Ordinary Differential Equations,, ,KEYE 102,26,28,4,Randles    
+Spring,MA338,A,4,MWF, 2:30pm- 3:20pm,Real Analysis,, ,DAVI 201,21,28,16,Mathes     
+Spring,MA353,A,4,TR, 2:30pm- 3:45pm,Matrix Analysis,, ,DAVI 201,7,28,9,Livshits   
+Spring,MA376,A,4,MWF,11:00am-11:50am,History of Mathematics,H, ,DAVI 217,16,28,0,Gouvea     
+Spring,MA398,A,4,MWF,10:00am-10:50am,Combinatorics,, ,LOVE 303,14,28,11,"Keller, A  "
+Spring,MA411,A,4,MWF, 9:00am- 9:50am,Topics in Differential Equations,, ,DAVI 217,9,14,10,Randles    
+Spring,MA434,A,4,MWF, 1:00pm- 1:50pm,Topics in Abstract Algebra,, ,DAVI 217,6,15,0,Melvin     
+Spring,MA482,A,4,MWF, 9:00am- 9:50am,Topics in Statistical Inference (See SC482),, , ,0, , ,O'Brien    
+Spring,ML122,A,3,MTR,11:00am-11:50am,Elementary Modern Standard Arabic I-B,, ,MILL 220,3,15,14,Chatti     
+Spring,ML124,A,3,MW, 9:00am- 9:50am,Elementary Modern Standard Arabic II-B,, ,LOVE 344,1,15,3,Chatti     
+Spring,ML124,A,3,R, 4:00pm- 4:50pm,Elementary Modern Standard Arabic II-B,, ,LOVE 344,1,15,3,Chatti     
+Spring,MU091,0,,,TBA,Music Lessons: Noncredit or JP,, , ,0,20, ,With Whom? 
+Spring,MU093,A,,M, 7:00pm-10:00pm,"Applied Music: Ensemble, Noncredit (Orchestra)",, ,BIXL 219,9,25, ,Park       
+Spring,MU093,B,,M, 4:00pm- 6:00pm,"Applied Music: Ensemble, Noncredit (Chorale)",, ,BIXL 178,13,23, ,Perry      
+Spring,MU093,C,,W, 7:00pm- 9:30pm,"Applied Music: Ensemble, Noncredit (Collegium)",, ,BIXL 178,6,25, ,Perry      
+Spring,MU093,D,,W, 7:00pm- 9:30pm,"Applied Music: Ensemble, Noncredit (Wind Ensemble)",, ,BIXL 219,2,25, ,"Thomas, E  "
+Spring,MU093,E,,R, 7:00pm- 9:30pm,"Applied Music: Ensemble, Noncredit (Jazz Band)",, ,BIXL 219,4,25, ,"Thomas, E  "
+Spring,MU093,F,,M, 6:00pm- 9:00pm,"Applied Music: Ensemble, Noncredit (African Drumming)",, ,BIXL 178,4,25, ,Benissan   
+Spring,MU093,G,,,TBA,"Applied Music: Ensemble, Noncredit (Flute Choir)",, , ,3,25, ,Rabata     
+Spring,MU093,G1,,,TBA,"Applied Music: Ensemble, Noncredit (Mixed Chamber Ensemble)",, , ,1,25, ,Rabata     
+Spring,MU093,G2,,,TBA,"Applied Music: Ensemble, Noncredit (Traditional Irish Music Ensemble)",, , ,0,25, ,Rabata     
+Spring,MU093,H,,,TBA,"Applied Music: Ensemble, Noncredit (Guitar Ensemble)",, , ,3,25, ,Leighton   
+Spring,MU093,I,,,TBA,"Applied Music: Ensemble, Noncredit (String Ensemble)",, , ,7,25, ,Park       
+Spring,MU093,J,,,TBA,"Applied Music: Ensemble, Noncredit (Guitar Ensemble)",, , ,0,25, ,Dimow      
+Spring,MU093,K,,,TBA,"Applied Music: Ensemble, Noncredit (Trumpet Ensemble)",, , ,2,25, ,Whitener   
+Spring,MU093,L,,,TBA,"Applied Music: Ensemble, Noncredit (Piano Ensemble)",, , ,3,25, ,Funahashi  
+Spring,MU093,L1,,,TBA,"Applied Music: Ensemble, Noncredit (Mixed Chamber Ensemble)",, , ,3,25, ,Funahashi  
+Spring,MU093,M,,T, 4:00pm- 5:00pm,"Applied Music: Ensemble, Noncredit (Music Scenes Ensemble)",, , ,0,25, ,"Morris, J  "
+Spring,MU093,O,,,TBA,"Applied Music: Ensemble, Noncredit (Chamber Ensemble)",, , ,4,25, ,"Thomas, E  "
+Spring,MU093,O1,,,TBA,"Applied Music: Ensemble, Noncredit (Jazz Combo Chamber Ensemble)",, , ,2,25, ,"Thomas, E  "
+Spring,MU111,A,4,MWF,11:00am-11:50am,Introduction to Music,A, ,BIXL 178,49,60,1,Saunders   
+Spring,MU182,A,4,TR, 9:30am-10:45am,Music Theory II,, ,BIXL 150,12,25,8,Nuss       
+Spring,MU182,B,4,TR, 9:30am-10:45am,Music Theory II,, ,BIXL 226,9,25,8,Hallstrom  
+Spring,MU191,0,1 to 2,,TBA,Music Lessons: Credit,, , ,0,20, ,With Whom? 
+Spring,MU193,A,1,M, 7:00pm-10:00pm,Applied Music: Ensemble for Credit (Orchestra),, ,BIXL 219,9,25, ,Park       
+Spring,MU193,B,1,M, 4:00pm- 6:00pm,Applied Music: Ensemble for Credit (Chorale),, ,BIXL 178,1,25, ,Perry      
+Spring,MU193,C,1,W, 7:00pm- 9:30pm,Applied Music: Ensemble for Credit (Collegium),, ,BIXL 178,8,12, ,Perry      
+Spring,MU193,D,1,W, 7:00pm- 9:30pm,Applied Music: Ensemble for Credit (Wind Ensemble),, ,BIXL 219,3,25, ,"Thomas, E  "
+Spring,MU193,E,1,R, 7:00pm- 9:30pm,Applied Music: Ensemble for Credit (Jazz Band),, ,BIXL 219,4,25, ,"Thomas, E  "
+Spring,MU193,F,1,M, 6:00pm- 9:00pm,Applied Music: Ensemble for Credit (African Drumming),, ,BIXL 178,0,25, ,Benissan   
+Spring,MU193,G,1,,TBA,Applied Music: Ensemble for Credit (Flute Choir),, , ,0,25, ,Rabata     
+Spring,MU193,G1,1,,TBA,Applied Music: Ensemble for Credit (Mixed Chamber Ensemble),, , ,2,25, ,Rabata     
+Spring,MU193,G2,1,,TBA,Applied Music: Ensemble for Credit (Traditional Irish Music Ensemble),, , ,0,25, ,Rabata     
+Spring,MU193,H,1,,TBA,Applied Music: Ensemble for Credit (Guitar Ensemble),, , ,8,25, ,Leighton   
+Spring,MU193,I,1,,TBA,Applied Music: Ensemble for Credit (String Ensemble),, , ,2,25, ,Park       
+Spring,MU193,J,1,,TBA,Applied Music: Ensemble for Credit (Guitar Ensemble),, , ,0,25, ,Dimow      
+Spring,MU193,K,1,,TBA,Applied Music: Ensemble for Credit (Trumpet Ensemble),, , ,2,25, ,Whitener   
+Spring,MU193,L,1,,TBA,Applied Music: Ensemble for Credit (Piano Ensemble),, , ,1,25, ,Funahashi  
+Spring,MU193,L1,1,,TBA,Applied Music: Ensemble for Credit (Mixed Chamber Ensemble),, , ,0,25, ,Funahashi  
+Spring,MU193,M,1,T, 4:00pm- 5:00pm,Applied Music: Ensemble for Credit (Musical Scenes Ensemble),, , ,0,25, ,"Morris, J  "
+Spring,MU193,O,1,,TBA,Applied Music: Ensemble for Credit (Chamber Ensemble),, , ,0,25, ,"Thomas, E  "
+Spring,MU193,O1,1,,TBA,Applied Music: Ensemble for Credit (Jazz Combo Chamber Ensemble),, , ,1,25, ,"Thomas, E  "
+Spring,MU213,A,4,MW, 1:00pm- 2:15pm,Introduction to Computer Music,A, ,BIXL 226,8,10,0,Hallstrom  
+Spring,MU234,A,4,TR, 1:00pm- 2:15pm,From Rockabilly to Grunge: A History of Rock 'n' Roll,A, ,BIXL 226,21,20,7,Zelensky   
+Spring,MU242,A,4,MW, 2:30pm- 3:45pm,Music History II: High Baroque to the Dawn of Romanticism,, ,BIXL 226,8,25,3,Saunders   
+Spring,MU262,A,4,TR, 9:30am-10:45am,"Music in Life, Music as Culture: Introduction to Ethnomusicology",A,I ,BIXL 102,11,12,0,Zelensky   
+Spring,MU282,A,4,TR, 2:30pm- 3:45pm,Music Theory IV,, ,BIXL 150,3,18,9,Nuss       
+Spring,PH120,A,4,TR, 1:00pm- 2:15pm,Space ... The Final Frontier,W1, ,KEYE 103,15,16, ,McCoy      
+Spring,PH120,A,4,M, 7:00pm-10:00pm,Space ... The Final Frontier,W1, ,MILL 014,15,16, ,McCoy      
+Spring,PH145,A,4,MWF,11:00am-11:50am,Foundations of Electromagnetism and Optics,"N,Lb", ,KEYE 105,49,50,5,Tate       
+Spring,PH145,B,4,MWF,12:00n -12:50pm,Foundations of Electromagnetism and Optics,"N,Lb", ,KEYE 105,41,50,5,Tate       
+Spring,PH145 D,A,,M, 1:00pm- 1:50pm,Disc: Electromagnetism/Optics,, ,MUDD 311,22,24, ,Lessard    
+Spring,PH145 D,B,,M, 2:30pm- 3:20pm,Disc: Electromagnetism/Optics,, ,MUDD 311,21,24, ,Lessard    
+Spring,PH145 D,C,,T, 1:00pm- 1:50pm,Disc: Electromagnetism/Optics,, ,MUDD 311,25,24, ,Lessard    
+Spring,PH145 D,D,,T, 2:30pm- 3:20pm,Disc: Electromagnetism/Optics,, ,MUDD 311,22,24, ,Lessard    
+Spring,PH145 L,A,,T, 8:00am-10:50am,Lab: Electromagnetism/Optics,, ,MUDD 322,16,18, ,Lessard    
+Spring,PH145 L,B,,T, 2:00pm- 4:50pm,Lab: Electromagnetism/Optics,, ,MUDD 322,19,18, ,Chakdar    
+Spring,PH145 L,C,,W, 2:00pm- 4:50pm,Lab: Electromagnetism/Optics,, ,MUDD 322,19,18, ,Goulet     
+Spring,PH145 L,D,,R, 9:00am-11:50am,Lab: Electromagnetism/Optics,, ,MUDD 322,18,18, ,Lessard    
+Spring,PH145 L,E,,R, 2:00pm- 4:50pm,Lab: Electromagnetism/Optics,, ,MUDD 322,18,18, ,Goulet     
+Spring,PH242,A,4,MWF, 9:00am- 9:50am,Modern Physics II,, ,MUDD 405,29,28,10,Bluhm      
+Spring,PH242,A,4,T, 1:00pm- 1:50pm,Modern Physics II,, ,MUDD 405,29,28,10,Bluhm      
+Spring,PH250,A,4,M, 1:00pm- 2:50pm,Experiments in Modern Physics,, ,MUDD 405,12,12,0,McCoy      
+Spring,PH250,A,4,W, 1:00pm- 3:50pm,Experiments in Modern Physics,, ,MUDD 405,12,12,0,McCoy      
+Spring,PH311,A,4,MTRF,10:00am-10:50am,Classical Mechanics,, ,MUDD 311,11,18,11,Chakdar    
+Spring,PH332,A,4,MTWF,11:00am-11:50am,Thermodynamics and Statistical Mechanics,, ,MUDD 311,14,24,1,McGrath    
+Spring,PH342,A,4,TR, 2:30pm- 3:45pm,Galaxies and Cosmology (See AS342),, , ,0, , ,Kocevski   
+Spring,PL111,A,4,MW, 1:00pm- 2:15pm,Central Philosophical Issues: Self and Society,S, ,LOVE 119,19,30,0,Switzer    
+Spring,PL151,A,4,MWF,11:00am-11:50am,Logic and Argumentation,Q, ,LOVE 100,65,75,1,Cohen      
+Spring,PL232,A,4,MWF,10:00am-10:50am,History of Modern Philosophy,H, ,LOVE 119,20,25,0,Switzer    
+Spring,PL236,A,4,MW,11:00am-12:15pm,Critical Social Thought,,U ,LOVE 119,19,25,0,Gordon     
+Spring,PL243,A,4,TR, 9:30am-10:45am,Environmental Ethics,, ,LOVE 119,22,25,0,Peterson   
+Spring,PL274,A,4,TR, 2:30pm- 3:45pm,Philosophy of Religion,S, ,LOVE 119,22,25,0,Behuniak   
+Spring,PL277,A,1,,TBA,Reuman Reading Group,, , ,15,16, ,Cohen      
+Spring,PL314,A,4,T, 1:00pm- 3:30pm,Karl Marx and Marxist Philosophical Thought,S, ,LOVE 246,13,18,0,Gordon     
+Spring,PL317,A,4,T, 7:00pm-10:00pm,Philosophy of Science,, ,LOVE 246,9,18,0,Cohen      
+Spring,PL380B,A,4,TR,11:00am-12:15pm,Material Ethics,, ,LOVE 246,10,18,0,Peterson   
+Spring,PL384,A,4,W, 1:00pm- 3:30pm,Philosophers in Focus: John Dewey,, ,LOVE 246,14,12,0,Behuniak   
+Spring,PL402,A,1,,TBA,Philosophy Colloquium II,, , ,13,18, ,Cohen      Gordon     Peterson    
+Spring,PS111,A,4,MWF,10:00am-10:50am,Introduction to Psychology,S, ,LOVE 100,86,90,11,Buccigross Raag       Seto       Sheets     Shipstead   
+Spring,PS215,A,4,T,11:00am-12:15pm,Research Methods and Statistics in Psychology II,W2, ,DAVI 301,32,30,14,Seto       
+Spring,PS215,A,4,R,11:00am-12:15pm,Research Methods and Statistics in Psychology II,W2, ,DAVI 308,32,30,14,Seto       
+Spring,PS215,B,4,T, 2:30pm- 3:45pm,Research Methods and Statistics in Psychology II,W2, ,DAVI 301,29,30,14,Seto       
+Spring,PS215,B,4,R, 2:30pm- 3:45pm,Research Methods and Statistics in Psychology II,W2, ,DAVI 308,29,30,14,Seto       
+Spring,PS215 L,A,,,TBA,Lab: Research Methods and Statistics in Psychology II,, , ,19,15, ,Shipstead  
+Spring,PS215 L,B,,,TBA,Lab: Research Methods and Statistics in Psychology II,, , ,20,15, ,Arterberry 
+Spring,PS215 L,C,,,TBA,Lab: Research Methods and Statistics in Psychology II,, , ,22,15, ,Shipstead  
+Spring,PS233,A,4,MWF, 1:00pm- 1:50pm,Biological Basis of Behavior,, ,DAVI 301,37,35,4,Glenn      
+Spring,PS242,A,4,MW, 2:30pm- 3:45pm,Psychoneuroimmunology,, ,DAVI 301,35,35,0,Buccigross 
+Spring,PS251,A,4,TR, 1:00pm- 2:15pm,Personality Psychology,, ,DAVI 301,35,35,7,Soto       
+Spring,PS253,A,4,MWF, 9:00am- 9:50am,Social Psychology,, ,DAVI 301,34,35,10,"Rogers, R  "
+Spring,PS259,A,4,MW,11:00am-12:15pm,Lifespan Development,, ,DAVI 301,27,35,1,Arterberry 
+Spring,PS272,A,4,TR, 9:30am-10:45am,Sensation and Perception,, ,DAVI 301,35,35,8,Shipstead  
+Spring,PS298,A,4,TR,11:00am-12:15pm,Language and Mind (See EA298),, , ,0, , ,"Liu, J     "
+Spring,PS336,A,4,MW, 1:00pm- 2:15pm,Seminar in Experimental Social Psychology,W3, ,DAVI 307,7,10,0,"Rogers, R  "
+Spring,PS337,A,1,,TBA,Collaborative Research in Social Psychology,, , ,7,10, ,"Rogers, R  "
+Spring,PS343,A,4,MW, 2:30pm- 3:45pm,Seminar in Emotion Theory and Research,, ,DAVI 307,10,10,3,Sheets     
+Spring,PS344,A,1,,TBA,Collaborative Research in Emotion,, , ,10,10, ,Sheets     
+Spring,PS352F,A,4,TR,11:00am-12:15pm,Seminar: Neuroscience of Addiction,, ,DAVI 307,14,12,0,Buccigross 
+Spring,PS354,A,4,TR, 9:30am-10:45am,Seminar in Emerging Adulthood,, ,DAVI 307,10,10,0,Raag       
+Spring,PS355,A,1,,TBA,Collaborative Research in Emerging Adulthood,, , ,10,10, ,Raag       
+Spring,PS374,A,4,MW,11:00am-12:15pm,Seminar: Psychology and Neuroscience,, ,DAVI 307,13,12,1,Glenn      
+Spring,PS420,A,3,W, 7:00pm- 9:30pm,Senior Integrative Seminar,, ,DAVI 301,18,16,0,Buccigross 
+Spring,PS420,A,3,F, 3:00pm- 4:00pm,Senior Integrative Seminar,, ,DAVI 301,18,16,0,Buccigross 
+Spring,RE111,A,4,TR, 2:30pm- 3:45pm,Religions of India,S, ,LOVE 205,27,30,0,Singh      
+Spring,RE114,A,4,TR,11:00am-12:15pm,"Introduction to the Study of Religion: Religion, Ritual, the Body",S, ,LOVE 119,25,35,6,Orzech     
+Spring,RE144,A,4,MW, 2:30pm- 3:45pm,Introduction to the New Testament,L, ,LOVE 303,29,35,0,Emanuel    
+Spring,RE182,A,4,TR, 9:30am-10:45am,"Jews, Judaism, and the Modern World",H,I ,LOVE 344,12,35,4,Freidenrch 
+Spring,RE217,A,4,MW, 7:00pm- 8:15pm,Religion in the Americas,H, ,LOVE 303,15,25,5,Harper     
+Spring,RE263,A,4,TR, 1:00pm- 2:15pm,Buddhism across East Asia (See EA263),L, , ,0, , ,Orzech     
+Spring,RE298A,A,4,MW,11:00am-12:15pm,The Jewish Jesus,H, ,LOVE 344,4,25,0,Emanuel    
+Spring,RE298B,A,4,T, 7:00pm- 9:30pm,American Spirituality and the Environment,S,U ,LOVE 303,24,25,0,Harper     
+Spring,RE319,A,4,W, 1:00pm- 3:30pm,Bollywood and Beyond: South Asian Religions through Film,L,I ,LOVE 344,13,12,0,Singh      
+Spring,RE322,A,4,TR, 1:00pm- 2:15pm,Food and Religious Identity,S, ,LOVE 344,6,14,7,Freidenrch 
+Spring,RU126,A,4,MTWR, 9:00am- 9:50am,Elementary Russian II,, ,LOVE 450,4,19,10,"Parker, Lu "
+Spring,RU128,A,4,MTWF, 9:00am- 9:50am,Intermediate Russian II,, ,LOVE 211,8,19,10,Ansdell    
+Spring,RU135,A,1,R, 9:00am- 9:50am,Conversation Group,, ,LOVE 423,5,10, ,Nikiforova 
+Spring,RU135,B,1,R, 1:00pm- 1:50pm,Conversation Group,, ,LOVE 450,3,10, ,Nikiforova 
+Spring,RU232,A,4,TR,11:00am-12:15pm,All That is Solid Melts into Air: Modern Russian Literature,L, ,LOVE 318,7,20,0,"Parker, Lu "
+Spring,RU326,A,4,MWF,10:00am-10:50am,Conversation and Composition,, ,LOVE 450,2,15,11,Ansdell    
+Spring,RU335,A,1,T, 1:00pm- 1:50pm,Conversation Group,, ,LOVE 450,2,10, ,Nikiforova 
+Spring,RU428,A,4,MWF,10:00am-10:50am,The 20th-Century Russian Novel,L, ,LOVE 450,3,10,1,Ansdell    
+Spring,SC212,A,4,MWF, 8:00am- 8:50am,Introduction to Statistics and Data Science,"Q,W2", ,AREY 005,21,28,3,Bontea     
+Spring,SC212,B,4,MWF, 9:00am- 9:50am,Introduction to Statistics and Data Science,"Q,W2", ,AREY 005,27,28,3,Bontea     
+Spring,SC212,C,4,MWF,10:00am-10:50am,Introduction to Statistics and Data Science,"Q,W2", ,DAVI 201,28,28,2,Wieczorek  
+Spring,SC212,D,4,MWF,11:00am-11:50am,Introduction to Statistics and Data Science,"Q,W2", ,MUDD 405,27,28,2,Scott      
+Spring,SC212 L,A,,W, 1:00pm- 1:50pm,Lab: Intro Stats/Data Sci,, ,DAVI 308,27,28, ,Wieczorek  
+Spring,SC212 L,B,,W, 2:00pm- 2:50pm,Lab: Intro Stats/Data Sci,, ,DAVI 308,24,28, ,Scott      
+Spring,SC212 L,C,,R,10:00am-10:50am,Lab: Intro Stats/Data Sci,, ,DAVI 308,23,28, ,Bontea     
+Spring,SC212 L,D,,R, 1:00pm- 1:50pm,Lab: Intro Stats/Data Sci,, ,DAVI 308,29,28, ,Bontea     
+Spring,SC306,A,4,MWF,12:00n -12:50pm,Topics in Epidemiology,, ,MUDD 405,29,28,5,Scott      
+Spring,SC321,A,4,MWF,12:00n -12:50pm,Statistical Modeling,, ,DAVI 308,22,28,0,Wieczorek  
+Spring,SC398,A,4,MWF,10:00am-10:50am,Applied Longitudinal Analysis,, ,DAVI 217,10,28,0,O'Brien    
+Spring,SC482,A,4,MWF, 9:00am- 9:50am,Topics in Statistical Inference,, ,DAVI 201,16,20,10,O'Brien    
+Spring,SO131,A,4,TR,11:00am-12:15pm,Introduction to Sociology,S,U ,LOVE 100,34,35,7,Mayrl      
+Spring,SO131,B,4,TR, 2:30pm- 3:45pm,Introduction to Sociology,S,U ,LOVE 100,33,35,7,Mayrl      
+Spring,SO213,A,4,TR,11:00am-12:15pm,Schools and Society (See ED213),,U , ,0, , ,Howard     
+Spring,SO238,A,4,TR, 9:30am-10:45am,"State, Society, and Politics",S, ,DIAM 221,16,20,0,Mayrl      
+Spring,SO266,A,4,MW, 1:00pm- 2:15pm,"Gender, Work, and Family",S, ,DIAM 221,15,20,4,Kesler     
+Spring,SO268,A,4,MW, 2:30pm- 3:45pm,Social Policy and Inequality,S, ,DIAM 221,10,20,8,Kesler     
+Spring,SO271,A,4,MW,11:00am-12:15pm,Introduction to Sociological Research Methods,Q, ,DIAM 223,19,18,0,Kesler     
+Spring,SO322,A,4,M, 1:00pm- 3:30pm,Social Class and Schooling (See ED322),,U , ,0, , ,Howard     
+Spring,SO357,A,4,T, 7:00pm- 9:30pm,"Civil Rights, Black Power, and Social Change",S,U ,DIAM 243,23,20,2,Gilkes     
+Spring,SO364,A,4,MW,11:00am-12:15pm,Policing the American City,S, ,DIAM 221,14,20,1,Gross      
+Spring,SO366,A,4,MW, 1:00pm- 2:15pm,American Class Structure,S, ,DIAM 243,4,20,0,Gross      
+Spring,SP126,A,4,MTWR, 8:00am- 8:50am,Elementary Spanish II,, ,LOVE 215,14,18,9,Bernal     
+Spring,SP126,B,4,MTWR, 9:00am- 9:50am,Elementary Spanish II,, ,LOVE 202,18,18,9,Mercado    
+Spring,SP126,C,4,MTWR,10:00am-10:50am,Elementary Spanish II,, ,LOVE 202,16,18,9,Bernal     
+Spring,SP126,D,4,MTWR,11:00am-11:50am,Elementary Spanish II,, ,LOVE 202,18,18,9,Mayans     
+Spring,SP127,A,4,MTWR, 8:00am- 8:50am,Intermediate Spanish I,, ,LOVE 208,16,18,13,Mayans     
+Spring,SP127,B,4,MTWR, 9:00am- 9:50am,Intermediate Spanish I,, ,LOVE 208,18,18,13,Mayans     
+Spring,SP127,C,4,MTWR,10:00am-10:50am,Intermediate Spanish I,, ,LOVE 211,18,18,13,"Martinez,M "
+Spring,SP127,D1,4,MTWR,11:00am-11:50am,Intermediate Spanish I,, ,LOVE 211,17,18,13,Savo       
+Spring,SP127,D2,4,MTWR,11:00am-11:50am,Intermediate Spanish I,, ,LOVE 212,16,18,13,Bernal     
+Spring,SP128,A,4,MW,11:00am-12:15pm,Intermediate Spanish II,, ,LOVE 301,12,15,0,"White, B   "
+Spring,SP128,B,4,TR, 9:30am-10:45am,Intermediate Spanish II,, ,LOVE 318,9,15,0,"White, B   "
+Spring,SP131,A,4,MW, 1:00pm- 2:15pm,Conversation and Composition,, ,LOVE 211,11,15,0,Mercado    
+Spring,SP135,A,4,TR, 9:30am-10:45am,Introduction to Literary Analysis,L, ,LOVE 301,12,15,0,Millones   
+Spring,SP135,B,4,TR,11:00am-12:15pm,Introduction to Literary Analysis,L, ,LOVE 301,12,15,0,Millones   
+Spring,SP135,C,4,TR, 1:00pm- 2:15pm,Introduction to Literary Analysis,L, ,LOVE 302,10,15,0,Bollo      
+Spring,SP231,A,4,MTWR,10:00am-10:50am,Advanced Spanish,, ,LOVE 302,8,15,8,Bollo      
+Spring,SP234,A,4,MW, 1:00pm- 2:15pm,Diversity and Racism in Contemporary Spain,,I ,LOVE 301,14,15,0,Allbritton 
+Spring,SP298,A,4,MW, 2:30pm- 3:45pm,Latin American Theatre,A,I ,LOVE 301,11,15,0,"White, B   "
+Spring,SP298B,A,1,T, 7:00pm- 8:30pm,"Baila: Latin Dance, History, Culture, and Performance (See LA298)",, , ,0, , ,Bernal     
+Spring,SP398A,A,4,TR, 1:00pm- 2:15pm,"Imaginary Lines: Immigration, Borders, Movement",L,U ,LOVE 301,17,15,0,"Martinez,M "
+Spring,SP398B,A,4,TR, 2:30pm- 3:45pm,In the Shadow of Medieval Spain,L,I ,LOVE 301,9,15,0,Savo       
+Spring,ST114,A,4,MW, 2:30pm- 3:45pm,Introduction to Medicine and Society,H, ,OLIN 001,37,30,0,"Jiang, L   "
+Spring,ST115,A,4,WF, 1:00pm- 2:15pm,English Composition: Critical Inquiries into Medical Ethics (See EN115C),W1, , ,0, , ,Sibara     
+Spring,ST120A,A,4,MWF, 9:00am- 9:50am,Information Before and After Google: Impacts and Technologies,W1, ,DIAM 242,16,16, ,Kugelmeyer 
+Spring,ST132,A,1,M, 7:00pm- 8:15pm,The Presence of the Past,, ,LOVE 100,19,99, ,"Cook, M    Jiang, L    Walker     vanderMeer "
+Spring,ST213,A,4,MW, 1:00pm- 2:15pm,Introduction to Computer Music (See MU213),A, , ,0, , ,Hallstrom  
+Spring,ST233,A,4,MWF, 1:00pm- 1:50pm,Biological Basis of Behavior (See PS233),, , ,0, , ,Glenn      
+Spring,ST235,A,4,M, 1:00pm- 3:30pm,Digital Projects in History,H, ,MILL 205,11,16,4,Fleming    
+Spring,ST244,A,4,WF, 1:00pm- 2:15pm,Moving Images: Magic Lanterns to Virtual Reality (See AR244),A, , ,0, , ,Sperling   
+Spring,ST246,A,4,TR, 9:30am-10:45am,Luddite Rantings: A Historical Critique of Big Technology (See HI246),H,U , ,0, ,0,Josephson  
+Spring,ST257,A,4,MW, 1:00pm- 2:15pm,Science Fictions (See EN247),L, , ,0, , ,Ardam      
+Spring,ST298,A,4,TR, 1:00pm- 2:15pm,Seafood Forensics: Uncovering Fraud in Ocean Food Systems (See ES298),, , ,0, , ,Rasher     
+Spring,ST317,A,4,T, 7:00pm-10:00pm,Philosophy of Science (See PL317),, , ,0, , ,Cohen      
+Spring,ST341,A,4,W, 1:00pm- 3:30pm,"Culture, Mobility, Identity: Encounters in the African Diaspora (See AY341)",S,I , ,0, , ,Bhimull    
+Spring,ST486,A,4,T, 1:00pm- 3:30pm,Senior Project: The Craft of Research,, ,DIAM 242,4,16,0,Fleming    
+Spring,TD116B,A,2,TR,11:00am-12:30pm,Ballet Forms Technique Lab: Intermediate,, ,RUNN 201,5,15,0,Anspaugh   
+Spring,TD117A,A,2,MW,11:00am-12:30pm,Contemporary Dance Technique Lab: Beginning/Partnering,, ,RUNN 201,4,15,0,Kloppenbrg 
+Spring,TD117B,A,2,MW, 1:00pm- 2:15pm,Contemporary Dance Technique Lab: Intermediate,, ,RUNN 201,5,15,0,Anspaugh   
+Spring,TD118,A,2,TR, 2:30pm- 4:00pm,Dance Technique Lab: Dance Forms of the African Diaspora: Hip-hop,, ,RUNN 201,15,18,0,Akuchu     
+Spring,TD135,A,4,TR,11:00am-12:15pm,Introduction to Design,A, ,RUNN 203,16,16,6,Thurston   
+Spring,TD139,A,4,M, 1:00pm- 4:00pm,Stagecraft I,A, ,RUNN SHOP,4,4,0,Ervin      
+Spring,TD139,B,4,T, 1:00pm- 4:00pm,Stagecraft I,A, ,RUNN SHOP,4,4,0,Ervin      
+Spring,TD139,C,4,R, 1:00pm- 4:00pm,Stagecraft I,A, ,RUNN SHOP,4,4,0,Ervin      
+Spring,TD164,A,1,,TBA,Applied Performance/Production,, ,RUNN THTR,15,25, ,Kloppenbrg 
+Spring,TD223,A,4,TR, 8:00am- 9:30am,Critical Race Feminisms and Tap Dance (See WG223),A,U , ,0, , ,"Thomas, S  "
+Spring,TD223,A,4,TR, 9:45am-10:45am,Critical Race Feminisms and Tap Dance (See WG223),A,U , ,0, , ,"Thomas, S  "
+Spring,TD226,A,4,MW,11:00am-12:15pm,Performance History II,L, ,RUNN 110,10,15,1,Oldham     
+Spring,TD239,A,4,W, 1:00pm- 4:00pm,Stagecraft II,, ,RUNN SHOP,0,4,0,Ervin      
+Spring,TD241,A,4,TR, 2:45pm- 4:00pm,Playwriting Workshop: Ensemble Playwriting,A, ,RUNN 110,6,12,0,Oldham     
+Spring,TD262,A,4,MW, 2:30pm- 4:00pm,Topics in Dance: Collaborative Company,, ,RUNN 201,6,12,0,Anspaugh   
+Spring,TD264C,A,2,,TBA,Applied Performance/Production: Spring Production,, , ,5,25, ,Akuchu     
+Spring,TD264G,A,2,MTWR,TBA,Applied Performance/Production: Performance Technology Incubator,, , ,12,25, ,Thurston   
+Spring,TD268,A,4,MWF, 9:00am- 9:50am,Design Thinking Studio: Performative Sculpture (See AR268),A, , ,0, , ,Borthwick   Thurston   
+Spring,TD268,A,4,F,10:00am-12:00n ,Design Thinking Studio: Performative Sculpture (See AR268),A, , ,0, , ,Borthwick   Thurston   
+Spring,TD271,A,4,TR, 1:00pm- 2:40pm,Acting II,, ,RUNN SMIT,6,12,0,Weinblatt  
+Spring,TD281,A,4,TR, 9:00am-10:50am,Directing,, ,RUNN SMIT,10,12,0,Weinblatt  
+Spring,TD298,A,1,T, 7:00pm- 8:30pm,"Baila: Latin Dance, History, Culture, and Performance (See LA298)",, , ,0, , ,Bernal     
+Spring,TD339,A,4,F, 1:00pm- 4:00pm,Stagecraft III,, ,RUNN SHOP,1,4,0,Ervin      
+Spring,TD398,A,4,MW, 2:30pm- 3:45pm,"Sex, Power, and Performance: Restoration Drama (See EN398B)",L, , ,0, , ,"Reed, J    "
+Spring,TD493,A,4,W, 7:00pm- 9:30pm,Senior Seminar,, ,RUNN 110,4,10,0,Oldham     
+Spring,WG201,A,4,TR, 1:00pm- 2:15pm,"Introduction to Women's, Gender, and Sexuality Studies",,U ,MILL 319,19,20,7,Fugikawa   
+Spring,WG223,A,4,TR, 9:30am-10:45am,Critical Race Feminisms and Tap Dance,A,U ,RUNN 201,12,25,8,"Thomas, S  "
+Spring,WG232,A,4,MW,11:00am-12:15pm,Queer Identities and Politics,,U ,LOVE 319,15,25,0,Arellano   
+Spring,WG317,A,4,TR, 1:00pm- 2:15pm,Boys to Men,,U ,DIAM 123,21,20,0,Tappan     
+Spring,WG341,A,4,T, 1:00pm- 3:30pm,Gender and Human Rights,S,I ,MILL 241,11,15,0,"Thomas, S  "
+Spring,WG493,A,4,W, 1:00pm- 3:30pm,"Seminar: Identity Formation, Social Movement, and Gender",, ,MILL 241,6,15,0,Arellano   
+Spring,WP112,A,1,,TBA,Writers' Workshop,, , ,28,25, ,Harrington Sheriff     
+Spring,WP115C,A,4,TR, 9:30am-10:45am,First-Year Writing: Reimagining  the Essay,W1, ,LOVE 319,16,16, ,Ketner     
+Spring,WP115D,A,4,MWF, 9:00am- 9:50am,First-Year Writing: Food for Thought,W1, ,MILL 319,16,16, ,Stokes     
+Spring,WP115D,B,4,MWF,10:00am-10:50am,First-Year Writing: Food for Thought,W1, ,MILL 319,16,16, ,Stokes     
+Spring,WP115H,A,4,MW, 1:00pm- 2:15pm,First-Year Writing: Writing about Writing,W1, ,LOVE 102,10,16, ,Hancock    
+Spring,WP115J,A,4,MW, 1:00pm- 2:15pm,First-Year Writing: Creative Non-Fiction,W1, ,LOVE 103,10,16, ,Megan      
+Spring,WP120A,A,4,TR, 1:00pm- 2:15pm,"Language, Thought, and Writing: Literary Conversations",W1, ,LOVE 102,15,16, ,Ketner     
+Spring,WP214,A,4,TR, 1:00pm- 2:15pm,Tutoring Writing in Theory and Practice (See EN214),, , ,0, , ,Harrington 
+Spring,WP310,A,4,MWF,10:00am-10:50am,Professional Writing,W2,U ,LOVE 208,9,16,0,Hancock    
